@@ -1,0 +1,137 @@
+{
+ "ids": [
+  "Q0091",
+  "Q0092",
+  "Q0093",
+  "Q0094",
+  "Q0095",
+  "Q0096",
+  "Q0097",
+  "Q0098",
+  "Q0099",
+  "Q0100"
+ ],
+ "itens": [
+  {
+   "id": "Q0091",
+   "fora": false,
+   "tema_central_id": 5201,
+   "extras_ids": [
+    4703
+   ],
+   "alternativa_tema_id": 4703,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda diretamente regras de progressão de regime e penas privativas de liberdade."
+  },
+  {
+   "id": "Q0092",
+   "fora": false,
+   "tema_central_id": 5481,
+   "extras_ids": [
+    5509
+   ],
+   "alternativa_tema_id": 5485,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Trata dos efeitos da incompetência do juízo e da ilegitimidade sobre os atos processuais penais."
+  },
+  {
+   "id": "Q0093",
+   "fora": false,
+   "tema_central_id": 5223,
+   "extras_ids": [
+    5142
+   ],
+   "alternativa_tema_id": 5142,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "Analisa a posição de garantidor do salva-vidas e a tipicidade da omissão nos crimes comissivos por omissão."
+  },
+  {
+   "id": "Q0094",
+   "fora": false,
+   "tema_central_id": 4377,
+   "extras_ids": [
+    4368
+   ],
+   "alternativa_tema_id": 4368,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A utilização de roupas de presídio remete diretamente aos processos de criminalização e ao labelling approach."
+  },
+  {
+   "id": "Q0095",
+   "fora": false,
+   "tema_central_id": 5191,
+   "extras_ids": [
+    5197
+   ],
+   "alternativa_tema_id": 5197,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "Aborda a aplicação do instituto do perdão judicial nos crimes culposos."
+  },
+  {
+   "id": "Q0096",
+   "fora": false,
+   "tema_central_id": 5486,
+   "extras_ids": [
+    5481
+   ],
+   "alternativa_tema_id": 5481,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Discute a derrogação e prorrogação da competência territorial no processo penal."
+  },
+  {
+   "id": "Q0097",
+   "fora": false,
+   "tema_central_id": 4705,
+   "extras_ids": [
+    4708,
+    4702
+   ],
+   "alternativa_tema_id": 4708,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Envolve crimes de organização criminosa, tráfico de drogas e lavagem de dinheiro conforme jurisprudência do STJ."
+  },
+  {
+   "id": "Q0098",
+   "fora": false,
+   "tema_central_id": 5543,
+   "extras_ids": [
+    5548
+   ],
+   "alternativa_tema_id": 5548,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Conceitua a confissão qualificada no âmbito da teoria geral e especial das provas."
+  },
+  {
+   "id": "Q0099",
+   "fora": false,
+   "tema_central_id": 5100,
+   "extras_ids": [
+    5231
+   ],
+   "alternativa_tema_id": 5231,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Analisa o crime de resistência em face da atuação regular de agentes públicos amparados por excludente."
+  },
+  {
+   "id": "Q0100",
+   "fora": false,
+   "tema_central_id": 5103,
+   "extras_ids": [
+    5224
+   ],
+   "alternativa_tema_id": 5224,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Trata do crime de estupro de vulnerável e a tese de erro de tipo sobre a idade da vítima."
+  }
+ ]
+}

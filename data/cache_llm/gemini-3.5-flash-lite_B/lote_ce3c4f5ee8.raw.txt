@@ -1,0 +1,115 @@
+{
+  "questoes": [
+    {
+      "id": "Q0101",
+      "fora": false,
+      "tema_central_id": 4704,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda a competência dos Juizados de Violência Doméstica e Familiar contra a Mulher para processar e julgar ações de divórcio, conforme a Lei Maria da Penha e jurisprudência do STJ."
+    },
+    {
+      "id": "Q0102",
+      "fora": false,
+      "tema_central_id": 5577,
+      "extras_ids": [
+        5209,
+        5575
+      ],
+      "alternativa_tema_id": 5209,
+      "duvida_subtemas": false,
+      "confianca": 0.90,
+      "motivo": "O tema central da questão gira em torno dos efeitos da sentença penal condenatória, especialmente a reparação civil e a perda de bens ou função pública."
+    },
+    {
+      "id": "Q0103",
+      "fora": false,
+      "tema_central_id": 5478,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.99,
+      "motivo": "A questão trata diretamente do conceito, finalidade e cabimento da revisão criminal no processo penal."
+    },
+    {
+      "id": "Q0104",
+      "fora": false,
+      "tema_central_id": 5498,
+      "extras_ids": [
+        5477
+      ],
+      "alternativa_tema_id": 5477,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda a instauração e o andamento do inquérito policial e a figura do delegado como autoridade coatora em habeas corpus."
+    },
+    {
+      "id": "Q0105",
+      "fora": false,
+      "tema_central_id": 4385,
+      "extras_ids": [
+        4388
+      ],
+      "alternativa_tema_id": 4388,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão analisa teorias sociológicas da criminalidade, especificamente a criminologia cultural e o paradigma do etiquetamento social."
+    },
+    {
+      "id": "Q0106",
+      "fora": false,
+      "tema_central_id": 5166,
+      "extras_ids": [],
+      "alternativa_tema_id": 5157,
+      "duvida_subtemas": false,
+      "confianca": 0.90,
+      "motivo": "O famoso golpe do 'pendura' praticado em restaurantes sem intenção ou recursos de pagamento configura o crime de estelionato."
+    },
+    {
+      "id": "Q0107",
+      "fora": false,
+      "tema_central_id": 5116,
+      "extras_ids": [
+        5117
+      ],
+      "alternativa_tema_id": 5117,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A conduta de atribuir-se falsa identidade perante autoridade policial para ocultar antecedentes é tema clássico dos crimes contra a fé pública."
+    },
+    {
+      "id": "Q0108",
+      "fora": false,
+      "tema_central_id": 5561,
+      "extras_ids": [],
+      "alternativa_tema_id": 5560,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "O recurso cabível contra decisão interlocutória que indefere o pedido de reconhecimento de prescrição em regra é o recurso em sentido estrito (RESE)."
+    },
+    {
+      "id": "Q0109",
+      "fora": false,
+      "tema_central_id": 4708,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.99,
+      "motivo": "A questão descreve exatamente a conduta prevista no parágrafo 3º do artigo 28 da Lei de Drogas (fumar/oferecer droga para consumo compartilhado eventual)."
+    },
+    {
+      "id": "Q0110",
+      "fora": false,
+      "tema_central_id": 5480,
+      "extras_ids": [
+        5481
+      ],
+      "alternativa_tema_id": 5481,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão examina regras de competência em matéria processual penal, fixação de foro e competência especial."
+    }
+  ]
+}

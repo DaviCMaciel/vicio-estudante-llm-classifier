@@ -1,0 +1,114 @@
+{
+  "questoes": [
+    {
+      "id": "Q0141",
+      "fora": false,
+      "tema_central_id": 4388,
+      "extras_ids": [
+        4385
+      ],
+      "alternativa_tema_id": 4385,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda a Teoria Ecológica da Escola de Chicago, que explica o efeito criminógeno do ambiente urbano."
+    },
+    {
+      "id": "Q0142",
+      "fora": true,
+      "tema_central_id": 0,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 1.0,
+      "motivo": "A questão trata de Direito Tributário (ITCD), matéria que não pertence ao escopo de Direito Penal, Processo Penal ou Criminologia."
+    },
+    {
+      "id": "Q0143",
+      "fora": false,
+      "tema_central_id": 5507,
+      "extras_ids": [
+        5505
+      ],
+      "alternativa_tema_id": 5505,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "O enunciado aborda a aplicação da lei processual penal no tempo sob a ótica do tempus regit actum."
+    },
+    {
+      "id": "Q0144",
+      "fora": false,
+      "tema_central_id": 5562,
+      "extras_ids": [
+        5524
+      ],
+      "alternativa_tema_id": 5524,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A apelação das decisões do Tribunal do Júri é o recurso cabível quando a decisão dos jurados for manifestamente contrária à prova dos autos ou houver erro na aplicação da lei."
+    },
+    {
+      "id": "Q0145",
+      "fora": false,
+      "tema_central_id": 4702,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão analisa os aspectos legais e doutrinários do crime de lavagem de dinheiro (Lei nº 9.613/98)."
+    },
+    {
+      "id": "Q0146",
+      "fora": false,
+      "tema_central_id": 5594,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "O tema central da questão é a prova ilícita e suas exceções no processo penal brasileiro."
+    },
+    {
+      "id": "Q0147",
+      "fora": false,
+      "tema_central_id": 5498,
+      "extras_ids": [
+        5502
+      ],
+      "alternativa_tema_id": 5502,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda regras gerais relativas ao inquérito policial e à investigação preliminar."
+    },
+    {
+      "id": "Q0148",
+      "fora": false,
+      "tema_central_id": 5203,
+      "extras_ids": [
+        5202
+      ],
+      "alternativa_tema_id": 5202,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A dosimetria da pena na segunda fase envolve a compensação entre a agravante da reincidência e a atenuante da confissão espontânea."
+    },
+    {
+      "id": "Q0149",
+      "fora": false,
+      "tema_central_id": 5498,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão cobra regras procedimentais e diligências investigativas do inquérito policial."
+    },
+    {
+      "id": "Q0150",
+      "fora": false,
+      "tema_central_id": 4708,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda a jurisprudência consolidada dos tribunais superiores acerca da Lei de Drogas (Lei nº 11.343/2006)."
+    }
+  ]
+}

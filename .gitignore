@@ -1,0 +1,11 @@
+# Ambiente Virtual e Cache do Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Segurança e Variáveis de Ambiente
+.env
+
+# Arquivos temporários e do SO
+.DS_Store

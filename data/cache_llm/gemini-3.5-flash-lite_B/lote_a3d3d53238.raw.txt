@@ -1,0 +1,118 @@
+{
+  "questoes": [
+    {
+      "id": "Q0111",
+      "fora": false,
+      "tema_central_id": 4373,
+      "extras_ids": [
+        4371
+      ],
+      "alternativa_tema_id": 4371,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda especificamente as características e autores da Escola Positiva da Criminologia."
+    },
+    {
+      "id": "Q0112",
+      "fora": false,
+      "tema_central_id": 4705,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão trata das causas de aumento de pena previstas na Lei de Organizações Criminosas (Lei 12.850/13)."
+    },
+    {
+      "id": "Q0113",
+      "fora": false,
+      "tema_central_id": 5186,
+      "extras_ids": [],
+      "alternativa_tema_id": 5185,
+      "duvida_subtemas": false,
+      "confianca": 0.90,
+      "motivo": "A questão aborda as regras e a aplicação da prescrição penal no âmbito administrativo disciplinar conforme a jurisprudência do STJ."
+    },
+    {
+      "id": "Q0114",
+      "fora": false,
+      "tema_central_id": 5507,
+      "extras_ids": [
+        5505
+      ],
+      "alternativa_tema_id": 5505,
+      "duvida_subtemas": false,
+      "confianca": 0.85,
+      "motivo": "Trata da aplicação da lei processual penal no tempo, especificamente sobre normas processuais mistas e controle de constitucionalidade."
+    },
+    {
+      "id": "Q0115",
+      "fora": false,
+      "tema_central_id": 4386,
+      "extras_ids": [
+        4385
+      ],
+      "alternativa_tema_id": 4385,
+      "duvida_subtemas": true,
+      "confianca": 0.70,
+      "motivo": "O enunciado descreve uma conduta atípica e episódica de um indivíduo comum sob estresse agudo, remetendo a teorias de nível individual na Criminologia."
+    },
+    {
+      "id": "Q0116",
+      "fora": false,
+      "tema_central_id": 4708,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão cobra disposições específicas da Lei de Drogas (Lei 11.343/06)."
+    },
+    {
+      "id": "Q0117",
+      "fora": false,
+      "tema_central_id": 4384,
+      "extras_ids": [
+        5200
+      ],
+      "alternativa_tema_id": 5200,
+      "duvida_subtemas": false,
+      "confianca": 0.90,
+      "motivo": "Explica as teorias legitimadoras da pena, focando na teoria relativa de prevenção especial negativa (neutralização)."
+    },
+    {
+      "id": "Q0118",
+      "fora": false,
+      "tema_central_id": 5507,
+      "extras_ids": [
+        5505
+      ],
+      "alternativa_tema_id": 5505,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Trata da aplicação da lei processual penal no tempo, distinguindo normas puramente processuais de normas processuais materiais (mistas)."
+    },
+    {
+      "id": "Q0119",
+      "fora": false,
+      "tema_central_id": 5194,
+      "extras_ids": [
+        5181
+      ],
+      "alternativa_tema_id": 5181,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Trata dos efeitos da abolitio criminis e do momento limite para a retroatividade da lei penal mais benéfica (trânsito em julgado)."
+    },
+    {
+      "id": "Q0120",
+      "fora": false,
+      "tema_central_id": 5533,
+      "extras_ids": [
+        5547
+      ],
+      "alternativa_tema_id": 5530,
+      "duvida_subtemas": false,
+      "confianca": 0.90,
+      "motivo": "Aborda o momento processual da resposta à acusação e a indicação de provas no procedimento ordinário."
+    }
+  ]
+}

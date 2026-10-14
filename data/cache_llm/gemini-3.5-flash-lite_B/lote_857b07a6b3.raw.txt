@@ -1,0 +1,109 @@
+{
+  "questoes": [
+    {
+      "id": "Q0161",
+      "fora": false,
+      "tema_central_id": 5588,
+      "extras_ids": [
+        5518,
+        5589
+      ],
+      "alternativa_tema_id": 5518,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A ilegalidade da prisão em flagrante por violação de domicílio enseja o seu relaxamento na audiência de custódia."
+    },
+    {
+      "id": "Q0162",
+      "fora": false,
+      "tema_central_id": 4381,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda os conceitos fundamentais de controle social formal e informal na Criminologia."
+    },
+    {
+      "id": "Q0163",
+      "fora": false,
+      "tema_central_id": 4700,
+      "extras_ids": [],
+      "alternativa_tema_id": 4684,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A interceptação de correspondência de preso por diretor de presídio sem autorização judicial configura o crime da Lei de Interceptação Telefônica ou abuso de autoridade conforme o tipo penal específico."
+    },
+    {
+      "id": "Q0164",
+      "fora": false,
+      "tema_central_id": 4703,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão cobra expressamente dispositivos da Lei de Execução Penal (LEP) referentes aos direitos e assistências do preso e do egresso."
+    },
+    {
+      "id": "Q0165",
+      "fora": true,
+      "tema_central_id": 0,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda detalhes específicos da Lei de Organizações Criminosas (Lei 12.850/2013), cuja matéria exata não possui um subtema correspondente na árvore fornecida."
+    },
+    {
+      "id": "Q0166",
+      "fora": false,
+      "tema_central_id": 4703,
+      "extras_ids": [
+        5208
+      ],
+      "alternativa_tema_id": 5208,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A análise de benefícios em sede de execução penal para apenado idoso e reincidente baseia-se na Lei de Execução Penal."
+    },
+    {
+      "id": "Q0167",
+      "fora": true,
+      "tema_central_id": 0,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão cobra o tema de desaforamento no Tribunal do Júri, que não possui um id dedicado na árvore fornecida."
+    },
+    {
+      "id": "Q0168",
+      "fora": true,
+      "tema_central_id": 0,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda crimes previstos na Lei Geral do Esporte (Lei 14.597/2023), tema ausente na árvore fornecida."
+    },
+    {
+      "id": "Q0169",
+      "fora": false,
+      "tema_central_id": 5492,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão versa sobre as regras de impedimento e suspeição do juiz no Código de Processo Penal."
+    },
+    {
+      "id": "Q0170",
+      "fora": false,
+      "tema_central_id": 5171,
+      "extras_ids": [],
+      "alternativa_tema_id": 5200,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A questão aborda o conceito de reincidência e efeitos da condenação, inseridos na teoria geral do direito penal."
+    }
+  ]
+}

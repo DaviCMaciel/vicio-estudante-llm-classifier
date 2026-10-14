@@ -1,0 +1,129 @@
+{
+  "questoes": [
+    {
+      "id": "Q0011",
+      "fora": false,
+      "tema_central_id": 4702,
+      "extras_ids": [
+        484,
+        4708
+      ],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda a competência da Justiça Federal para o julgamento do crime de lavagem de dinheiro decorrente de infração penal de competência federal."
+    },
+    {
+      "id": "Q0012",
+      "fora": false,
+      "tema_central_id": 5569,
+      "extras_ids": [
+        4701,
+        5562
+      ],
+      "alternativa_tema_id": 5562,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Trata do recurso cabível contra decisão de rejeição de denúncia no âmbito dos Juizados Especiais Criminais."
+    },
+    {
+      "id": "Q0013",
+      "fora": false,
+      "tema_central_id": 5503,
+      "extras_ids": [
+        5498
+      ],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão versa diretamente sobre as atribuições e competências legais do Juiz das Garantias."
+    },
+    {
+      "id": "Q0014",
+      "fora": false,
+      "tema_central_id": 5477,
+      "extras_ids": [
+        4709
+      ],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Aborda o cabimento de habeas corpus em face de decisões envolvendo crianças ou adolescentes."
+    },
+    {
+      "id": "Q0015",
+      "fora": false,
+      "tema_central_id": 5498,
+      "extras_ids": [
+        5499
+      ],
+      "alternativa_tema_id": 5499,
+      "duvida_subtemas": true,
+      "confianca": 0.9,
+      "motivo": "Questão geral sobre as regras e institutos aplicáveis ao inquérito policial no Código de Processo Penal."
+    },
+    {
+      "id": "Q0016",
+      "fora": false,
+      "tema_central_id": 5584,
+      "extras_ids": [
+        5503,
+        5518
+      ],
+      "alternativa_tema_id": 5519,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Trata da jurisprudência dos Tribunais Superiores sobre diferentes espécies de prisão cautelar e o juiz das garantias."
+    },
+    {
+      "id": "Q0017",
+      "fora": false,
+      "tema_central_id": 5533,
+      "extras_ids": [
+        5087
+      ],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Cobre o procedimento específico para o processo e julgamento dos crimes de responsabilidade dos funcionários públicos."
+    },
+    {
+      "id": "Q0018",
+      "fora": false,
+      "tema_central_id": 5540,
+      "extras_ids": [
+        4701
+      ],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Discorre sobre as hipóteses de exclusão de competência dos Juizados Especiais Criminais."
+    },
+    {
+      "id": "Q0019",
+      "fora": false,
+      "tema_central_id": 5475,
+      "extras_ids": [
+        5470
+      ],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Trata expressamente da ação civil ex delicto e das relações entre as esferas cível e criminal."
+    },
+    {
+      "id": "Q0020",
+      "fora": false,
+      "tema_central_id": 4709,
+      "extras_ids": [
+        5066,
+        5203,
+        5159
+      ],
+      "alternativa_tema_id": 5066,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "Questão interdisciplinar de direito penal abrangendo dosimetria, concurso de crimes e crimes contra crianças e adolescentes."
+    }
+  ]
+}

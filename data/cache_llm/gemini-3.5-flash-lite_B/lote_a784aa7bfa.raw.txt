@@ -1,0 +1,120 @@
+{
+  "questoes": [
+    {
+      "id": "Q0181",
+      "fora": false,
+      "tema_central_id": 4695,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda diretamente crimes contra a ordem tributária e econômica previstos em legislação especial."
+    },
+    {
+      "id": "Q0182",
+      "fora": false,
+      "tema_central_id": 5149,
+      "extras_ids": [
+        5138,
+        5120
+      ],
+      "alternativa_tema_id": 5150,
+      "duvida_subtemas": true,
+      "confianca": 0.85,
+      "motivo": "A questão aborda múltiplos crimes contra a pessoa, com destaque inicial para o aborto e crimes contra a vida."
+    },
+    {
+      "id": "Q0183",
+      "fora": false,
+      "tema_central_id": 5561,
+      "extras_ids": [
+        5185
+      ],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Trata do cabimento e prazo de Recurso em Sentido Estrito (RESE) contra decisão em matéria penal/processual penal."
+    },
+    {
+      "id": "Q0184",
+      "fora": false,
+      "tema_central_id": 4708,
+      "extras_ids": [
+        5518
+      ],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão cobra prazos e regras procedimentais específicos da Lei de Drogas (Lei 11.343/2006)."
+    },
+    {
+      "id": "Q0185",
+      "fora": false,
+      "tema_central_id": 4703,
+      "extras_ids": [],
+      "alternativa_tema_id": 5566,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "O tema central envolve a Lei de Execução Penal, especificamente falta grave, regressão de regime e competência do juízo da execução."
+    },
+    {
+      "id": "Q0186",
+      "fora": false,
+      "tema_central_id": 5202,
+      "extras_ids": [],
+      "alternativa_tema_id": 5203,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Trata da primeira fase da dosimetria da pena (circunstâncias judiciais), focando no conceito de antecedentes."
+    },
+    {
+      "id": "Q0187",
+      "fora": false,
+      "tema_central_id": 5209,
+      "extras_ids": [
+        5092
+      ],
+      "alternativa_tema_id": 5200,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A questão aborda os efeitos da condenação penal e perdimento/confisco de bens previstos na Parte Geral do Código Penal."
+    },
+    {
+      "id": "Q0188",
+      "fora": false,
+      "tema_central_id": 5231,
+      "extras_ids": [
+        5228
+      ],
+      "alternativa_tema_id": 5229,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "O ofendículo caracteriza a legítima defesa pré-ordenada, causa de exclusão da ilicitude."
+    },
+    {
+      "id": "Q0189",
+      "fora": false,
+      "tema_central_id": 5472,
+      "extras_ids": [
+        5469
+      ],
+      "alternativa_tema_id": 5467,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Aborda os princípios e regras da ação penal de iniciativa privada, especificamente a renúncia e a perempção/desistência."
+    },
+    {
+      "id": "Q0190",
+      "fora": false,
+      "tema_central_id": 5539,
+      "extras_ids": [
+        5541,
+        5542
+      ],
+      "alternativa_tema_id": 5540,
+      "duvida_subtemas": true,
+      "confianca": 0.9,
+      "motivo": "A questão cobra regras gerais e institutos dos Juizados Especiais Criminais (JECRIM)."
+    }
+  ]
+}

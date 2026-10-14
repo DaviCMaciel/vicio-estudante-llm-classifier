@@ -1,0 +1,104 @@
+{
+  "questoes": [
+    {
+      "id": "Q0051",
+      "fora": false,
+      "tema_central_id": 5182,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda a aplicação da lei penal brasileira no espaço e o princípio da extraterritorialidade."
+    },
+    {
+      "id": "Q0052",
+      "fora": false,
+      "tema_central_id": 4703,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão versa sobre regras de remição de pena pelo trabalho e estudo na Lei de Execução Penal."
+    },
+    {
+      "id": "Q0053",
+      "fora": false,
+      "tema_central_id": 5541,
+      "extras_ids": [4701],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "O comando e o enunciado tratam especificamente da natureza jurídica da transação penal nos Juizados Especiais Criminais."
+    },
+    {
+      "id": "Q0054",
+      "fora": false,
+      "tema_central_id": 5174,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão exige o conhecimento das classificações doutrinárias dos crimes (mera atividade, lesão, plurissubjetivo e pluriofensivo)."
+    },
+    {
+      "id": "Q0055",
+      "fora": false,
+      "tema_central_id": 5550,
+      "extras_ids": [],
+      "alternativa_tema_id": 5535,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "Trata da oitiva de testemunhas e da ordem de inquirição na audiência de instrução segundo o Código de Processo Penal."
+    },
+    {
+      "id": "Q0056",
+      "fora": false,
+      "tema_central_id": 5066,
+      "extras_ids": [],
+      "alternativa_tema_id": 5200,
+      "duvida_subtemas": true,
+      "confianca": 0.85,
+      "motivo": "O tema central é concurso de crimes e os critérios de aplicação da pena na pluralidade delitiva."
+    },
+    {
+      "id": "Q0057",
+      "fora": false,
+      "tema_central_id": 5176,
+      "extras_ids": [5175],
+      "alternativa_tema_id": 5175,
+      "duvida_subtemas": true,
+      "confianca": 0.95,
+      "motivo": "Define o conceito de iter criminis e suas fases."
+    },
+    {
+      "id": "Q0058",
+      "fora": false,
+      "tema_central_id": 4385,
+      "extras_ids": [4377],
+      "alternativa_tema_id": 4378,
+      "duvida_subtemas": true,
+      "confianca": 0.85,
+      "motivo": "Aborda teorias sociológicas da criminalidade e a seletividade do sistema penal na Criminologia."
+    },
+    {
+      "id": "Q0059",
+      "fora": false,
+      "tema_central_id": 4380,
+      "extras_ids": [],
+      "alternativa_tema_id": 4703,
+      "duvida_subtemas": false,
+      "confianca": 0.85,
+      "motivo": "Cobre o pensamento criminológico crítico de Alessandro Baratta sobre o cárcere."
+    },
+    {
+      "id": "Q0060",
+      "fora": false,
+      "tema_central_id": 5087,
+      "extras_ids": [5094, 5097, 5096],
+      "alternativa_tema_id": 5088,
+      "duvida_subtemas": true,
+      "confianca": 0.95,
+      "motivo": "Questão geral sobre os crimes contra a administração pública praticados por funcionário público e particulares."
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "questoes": [
+    {
+      "id": "Q0001",
+      "fora": false,
+      "tema_central_id": 5524,
+      "extras_ids": [
+        5527,
+        5561
+      ],
+      "alternativa_tema_id": 5561,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda regras gerais e procedimentos do Tribunal do Júri, como desaforamento, impronúncia e absolvição sumária."
+    },
+    {
+      "id": "Q0002",
+      "fora": false,
+      "tema_central_id": 4377,
+      "extras_ids": [
+        4385
+      ],
+      "alternativa_tema_id": 4385,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A questão trata da seletividade do sistema penal e processos de criminalização abordados pela criminologia crítica."
+    },
+    {
+      "id": "Q0003",
+      "fora": false,
+      "tema_central_id": 5534,
+      "extras_ids": [
+        5562,
+        5475
+      ],
+      "alternativa_tema_id": 5562,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda a absolvição sumária no procedimento ordinário e o recurso cabível contra essa decisão."
+    },
+    {
+      "id": "Q0004",
+      "fora": false,
+      "tema_central_id": 5484,
+      "extras_ids": [
+        5481
+      ],
+      "alternativa_tema_id": 5481,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão versa sobre competência penal por prerrogativa de função para prefeitos municipais."
+    },
+    {
+      "id": "Q0005",
+      "fora": false,
+      "tema_central_id": 5203,
+      "extras_ids": [
+        5201,
+        5185
+      ],
+      "alternativa_tema_id": 5201,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão envolve o cálculo do período depurador para fins de reincidência na dosimetria da pena."
+    },
+    {
+      "id": "Q0006",
+      "fora": false,
+      "tema_central_id": 5159,
+      "extras_ids": [
+        5160,
+        5175
+      ],
+      "alternativa_tema_id": 5160,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A questão aborda a consumação do furto, distinção entre furto e roubo, e tentativa no roubo impróprio."
+    },
+    {
+      "id": "Q0007",
+      "fora": false,
+      "tema_central_id": 5064,
+      "extras_ids": [
+        5130,
+        4704
+      ],
+      "alternativa_tema_id": 5471,
+      "duvida_subtemas": true,
+      "confianca": 0.85,
+      "motivo": "A questão examina a modalidade de ação penal aplicável aos crimes de ameaça, injúria e perseguição."
+    },
+    {
+      "id": "Q0008",
+      "fora": false,
+      "tema_central_id": 5087,
+      "extras_ids": [
+        5200
+      ],
+      "alternativa_tema_id": 5200,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão trata de regra aplicável aos crimes contra a administração pública relacionada à reparação do dano."
+    },
+    {
+      "id": "Q0009",
+      "fora": false,
+      "tema_central_id": 5158,
+      "extras_ids": [
+        5159
+      ],
+      "alternativa_tema_id": 5159,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão versa sobre as imunidades penais absolutas (excetuabilidade) nos crimes contra o patrimônio cometidos contra ascendente."
+    },
+    {
+      "id": "Q0010",
+      "fora": false,
+      "tema_central_id": 4688,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda jurisprudência consolidada dos tribunais superiores relativa aos crimes contra o meio ambiente."
+    }
+  ]
+}

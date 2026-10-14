@@ -1,0 +1,136 @@
+{
+ "ids": [
+  "Q0031",
+  "Q0032",
+  "Q0033",
+  "Q0034",
+  "Q0035",
+  "Q0036",
+  "Q0037",
+  "Q0038",
+  "Q0039",
+  "Q0040"
+ ],
+ "itens": [
+  {
+   "id": "Q0031",
+   "fora": false,
+   "tema_central_id": 4388,
+   "extras_ids": [
+    4385
+   ],
+   "alternativa_tema_id": 4385,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda a teoria da anomia, que é uma das teorias criminológicas explicativas em espécie."
+  },
+  {
+   "id": "Q0032",
+   "fora": false,
+   "tema_central_id": 5497,
+   "extras_ids": [
+    5498
+   ],
+   "alternativa_tema_id": 5498,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O tema refere-se ao incidente de insanidade mental no âmbito do processo penal e da investigação."
+  },
+  {
+   "id": "Q0033",
+   "fora": false,
+   "tema_central_id": 5519,
+   "extras_ids": [
+    5584
+   ],
+   "alternativa_tema_id": 5584,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão trata especificamente dos requisitos e hipóteses de cabimento da prisão preventiva."
+  },
+  {
+   "id": "Q0034",
+   "fora": false,
+   "tema_central_id": 5477,
+   "extras_ids": [
+    5594
+   ],
+   "alternativa_tema_id": 5476,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Trata do cabimento da ação autônoma de impugnação do habeas corpus."
+  },
+  {
+   "id": "Q0035",
+   "fora": false,
+   "tema_central_id": 4706,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.98,
+   "motivo": "A questão cobra o entendimento e os dispositivos da Lei Antiterrorismo (Lei nº 13.260/2016)."
+  },
+  {
+   "id": "Q0036",
+   "fora": false,
+   "tema_central_id": 4704,
+   "extras_ids": [
+    5471
+   ],
+   "alternativa_tema_id": 5471,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão discute a aplicação da audiência do artigo 16 da Lei Maria da Penha em crime de lesão corporal leve."
+  },
+  {
+   "id": "Q0037",
+   "fora": false,
+   "tema_central_id": 5132,
+   "extras_ids": [
+    5081,
+    5116
+   ],
+   "alternativa_tema_id": 5116,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Aborda crimes contra a liberdade pessoal (redução a condição análoga à de escravo) e falsidade documental."
+  },
+  {
+   "id": "Q0038",
+   "fora": false,
+   "tema_central_id": 5583,
+   "extras_ids": [
+    5466
+   ],
+   "alternativa_tema_id": 5466,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "Trata das prerrogativas do ofendido e sua atuação como sujeito do processo penal."
+  },
+  {
+   "id": "Q0039",
+   "fora": false,
+   "tema_central_id": 4687,
+   "extras_ids": [
+    4695
+   ],
+   "alternativa_tema_id": 4695,
+   "duvida_subtemas": false,
+   "confianca": 0.85,
+   "motivo": "A conduta de ajuste artificial de preços de GLP caracteriza infrações contra a ordem econômica ou relações de consumo/economia popular."
+  },
+  {
+   "id": "Q0040",
+   "fora": false,
+   "tema_central_id": 5562,
+   "extras_ids": [
+    5524,
+    5515
+   ],
+   "alternativa_tema_id": 5515,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "Discute o efeito suspensivo e as regras do recurso de apelação contra sentenças do Tribunal do Júri."
+  }
+ ]
+}

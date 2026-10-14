@@ -1,0 +1,116 @@
+{
+  "questoes": [
+    {
+      "id": "Q0081",
+      "fora": false,
+      "tema_central_id": 4373,
+      "extras_ids": [
+        4371
+      ],
+      "alternativa_tema_id": 4371,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda diretamente as escolas criminológicas clássica, positivista e crítica."
+    },
+    {
+      "id": "Q0082",
+      "fora": false,
+      "tema_central_id": 5100,
+      "extras_ids": [
+        4704
+      ],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "O ato de opor-se à execução de ato legal mediante violência ou ameaça a funcionário público configura o crime de resistência."
+    },
+    {
+      "id": "Q0083",
+      "fora": false,
+      "tema_central_id": 5150,
+      "extras_ids": [
+        5084
+      ],
+      "alternativa_tema_id": 5084,
+      "duvida_subtemas": false,
+      "confianca": 0.90,
+      "motivo": "Configura-se homicídio único consumado (por erro sobre o meio ou aberratio ictus/causalidade em dolo geral) e ocultação de cadáver."
+    },
+    {
+      "id": "Q0084",
+      "fora": false,
+      "tema_central_id": 4704,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda os direitos assistenciais e garantias à mulher previstos na Lei Maria da Penha."
+    },
+    {
+      "id": "Q0085",
+      "fora": false,
+      "tema_central_id": 5076,
+      "extras_ids": [
+        5091
+      ],
+      "alternativa_tema_id": 5091,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Trata da comunicabilidade de circunstâncias e elementares de caráter pessoal no concurso de pessoas."
+    },
+    {
+      "id": "Q0086",
+      "fora": false,
+      "tema_central_id": 5092,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "O crime de corrupção passiva consuma-se com a solicitação ou recebimento da promessa de vantagem indevida, independentemente do recebimento efetivo."
+    },
+    {
+      "id": "Q0087",
+      "fora": false,
+      "tema_central_id": 4703,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Trata de entendimento pacificado pelo STJ sobre a concessão excepcional de prisão domiciliar a mães em regime fechado."
+    },
+    {
+      "id": "Q0088",
+      "fora": false,
+      "tema_central_id": 4389,
+      "extras_ids": [
+        4381
+      ],
+      "alternativa_tema_id": 4381,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A assertiva diferencia o objeto da Criminologia e o objeto específico da Vitimologia."
+    },
+    {
+      "id": "Q0089",
+      "fora": false,
+      "tema_central_id": 5172,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Discorre sobre os vetores e requisitos de aplicação do princípio da insignificância no Direito Penal."
+    },
+    {
+      "id": "Q0090",
+      "fora": false,
+      "tema_central_id": 5530,
+      "extras_ids": [
+        5531
+      ],
+      "alternativa_tema_id": 5531,
+      "duvida_subtemas": false,
+      "confianca": 0.90,
+      "motivo": "Trata das hipóteses legais de rejeição da denúncia ou queixa no rito comum ordinário."
+    }
+  ]
+}

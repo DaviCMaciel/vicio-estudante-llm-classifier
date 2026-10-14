@@ -1,0 +1,116 @@
+{
+ "ids": [
+  "Q0041",
+  "Q0042",
+  "Q0043",
+  "Q0044",
+  "Q0045",
+  "Q0046",
+  "Q0047",
+  "Q0048",
+  "Q0049",
+  "Q0050"
+ ],
+ "itens": [
+  {
+   "id": "Q0041",
+   "fora": false,
+   "tema_central_id": 5184,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda diretamente o tema das medidas de segurança no Direito Penal."
+  },
+  {
+   "id": "Q0042",
+   "fora": false,
+   "tema_central_id": 5222,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.98,
+   "motivo": "A questão cobra a conceituação de dolo direto dentro da teoria do crime (crime doloso e culposo)."
+  },
+  {
+   "id": "Q0043",
+   "fora": false,
+   "tema_central_id": 5202,
+   "extras_ids": [],
+   "alternativa_tema_id": 5200,
+   "duvida_subtemas": true,
+   "confianca": 0.85,
+   "motivo": "O enunciado aborda regras gerais e fases da dosimetria da pena."
+  },
+  {
+   "id": "Q0044",
+   "fora": false,
+   "tema_central_id": 5488,
+   "extras_ids": [],
+   "alternativa_tema_id": 5583,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "O item discute regras relativas à citação e aos efeitos de seu descumprimento no processo penal."
+  },
+  {
+   "id": "Q0045",
+   "fora": false,
+   "tema_central_id": 5091,
+   "extras_ids": [],
+   "alternativa_tema_id": 5087,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão trata especificamente do crime de excesso de exação, previsto no Código Penal."
+  },
+  {
+   "id": "Q0046",
+   "fora": false,
+   "tema_central_id": 5509,
+   "extras_ids": [],
+   "alternativa_tema_id": 5510,
+   "duvida_subtemas": true,
+   "confianca": 0.9,
+   "motivo": "O tema central da questão é o regime de nulidades processuais penais."
+  },
+  {
+   "id": "Q0047",
+   "fora": false,
+   "tema_central_id": 5164,
+   "extras_ids": [],
+   "alternativa_tema_id": 5066,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão aborda a figura típica do crime de dano e suas qualificadoras."
+  },
+  {
+   "id": "Q0048",
+   "fora": false,
+   "tema_central_id": 5193,
+   "extras_ids": [],
+   "alternativa_tema_id": 5191,
+   "duvida_subtemas": false,
+   "confianca": 0.92,
+   "motivo": "Trata de institutos extintivos da punibilidade como o indulto e a comutação de pena."
+  },
+  {
+   "id": "Q0049",
+   "fora": false,
+   "tema_central_id": 5152,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A análise jurídica refere-se ao crime de induzimento, instigação ou auxílio ao suicídio."
+  },
+  {
+   "id": "Q0050",
+   "fora": false,
+   "tema_central_id": 4708,
+   "extras_ids": [],
+   "alternativa_tema_id": 5557,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda a delação premiada especificamente no âmbito da Lei de Drogas."
+  }
+ ]
+}

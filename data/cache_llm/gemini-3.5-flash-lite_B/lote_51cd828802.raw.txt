@@ -1,0 +1,123 @@
+{
+  "questoes": [
+    {
+      "id": "Q0191",
+      "fora": false,
+      "tema_central_id": 5561,
+      "extras_ids": [
+        5562
+      ],
+      "alternativa_tema_id": 5567,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda a identificação de recursos em espécie no processo penal, especificamente o recurso em sentido estrito e a apelação."
+    },
+    {
+      "id": "Q0192",
+      "fora": false,
+      "tema_central_id": 5087,
+      "extras_ids": [
+        5091,
+        5081
+      ],
+      "alternativa_tema_id": 5091,
+      "duvida_subtemas": true,
+      "confianca": 0.9,
+      "motivo": "A questão trata de crimes contra a administração pública em geral, abrangendo concussão, peculato e falsa perícia."
+    },
+    {
+      "id": "Q0193",
+      "fora": false,
+      "tema_central_id": 4705,
+      "extras_ids": [
+        5557
+      ],
+      "alternativa_tema_id": 5557,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão cobra disposições legais específicas sobre a colaboração premiada no âmbito das organizações criminosas."
+    },
+    {
+      "id": "Q0194",
+      "fora": false,
+      "tema_central_id": 5089,
+      "extras_ids": [
+        5072
+      ],
+      "alternativa_tema_id": 5072,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Trata de crime praticado por funcionário público contra a administração em concurso com particular, configurando peculato para o funcionário e a comunicabilidade ao partícipe."
+    },
+    {
+      "id": "Q0195",
+      "fora": false,
+      "tema_central_id": 4371,
+      "extras_ids": [
+        4373,
+        4381
+      ],
+      "alternativa_tema_id": 4373,
+      "duvida_subtemas": true,
+      "confianca": 0.9,
+      "motivo": "A questão aborda as escolas criminológicas, o pensamento criminológico clássico e positivista."
+    },
+    {
+      "id": "Q0196",
+      "fora": false,
+      "tema_central_id": 4388,
+      "extras_ids": [
+        4385
+      ],
+      "alternativa_tema_id": 4385,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda especificamente a Teoria do Etiquetamento Social (Labelling Approach) dentro das teorias sociológicas da criminalidade."
+    },
+    {
+      "id": "Q0197",
+      "fora": false,
+      "tema_central_id": 5498,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.85,
+      "motivo": "A questão discute regras de instauração de inquérito policial e competência da Polícia Federal."
+    },
+    {
+      "id": "Q0198",
+      "fora": false,
+      "tema_central_id": 5073,
+      "extras_ids": [
+        4705
+      ],
+      "alternativa_tema_id": 4705,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda a teoria do domínio do fato aplicada a aparatos organizados de poder (autoria mediata em organizações)."
+    },
+    {
+      "id": "Q0199",
+      "fora": false,
+      "tema_central_id": 5218,
+      "extras_ids": [
+        5221,
+        5230
+      ],
+      "alternativa_tema_id": 5230,
+      "duvida_subtemas": true,
+      "confianca": 0.9,
+      "motivo": "A questão examina conceitos fundamentais da teoria do crime, incluindo conduta, bem jurídico e estado de necessidade."
+    },
+    {
+      "id": "Q0200",
+      "fora": false,
+      "tema_central_id": 4705,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Trata diretamente do regime jurídico da Lei de Organizações Criminosas (Lei nº 12.850/2013)."
+    }
+  ]
+}

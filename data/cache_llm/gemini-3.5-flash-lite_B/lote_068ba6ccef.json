@@ -1,0 +1,130 @@
+{
+ "ids": [
+  "Q0151",
+  "Q0152",
+  "Q0153",
+  "Q0154",
+  "Q0155",
+  "Q0156",
+  "Q0157",
+  "Q0158",
+  "Q0159",
+  "Q0160"
+ ],
+ "itens": [
+  {
+   "id": "Q0151",
+   "fora": false,
+   "tema_central_id": 5521,
+   "extras_ids": [
+    5519,
+    5522
+   ],
+   "alternativa_tema_id": 5519,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda diretamente regras de prisões cautelares, com foco na prisão domiciliar e outras medidas."
+  },
+  {
+   "id": "Q0152",
+   "fora": false,
+   "tema_central_id": 5472,
+   "extras_ids": [
+    5474
+   ],
+   "alternativa_tema_id": 5468,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Trata da titularidade e ordem de preferência na ação penal de iniciativa privada."
+  },
+  {
+   "id": "Q0153",
+   "fora": false,
+   "tema_central_id": 5222,
+   "extras_ids": [
+    5175
+   ],
+   "alternativa_tema_id": 5176,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "O enunciado descreve o conceito clássico de dolo geral (erro sucessivo)."
+  },
+  {
+   "id": "Q0154",
+   "fora": true,
+   "tema_central_id": 0,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 1.0,
+   "motivo": "A Lei 9.029/95 trata de relações trabalhistas e discriminação na contratação, matéria não contida na lista fornecida."
+  },
+  {
+   "id": "Q0155",
+   "fora": false,
+   "tema_central_id": 4703,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O Regime Disciplinar Diferenciado (RDD) é matéria regulada pela Lei de Execução Penal."
+  },
+  {
+   "id": "Q0156",
+   "fora": false,
+   "tema_central_id": 4688,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda os crimes contra o meio ambiente e suas sanções previstos na Lei 9.605/98."
+  },
+  {
+   "id": "Q0157",
+   "fora": false,
+   "tema_central_id": 5520,
+   "extras_ids": [
+    4705
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O tema central refere-se aos prazos e hipóteses de cabimento da prisão temporária."
+  },
+  {
+   "id": "Q0158",
+   "fora": false,
+   "tema_central_id": 4707,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão cobra os efeitos da condenação previstos especificamente na Lei de Tortura (Lei 9.455/97)."
+  },
+  {
+   "id": "Q0159",
+   "fora": false,
+   "tema_central_id": 5073,
+   "extras_ids": [
+    5160,
+    5150
+   ],
+   "alternativa_tema_id": 5160,
+   "duvida_subtemas": true,
+   "confianca": 0.85,
+   "motivo": "Envolve análise de autoria colateral, concurso de agentes e desdobramento causal em crimes contra a vida e patrimônio."
+  },
+  {
+   "id": "Q0160",
+   "fora": false,
+   "tema_central_id": 5205,
+   "extras_ids": [
+    5200
+   ],
+   "alternativa_tema_id": 5200,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Trata dos requisitos objetivos e subjetivos para a substituição de penas privativas de liberdade por restritivas de direitos."
+  }
+ ]
+}

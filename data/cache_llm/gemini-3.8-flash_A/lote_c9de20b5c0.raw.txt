@@ -1,0 +1,104 @@
+{
+  "questoes": [
+    {
+      "id": "Q0001",
+      "fora": false,
+      "tema_central_id": 5524,
+      "extras_ids": [5527, 5528, 5561],
+      "alternativa_tema_id": 5527,
+      "duvida_subtemas": true,
+      "confianca": 0.88,
+      "motivo": "A questão aborda conjuntamente hipóteses de desaforamento e a natureza jurídica/recursos cabíveis contra as decisões da primeira fase do Júri."
+    },
+    {
+      "id": "Q0002",
+      "fora": false,
+      "tema_central_id": 4378,
+      "extras_ids": [4388, 4377],
+      "alternativa_tema_id": 4388,
+      "duvida_subtemas": false,
+      "confianca": 0.93,
+      "motivo": "Trata da seletividade do sistema penal e do processo de criminalização secundária segundo a criminologia crítica."
+    },
+    {
+      "id": "Q0003",
+      "fora": false,
+      "tema_central_id": 5562,
+      "extras_ids": [5534, 5475],
+      "alternativa_tema_id": 5534,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "Cobra o recurso cabível (apelação) contra a decisão de absolvição sumária do procedimento comum e seus efeitos reflexos na esfera cível."
+    },
+    {
+      "id": "Q0004",
+      "fora": false,
+      "tema_central_id": 5484,
+      "extras_ids": [5483, 5480],
+      "alternativa_tema_id": 5480,
+      "duvida_subtemas": false,
+      "confianca": 0.92,
+      "motivo": "Examina regras de foro por prerrogativa de função aplicáveis a prefeitos perante a Justiça Estadual e Federal."
+    },
+    {
+      "id": "Q0005",
+      "fora": false,
+      "tema_central_id": 5203,
+      "extras_ids": [5201, 5208],
+      "alternativa_tema_id": 5201,
+      "duvida_subtemas": false,
+      "confianca": 0.88,
+      "motivo": "Analisa o termo inicial do período depurador da reincidência após o término do livramento condicional e seus reflexos no regime inicial."
+    },
+    {
+      "id": "Q0006",
+      "fora": false,
+      "tema_central_id": 5157,
+      "extras_ids": [5160, 5159],
+      "alternativa_tema_id": 5160,
+      "duvida_subtemas": true,
+      "confianca": 0.9,
+      "motivo": "Envolve a distinção teórica entre furto e roubo, momento consumativo e admissibilidade de tentativa no roubo impróprio."
+    },
+    {
+      "id": "Q0007",
+      "fora": false,
+      "tema_central_id": 5468,
+      "extras_ids": [5471, 5472, 4704],
+      "alternativa_tema_id": 5466,
+      "duvida_subtemas": false,
+      "confianca": 0.91,
+      "motivo": "Exige a correta identificação da espécie de ação penal cabível para os delitos narrados (ameaça, perseguição e injúria)."
+    },
+    {
+      "id": "Q0008",
+      "fora": false,
+      "tema_central_id": 5201,
+      "extras_ids": [5088, 4703],
+      "alternativa_tema_id": 4703,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "Cobra a regra do art. 33, § 4º, do Código Penal sobre a reparação do dano como requisito para a progressão de regime em crimes contra a administração pública."
+    },
+    {
+      "id": "Q0009",
+      "fora": false,
+      "tema_central_id": 5158,
+      "extras_ids": [5159],
+      "alternativa_tema_id": 5159,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Aborda a inaplicabilidade das imunidades patrimoniais absolutas quando o crime é cometido contra pessoa com idade igual ou superior a 60 anos (art. 183, III, CP)."
+    },
+    {
+      "id": "Q0010",
+      "fora": false,
+      "tema_central_id": 4688,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.98,
+      "motivo": "Versa sobre tipos penais, responsabilidade da pessoa jurídica e classificação doutrinária na Lei de Crimes Ambientais (Lei 9.605/1998)."
+    }
+  ]
+}

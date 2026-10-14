@@ -1,0 +1,130 @@
+{
+ "ids": [
+  "Q0021",
+  "Q0022",
+  "Q0023",
+  "Q0024",
+  "Q0025",
+  "Q0026",
+  "Q0027",
+  "Q0028",
+  "Q0029",
+  "Q0030"
+ ],
+ "itens": [
+  {
+   "id": "Q0021",
+   "fora": false,
+   "tema_central_id": 5503,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda diretamente o tema do Juiz das Garantias e as decisões do STF sobre sua implementação."
+  },
+  {
+   "id": "Q0022",
+   "fora": false,
+   "tema_central_id": 5089,
+   "extras_ids": [
+    5091,
+    5092,
+    5095
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O peculato é o único crime contra a administração pública entre as alternativas que admite modalidade culposa (art. 312, § 2º, do CP)."
+  },
+  {
+   "id": "Q0023",
+   "fora": false,
+   "tema_central_id": 5526,
+   "extras_ids": [
+    5527,
+    5528
+   ],
+   "alternativa_tema_id": 5524,
+   "duvida_subtemas": true,
+   "confianca": 0.9,
+   "motivo": "A questão cobra regras gerais e específicas do procedimento bifásico e dos atos do Tribunal do Júri."
+  },
+  {
+   "id": "Q0024",
+   "fora": false,
+   "tema_central_id": 4388,
+   "extras_ids": [
+    4379,
+    4385
+   ],
+   "alternativa_tema_id": 4385,
+   "duvida_subtemas": true,
+   "confianca": 0.9,
+   "motivo": "Aborda teorias criminológicas em espécie, como a ecológica e a associação diferencial, além de cifras criminais."
+  },
+  {
+   "id": "Q0025",
+   "fora": false,
+   "tema_central_id": 5101,
+   "extras_ids": [
+    5093
+   ],
+   "alternativa_tema_id": 5093,
+   "duvida_subtemas": true,
+   "confianca": 0.9,
+   "motivo": "A conduta descrita de solicitar vantagem a pretexto de influir em ato de funcionário público caracteriza o crime de tráfico de influência."
+  },
+  {
+   "id": "Q0026",
+   "fora": false,
+   "tema_central_id": 4704,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão discute o âmbito de incidência e proteção da Lei Maria da Penha (violência doméstica contra a mulher)."
+  },
+  {
+   "id": "Q0027",
+   "fora": false,
+   "tema_central_id": 5488,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Trata das regras de citação, intimação e contagem de prazos, especificamente sobre o andamento sem a presença do acusado."
+  },
+  {
+   "id": "Q0028",
+   "fora": false,
+   "tema_central_id": 5526,
+   "extras_ids": [
+    5527
+   ],
+   "alternativa_tema_id": 5527,
+   "duvida_subtemas": true,
+   "confianca": 0.9,
+   "motivo": "Envolve dispositivos do Código de Processo Penal referentes ao procedimento do Tribunal do Júri."
+  },
+  {
+   "id": "Q0029",
+   "fora": false,
+   "tema_central_id": 4684,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Questão direta sobre os tipos penais previstos na Lei de Abuso de Autoridade (Lei nº 13.869/2019)."
+  },
+  {
+   "id": "Q0030",
+   "fora": false,
+   "tema_central_id": 5135,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O enunciado descreve exatamente o tipo penal de atentado contra a liberdade de trabalho (art. 197 do Código Penal)."
+  }
+ ]
+}

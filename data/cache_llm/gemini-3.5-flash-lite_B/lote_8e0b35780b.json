@@ -1,0 +1,125 @@
+{
+ "ids": [
+  "Q0171",
+  "Q0172",
+  "Q0173",
+  "Q0174",
+  "Q0175",
+  "Q0176",
+  "Q0177",
+  "Q0178",
+  "Q0179",
+  "Q0180"
+ ],
+ "itens": [
+  {
+   "id": "Q0171",
+   "fora": false,
+   "tema_central_id": 4705,
+   "extras_ids": [
+    4703
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.8,
+   "motivo": "A questão aborda várias alterações do Pacote Anticrime, com destaque para normas de execução penal e organizações criminosas."
+  },
+  {
+   "id": "Q0172",
+   "fora": false,
+   "tema_central_id": 5484,
+   "extras_ids": [
+    5473,
+    5122
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.85,
+   "motivo": "O comando central envolve competência por prerrogativa de função e regras de ação penal aplicáveis a autoridades."
+  },
+  {
+   "id": "Q0173",
+   "fora": false,
+   "tema_central_id": 4703,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Trata diretamente de regressão de regime e faltas disciplinares reguladas pela Lei de Execução Penal."
+  },
+  {
+   "id": "Q0174",
+   "fora": false,
+   "tema_central_id": 5157,
+   "extras_ids": [
+    4709
+   ],
+   "alternativa_tema_id": 5166,
+   "duvida_subtemas": true,
+   "confianca": 0.9,
+   "motivo": "A questão aborda crimes contra o patrimônio como estelionato e invasão de dispositivo informático."
+  },
+  {
+   "id": "Q0175",
+   "fora": false,
+   "tema_central_id": 5092,
+   "extras_ids": [],
+   "alternativa_tema_id": 5091,
+   "duvida_subtemas": true,
+   "confianca": 0.85,
+   "motivo": "Analisa a distinção entre crimes funcionais contra a administração pública como corrupção passiva e concussão."
+  },
+  {
+   "id": "Q0176",
+   "fora": false,
+   "tema_central_id": 5081,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Trata especificamente do crime de falso testemunho e suas características dogmáticas."
+  },
+  {
+   "id": "Q0177",
+   "fora": false,
+   "tema_central_id": 5547,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Aborda os direitos do réu e regras aplicáveis ao interrogatório judicial no processo penal."
+  },
+  {
+   "id": "Q0178",
+   "fora": false,
+   "tema_central_id": 4697,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "Trata do porte de arma de fogo regulamentado pelo Estatuto do Desarmamento e normas complementares."
+  },
+  {
+   "id": "Q0179",
+   "fora": false,
+   "tema_central_id": 4369,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Discute o conceito de prevenção secundária do delito na Criminologia."
+  },
+  {
+   "id": "Q0180",
+   "fora": false,
+   "tema_central_id": 5594,
+   "extras_ids": [
+    5554
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Trata da ilicitude de provas obtidas por violação de domicílio sem mandado judicial fora das hipóteses legais."
+  }
+ ]
+}

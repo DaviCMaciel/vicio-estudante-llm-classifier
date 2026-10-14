@@ -1,0 +1,110 @@
+{
+  "questoes": [
+    {
+      "id": "Q0131",
+      "fora": false,
+      "tema_central_id": 5072,
+      "extras_ids": [
+        5073
+      ],
+      "alternativa_tema_id": 5073,
+      "duvida_subtemas": true,
+      "confianca": 0.95,
+      "motivo": "A questão aborda a diferenciação entre autoria e participação e a teoria do domínio do fato, tema clássico de concurso."
+    },
+    {
+      "id": "Q0132",
+      "fora": false,
+      "tema_central_id": 5488,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.85,
+      "motivo": "Trata de proteção de dados de testemunhas e vítimas no processo penal conforme resolução do CNJ."
+    },
+    {
+      "id": "Q0133",
+      "fora": false,
+      "tema_central_id": 5526,
+      "extras_ids": [],
+      "alternativa_tema_id": 5524,
+      "duvida_subtemas": true,
+      "confianca": 0.9,
+      "motivo": "Aborda o desaforamento dentro do procedimento do Tribunal do Júri."
+    },
+    {
+      "id": "Q0134",
+      "fora": false,
+      "tema_central_id": 5092,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "O enunciado descreve exatamente o tipo penal de corrupção passiva."
+    },
+    {
+      "id": "Q0135",
+      "fora": false,
+      "tema_central_id": 5169,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Aborda os requisitos e punibilidade do crime de receptação."
+    },
+    {
+      "id": "Q0136",
+      "fora": false,
+      "tema_central_id": 4704,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Analisa a incidência da Lei Maria da Penha em contexto de violência psicológica decorrente de relação anterior."
+    },
+    {
+      "id": "Q0137",
+      "fora": false,
+      "tema_central_id": 5499,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.8,
+      "motivo": "Trata das características gerais e prerrogativas relativas à investigação criminal e ao inquérito policial."
+    },
+    {
+      "id": "Q0138",
+      "fora": false,
+      "tema_central_id": 5205,
+      "extras_ids": [
+        5207
+      ],
+      "alternativa_tema_id": 5207,
+      "duvida_subtemas": true,
+      "confianca": 0.9,
+      "motivo": "Discute regras sobre penas restritivas de direitos e suspensão condicional da pena."
+    },
+    {
+      "id": "Q0139",
+      "fora": false,
+      "tema_central_id": 5212,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A frase remete diretamente ao conceito de coculpabilidade dentro da teoria da culpabilidade."
+    },
+    {
+      "id": "Q0140",
+      "fora": false,
+      "tema_central_id": 5159,
+      "extras_ids": [
+        5160
+      ],
+      "alternativa_tema_id": 5160,
+      "duvida_subtemas": true,
+      "confianca": 0.9,
+      "motivo": "Aborda a jurisprudência do STJ sobre qualificadoras do furto e roubo, com forte foco no furto (privilégio e rompimento de obstáculo)."
+    }
+  ]
+}

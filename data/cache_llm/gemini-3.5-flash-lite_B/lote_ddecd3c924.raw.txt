@@ -1,0 +1,127 @@
+{
+  "questoes": [
+    {
+      "id": "Q0121",
+      "fora": false,
+      "tema_central_id": 5472,
+      "extras_ids": [
+        5469,
+        5474
+      ],
+      "alternativa_tema_id": 5469,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda o princípio da indivisibilidade na ação penal privada."
+    },
+    {
+      "id": "Q0122",
+      "fora": false,
+      "tema_central_id": 4703,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A remição de pena por trabalho ou estudo é matéria típica da Lei de Execução Penal."
+    },
+    {
+      "id": "Q0123",
+      "fora": false,
+      "tema_central_id": 4388,
+      "extras_ids": [
+        4381,
+        4377
+      ],
+      "alternativa_tema_id": 4381,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A assertiva I trata diretamente da teoria do etiquetamento (labeling approach) dentro da Criminologia."
+    },
+    {
+      "id": "Q0124",
+      "fora": false,
+      "tema_central_id": 4384,
+      "extras_ids": [
+        4373
+      ],
+      "alternativa_tema_id": 4373,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "O comando trata explicitamente das teorias legitimadoras da pena (absolutas e relativas)."
+    },
+    {
+      "id": "Q0125",
+      "fora": false,
+      "tema_central_id": 5181,
+      "extras_ids": [
+        4708,
+        4703
+      ],
+      "alternativa_tema_id": 4703,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A aplicação de lei penal mais benigna (novatio legis in mellius) no âmbito da execução penal remete à lei penal no tempo."
+    },
+    {
+      "id": "Q0126",
+      "fora": false,
+      "tema_central_id": 5182,
+      "extras_ids": [
+        5180,
+        5226
+      ],
+      "alternativa_tema_id": 5180,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A alternativa E trata da aplicação da lei brasileira aos crimes cometidos no estrangeiro, matéria de lei penal no espaço."
+    },
+    {
+      "id": "Q0127",
+      "fora": false,
+      "tema_central_id": 5581,
+      "extras_ids": [
+        5537,
+        4708
+      ],
+      "alternativa_tema_id": 5572,
+      "duvida_subtemas": false,
+      "confianca": 0.85,
+      "motivo": "A discussão sobre o juiz proferir condenação mesmo com pedido de absolvição pelo MP envolve o sistema processual penal adotado."
+    },
+    {
+      "id": "Q0128",
+      "fora": false,
+      "tema_central_id": 5184,
+      "extras_ids": [
+        5213
+      ],
+      "alternativa_tema_id": 5213,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda o conceito e cabimento de medida de segurança para inimputáveis."
+    },
+    {
+      "id": "Q0129",
+      "fora": false,
+      "tema_central_id": 5550,
+      "extras_ids": [
+        4704
+      ],
+      "alternativa_tema_id": 5543,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "O comando trata da admissibilidade da prova testemunhal prestada por parentes em juízo."
+    },
+    {
+      "id": "Q0130",
+      "fora": false,
+      "tema_central_id": 5160,
+      "extras_ids": [
+        4697
+      ],
+      "alternativa_tema_id": 5158,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A subtração mediante grave ameaça com emprego de simulacro configura crime de roubo."
+    }
+  ]
+}
