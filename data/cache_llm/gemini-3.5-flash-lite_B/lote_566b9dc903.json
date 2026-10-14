@@ -1,0 +1,129 @@
+{
+ "ids": [
+  "Q0261",
+  "Q0262",
+  "Q0263",
+  "Q0264",
+  "Q0265",
+  "Q0266",
+  "Q0267",
+  "Q0268",
+  "Q0269",
+  "Q0270"
+ ],
+ "itens": [
+  {
+   "id": "Q0261",
+   "fora": false,
+   "tema_central_id": 4686,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda contravenções penais ou crimes previstos em leis especiais como a de software, mas pela lista o tema específico de crimes informáticos não consta, sendo classificado na legislação especial."
+  },
+  {
+   "id": "Q0262",
+   "fora": false,
+   "tema_central_id": 5184,
+   "extras_ids": [
+    4703
+   ],
+   "alternativa_tema_id": 5200,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A superveniência de doença mental na fase de execução trata diretamente de medida de segurança e seus desdobramentos na pena."
+  },
+  {
+   "id": "Q0263",
+   "fora": false,
+   "tema_central_id": 5492,
+   "extras_ids": [],
+   "alternativa_tema_id": 5480,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O enunciado aborda as hipóteses de suspeição do juiz previstas no Código de Processo Penal."
+  },
+  {
+   "id": "Q0264",
+   "fora": false,
+   "tema_central_id": 5103,
+   "extras_ids": [
+    5108
+   ],
+   "alternativa_tema_id": 5108,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão discute o crime de estupro de vulnerável e sua diferenciação com delitos de exploração sexual."
+  },
+  {
+   "id": "Q0265",
+   "fora": false,
+   "tema_central_id": 5185,
+   "extras_ids": [
+    5066
+   ],
+   "alternativa_tema_id": 5186,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A incidência da prescrição no concurso de crimes é tema central das regras de prescrição no Código Penal."
+  },
+  {
+   "id": "Q0266",
+   "fora": false,
+   "tema_central_id": 5484,
+   "extras_ids": [
+    5481
+   ],
+   "alternativa_tema_id": 5482,
+   "duvida_subtemas": false,
+   "confianca": 0.85,
+   "motivo": "Define a competência para o julgamento de crimes dolosos contra a vida praticados por militares em operação."
+  },
+  {
+   "id": "Q0267",
+   "fora": false,
+   "tema_central_id": 4708,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão versa sobre procedimentos e apreensão de drogas previstos na Lei de Drogas (Lei n. 11.343/2006)."
+  },
+  {
+   "id": "Q0268",
+   "fora": false,
+   "tema_central_id": 5121,
+   "extras_ids": [
+    5120,
+    5116
+   ],
+   "alternativa_tema_id": 5122,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "Trata de regras gerais e específicas de crimes contra a honra e falsidade."
+  },
+  {
+   "id": "Q0269",
+   "fora": true,
+   "tema_central_id": 0,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda a teoria do garantismo penal de Luigi Ferrajoli, matéria afeta à Filosofia do Direito e Teoria Geral do Direito, ausente na lista específica."
+  },
+  {
+   "id": "Q0270",
+   "fora": false,
+   "tema_central_id": 5091,
+   "extras_ids": [
+    5087
+   ],
+   "alternativa_tema_id": 5092,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A conduta de exigir vantagem indevida como funcionário público caracteriza o crime de concussão."
+  }
+ ]
+}

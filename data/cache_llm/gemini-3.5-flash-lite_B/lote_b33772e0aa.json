@@ -1,0 +1,127 @@
+{
+ "ids": [
+  "Q0201",
+  "Q0202",
+  "Q0203",
+  "Q0204",
+  "Q0205",
+  "Q0206",
+  "Q0207",
+  "Q0208",
+  "Q0209",
+  "Q0210"
+ ],
+ "itens": [
+  {
+   "id": "Q0201",
+   "fora": false,
+   "tema_central_id": 5103,
+   "extras_ids": [
+    5110
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.98,
+   "motivo": "O crime de estupro de vulnerável se configura mesmo com o consentimento da vítima menor de 14 anos, conforme jurisprudência pacificada."
+  },
+  {
+   "id": "Q0202",
+   "fora": false,
+   "tema_central_id": 4708,
+   "extras_ids": [
+    5224
+   ],
+   "alternativa_tema_id": 5224,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A conduta aborda o crime de manter relação com pessoa em situação de prostituição (Estatuto da Criança e do Adolescente / Legislação Especial), exigindo dolo e erro de tipo."
+  },
+  {
+   "id": "Q0203",
+   "fora": false,
+   "tema_central_id": 4702,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.99,
+   "motivo": "A questão aborda expressamente a Lei de Lavagem de Dinheiro (Lei 9.613/98) e a constrição de bens de interpostas pessoas."
+  },
+  {
+   "id": "Q0204",
+   "fora": false,
+   "tema_central_id": 5507,
+   "extras_ids": [
+    5505
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.99,
+   "motivo": "Trata diretamente da aplicação da lei processual penal no tempo, regida pelo princípio tempus regit actum e efeito imediato."
+  },
+  {
+   "id": "Q0205",
+   "fora": false,
+   "tema_central_id": 5566,
+   "extras_ids": [
+    5561
+   ],
+   "alternativa_tema_id": 5561,
+   "duvida_subtemas": false,
+   "confianca": 0.92,
+   "motivo": "A questão cobra regras sobre cabimento de recursos em espécie no processo penal, especificamente a carta testemunhável."
+  },
+  {
+   "id": "Q0206",
+   "fora": false,
+   "tema_central_id": 5583,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.98,
+   "motivo": "O assistente de acusação é um dos sujeitos do processo penal, cujas regras de ingresso e atuação são tratadas no CPP."
+  },
+  {
+   "id": "Q0207",
+   "fora": false,
+   "tema_central_id": 4703,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.97,
+   "motivo": "A questão versa sobre faltas disciplinares e consequências no âmbito da Lei de Execução Penal."
+  },
+  {
+   "id": "Q0208",
+   "fora": false,
+   "tema_central_id": 5072,
+   "extras_ids": [
+    5071,
+    5150
+   ],
+   "alternativa_tema_id": 5073,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A análise fática exige diferenciar autoria e participação no concurso de pessoas."
+  },
+  {
+   "id": "Q0209",
+   "fora": true,
+   "tema_central_id": 0,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A matéria central refere-se a direito constitucional e expedição de atestados de antecedentes pela polícia, tema fora da lista penal estrita."
+  },
+  {
+   "id": "Q0210",
+   "fora": false,
+   "tema_central_id": 4697,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.99,
+   "motivo": "A questão aborda os crimes previstos no Estatuto do Desarmamento, incluindo posse/porte e entendimento das Cortes Superiores."
+  }
+ ]
+}

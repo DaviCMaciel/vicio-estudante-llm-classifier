@@ -1,0 +1,135 @@
+{
+ "ids": [
+  "Q0091",
+  "Q0092",
+  "Q0093",
+  "Q0094",
+  "Q0095",
+  "Q0096",
+  "Q0097",
+  "Q0098",
+  "Q0099",
+  "Q0100"
+ ],
+ "itens": [
+  {
+   "id": "Q0091",
+   "fora": false,
+   "tema_central_id": 4703,
+   "extras_ids": [
+    5201
+   ],
+   "alternativa_tema_id": 5201,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão trata de progressão de regime na execução penal, tema central da Lei de Execução Penal."
+  },
+  {
+   "id": "Q0092",
+   "fora": false,
+   "tema_central_id": 5480,
+   "extras_ids": [
+    5510
+   ],
+   "alternativa_tema_id": 5510,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda as consequências processuais da incompetência do juízo e da ilegitimidade de representação, conforme o CPP."
+  },
+  {
+   "id": "Q0093",
+   "fora": false,
+   "tema_central_id": 5223,
+   "extras_ids": [
+    5142
+   ],
+   "alternativa_tema_id": 5142,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão exige distinguir a posição de garantidor (salva-vidas) da omissão de socorro simples (surfista)."
+  },
+  {
+   "id": "Q0094",
+   "fora": false,
+   "tema_central_id": 4377,
+   "extras_ids": [
+    4378
+   ],
+   "alternativa_tema_id": 4378,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O uso de roupas de presídio no tribunal é um exemplo clássico de estigmatização estudado pelo Labelling Approach."
+  },
+  {
+   "id": "Q0095",
+   "fora": false,
+   "tema_central_id": 5197,
+   "extras_ids": [
+    5150
+   ],
+   "alternativa_tema_id": 5150,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O perdão judicial é causa extintiva da punibilidade aplicável em casos específicos de homicídio culposo e lesão corporal."
+  },
+  {
+   "id": "Q0096",
+   "fora": false,
+   "tema_central_id": 5480,
+   "extras_ids": [
+    5483
+   ],
+   "alternativa_tema_id": 5483,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O desaforamento é a causa legal de modificação da competência territorial no procedimento do júri."
+  },
+  {
+   "id": "Q0097",
+   "fora": false,
+   "tema_central_id": 4708,
+   "extras_ids": [
+    4705,
+    4702
+   ],
+   "alternativa_tema_id": 4705,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão aborda a prova do tráfico de drogas sem apreensão e a configuração da lavagem de dinheiro segundo o STJ."
+  },
+  {
+   "id": "Q0098",
+   "fora": false,
+   "tema_central_id": 5548,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A confissão qualificada é um conceito doutrinário sobre a admissão do fato com alegação de excludente."
+  },
+  {
+   "id": "Q0099",
+   "fora": false,
+   "tema_central_id": 5100,
+   "extras_ids": [
+    5077
+   ],
+   "alternativa_tema_id": 5077,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão analisa a tipicidade da resistência e a exclusão de ilicitude na atuação dos agentes públicos."
+  },
+  {
+   "id": "Q0100",
+   "fora": false,
+   "tema_central_id": 5103,
+   "extras_ids": [
+    5224
+   ],
+   "alternativa_tema_id": 5224,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão discute a natureza do crime de estupro de vulnerável e a possibilidade de erro de tipo."
+  }
+ ]
+}

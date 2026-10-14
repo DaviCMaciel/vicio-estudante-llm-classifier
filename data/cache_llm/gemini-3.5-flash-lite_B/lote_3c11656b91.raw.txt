@@ -1,0 +1,104 @@
+{
+  "questoes": [
+    {
+      "id": "Q0311",
+      "fora": false,
+      "tema_central_id": 5488,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda diretamente as regras de citação e comunicação dos atos processuais no processo penal."
+    },
+    {
+      "id": "Q0312",
+      "fora": false,
+      "tema_central_id": 4374,
+      "extras_ids": [4373],
+      "alternativa_tema_id": 4373,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A questão aborda as teorias e finalidades da pena sob a perspectiva de Franz von Liszt dentro da política criminal."
+    },
+    {
+      "id": "Q0313",
+      "fora": false,
+      "tema_central_id": 5577,
+      "extras_ids": [5475],
+      "alternativa_tema_id": 5209,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Trata dos efeitos da sentença penal condenatória, especificamente a obrigação de reparar o dano."
+    },
+    {
+      "id": "Q0314",
+      "fora": false,
+      "tema_central_id": 5477,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão trata da natureza jurídica e conceito do habeas corpus como ação autônoma de impugnação."
+    },
+    {
+      "id": "Q0315",
+      "fora": false,
+      "tema_central_id": 5185,
+      "extras_ids": [5188],
+      "alternativa_tema_id": 5188,
+      "duvida_subtemas": true,
+      "confianca": 0.9,
+      "motivo": "O comando exige o cálculo e a análise da prescrição penal aplicada ao caso concreto."
+    },
+    {
+      "id": "Q0316",
+      "fora": false,
+      "tema_central_id": 5224,
+      "extras_ids": [5153],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda expressamente o erro sobre a pessoa previsto no artigo 20, parágrafo 3º, do Código Penal."
+    },
+    {
+      "id": "Q0317",
+      "fora": false,
+      "tema_central_id": 5198,
+      "extras_ids": [5065],
+      "alternativa_tema_id": 5063,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Trata da decadência do direito de representação e seus prazos no âmbito penal."
+    },
+    {
+      "id": "Q0318",
+      "fora": false,
+      "tema_central_id": 5175,
+      "extras_ids": [5178, 5150],
+      "alternativa_tema_id": 5178,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda o iter criminis e a consumação do homicídio em face de tentativa de socorro médico."
+    },
+    {
+      "id": "Q0319",
+      "fora": false,
+      "tema_central_id": 5071,
+      "extras_ids": [5073],
+      "alternativa_tema_id": 5073,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Trata das hipóteses de cabimento de coautoria e participação no concurso de pessoas."
+    },
+    {
+      "id": "Q0320",
+      "fora": false,
+      "tema_central_id": 5550,
+      "extras_ids": [],
+      "alternativa_tema_id": 5543,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda espécies de testemunhas no direito processual penal, especificamente a testemunha fedatária."
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "questoes": [
+    {
+      "id": "Q0111",
+      "fora": false,
+      "tema_central_id": 4373,
+      "extras_ids": [4371],
+      "alternativa_tema_id": 4371,
+      "duvida_subtemas": false,
+      "confianca": 0.98,
+      "motivo": "A questão cobra conhecimentos específicos sobre a Escola Positivista da Criminologia e seus expoentes históricos."
+    },
+    {
+      "id": "Q0112",
+      "fora": false,
+      "tema_central_id": 4705,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.99,
+      "motivo": "A questão versa estritamente sobre as causas de aumento de pena do crime de organização criminosa previstas na Lei nº 12.850/13."
+    },
+    {
+      "id": "Q0113",
+      "fora": true,
+      "tema_central_id": 0,
+      "extras_ids": [5185],
+      "alternativa_tema_id": 5185,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão trata de tema de Direito Administrativo referente ao prazo prescricional de infração disciplinar residualmente capitulada como crime."
+    },
+    {
+      "id": "Q0114",
+      "fora": false,
+      "tema_central_id": 5181,
+      "extras_ids": [4704, 5507],
+      "alternativa_tema_id": 5507,
+      "duvida_subtemas": false,
+      "confianca": 0.88,
+      "motivo": "O cerne da questão discute a irretroatividade da lei prejudicial e os efeitos temporais no controle abstrato de constitucionalidade de norma de natureza mista."
+    },
+    {
+      "id": "Q0115",
+      "fora": false,
+      "tema_central_id": 4388,
+      "extras_ids": [4387, 4385],
+      "alternativa_tema_id": 4387,
+      "duvida_subtemas": false,
+      "confianca": 0.94,
+      "motivo": "Aborda as teorias sociológicas explicativas da criminalidade em espécie, especificamente a Teoria da Anomia/Tensão."
+    },
+    {
+      "id": "Q0116",
+      "fora": false,
+      "tema_central_id": 4708,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.99,
+      "motivo": "A questão cobra disposições expressas e jurisprudência pacificada acerca da Lei de Drogas (Lei nº 11.343/2006)."
+    },
+    {
+      "id": "Q0117",
+      "fora": false,
+      "tema_central_id": 4384,
+      "extras_ids": [5200],
+      "alternativa_tema_id": 5200,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Trata das teorias criminológicas legitimadoras (e deslegitimadoras/agnóstica) da pena e suas finalidades."
+    },
+    {
+      "id": "Q0118",
+      "fora": false,
+      "tema_central_id": 5507,
+      "extras_ids": [5519, 5523],
+      "alternativa_tema_id": 5505,
+      "duvida_subtemas": false,
+      "confianca": 0.96,
+      "motivo": "Cobra a aplicação do princípio tempus regit actum para leis processuais puras e normas processuais materiais no tempo."
+    },
+    {
+      "id": "Q0119",
+      "fora": false,
+      "tema_central_id": 5194,
+      "extras_ids": [5181],
+      "alternativa_tema_id": 5181,
+      "duvida_subtemas": false,
+      "confianca": 0.93,
+      "motivo": "Aborda o alcance e os efeitos da abolitio criminis retroativa prevista no art. 2º do Código Penal."
+    },
+    {
+      "id": "Q0120",
+      "fora": false,
+      "tema_central_id": 5590,
+      "extras_ids": [5533, 5547],
+      "alternativa_tema_id": 5533,
+      "duvida_subtemas": false,
+      "confianca": 0.91,
+      "motivo": "Trata da proposição, admissão e indicação dos meios de prova pelas partes ao longo da instrução processual penal."
+    }
+  ]
+}

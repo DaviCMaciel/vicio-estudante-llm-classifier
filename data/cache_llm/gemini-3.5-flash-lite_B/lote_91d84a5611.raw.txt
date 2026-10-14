@@ -1,0 +1,120 @@
+{
+  "questoes": [
+    {
+      "id": "Q0301",
+      "fora": false,
+      "tema_central_id": 5197,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda diretamente o instituto do perdão judicial previsto na parte geral do Código Penal."
+    },
+    {
+      "id": "Q0302",
+      "fora": false,
+      "tema_central_id": 5224,
+      "extras_ids": [
+        5218
+      ],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A situação descrita exemplifica um erro de tipo essencial (excludente do dolo) decorrente de desconhecimento de elemento constitutivo do tipo."
+    },
+    {
+      "id": "Q0303",
+      "fora": false,
+      "tema_central_id": 5180,
+      "extras_ids": [
+        5181,
+        5182
+      ],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão abrange regras gerais sobre a aplicação da lei penal no tempo e no espaço."
+    },
+    {
+      "id": "Q0304",
+      "fora": false,
+      "tema_central_id": 5539,
+      "extras_ids": [
+        4701,
+        5540
+      ],
+      "alternativa_tema_id": 4701,
+      "duvida_subtemas": true,
+      "confianca": 0.9,
+      "motivo": "O comando trata especificamente da competência e dos institutos dos Juizados Especiais Criminais."
+    },
+    {
+      "id": "Q0305",
+      "fora": false,
+      "tema_central_id": 5064,
+      "extras_ids": [
+        5063
+      ],
+      "alternativa_tema_id": 5063,
+      "duvida_subtemas": true,
+      "confianca": 0.95,
+      "motivo": "A questão versa sobre os princípios, regras e prazos relativos à ação penal pública."
+    },
+    {
+      "id": "Q0306",
+      "fora": false,
+      "tema_central_id": 4705,
+      "extras_ids": [
+        5146
+      ],
+      "alternativa_tema_id": 5146,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda os requisitos do crime de organização criminosa (Lei 12.850/13)."
+    },
+    {
+      "id": "Q0307",
+      "fora": false,
+      "tema_central_id": 4707,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão analisa o crime de tortura sob a ótica da Lei nº 9.455/1997 e a responsabilidade omissiva do agente público."
+    },
+    {
+      "id": "Q0308",
+      "fora": false,
+      "tema_central_id": 5501,
+      "extras_ids": [
+        5498
+      ],
+      "alternativa_tema_id": 5498,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Trata dos efeitos jurídicos decorrentes do arquivamento do inquérito policial."
+    },
+    {
+      "id": "Q0309",
+      "fora": false,
+      "tema_central_id": 4688,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão exige o conhecimento do tipo penal e pena previstos na Lei de Crimes Ambientais (Lei nº 9.605/98)."
+    },
+    {
+      "id": "Q0310",
+      "fora": false,
+      "tema_central_id": 5505,
+      "extras_ids": [
+        5507
+      ],
+      "alternativa_tema_id": 5507,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda a aplicação da lei processual penal no tempo e a integração do direito processual penal."
+    }
+  ]
+}

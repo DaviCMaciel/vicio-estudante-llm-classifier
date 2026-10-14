@@ -1,0 +1,118 @@
+{
+ "ids": [
+  "Q0021",
+  "Q0022",
+  "Q0023",
+  "Q0024",
+  "Q0025",
+  "Q0026",
+  "Q0027",
+  "Q0028",
+  "Q0029",
+  "Q0030"
+ ],
+ "itens": [
+  {
+   "id": "Q0021",
+   "fora": false,
+   "tema_central_id": 5503,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 1.0,
+   "motivo": "A questão aborda diretamente a implementação do Juiz das Garantias conforme decidido pelo STF nas ADIs 6298, 6299, 6300 e 6305."
+  },
+  {
+   "id": "Q0022",
+   "fora": false,
+   "tema_central_id": 5089,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 1.0,
+   "motivo": "O peculato culposo é a única modalidade culposa prevista expressamente entre os crimes contra a administração pública listados."
+  },
+  {
+   "id": "Q0023",
+   "fora": false,
+   "tema_central_id": 5524,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": true,
+   "confianca": 0.95,
+   "motivo": "A questão trata de diversos aspectos procedimentais do Tribunal do Júri, abrangendo o procedimento bifásico e regras de sessão de julgamento."
+  },
+  {
+   "id": "Q0024",
+   "fora": false,
+   "tema_central_id": 4385,
+   "extras_ids": [
+    4388
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": true,
+   "confianca": 0.9,
+   "motivo": "A questão avalia conhecimentos sobre teorias sociológicas explicativas da criminalidade (Escola de Chicago, Associação Diferencial e Crimes de Colarinho Branco)."
+  },
+  {
+   "id": "Q0025",
+   "fora": false,
+   "tema_central_id": 5101,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 1.0,
+   "motivo": "A conduta descrita configura o crime de tráfico de influência (art. 332 do CP) e não corrupção ativa."
+  },
+  {
+   "id": "Q0026",
+   "fora": false,
+   "tema_central_id": 4704,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 1.0,
+   "motivo": "A Lei Maria da Penha exige relação de afeto, parentesco ou coabitação, não se aplicando a agressões no ambiente laboral sem vínculo pessoal."
+  },
+  {
+   "id": "Q0027",
+   "fora": false,
+   "tema_central_id": 5530,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 1.0,
+   "motivo": "O art. 367 do CPP estabelece que o processo seguirá sem a presença do acusado que, citado ou intimado pessoalmente, deixar de comparecer sem motivo justificado."
+  },
+  {
+   "id": "Q0028",
+   "fora": false,
+   "tema_central_id": 5530,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão descreve etapas do procedimento ordinário e do procedimento do Tribunal do Júri, sendo a assertiva correta quanto aos prazos e ritos."
+  },
+  {
+   "id": "Q0029",
+   "fora": false,
+   "tema_central_id": 4684,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 1.0,
+   "motivo": "A alternativa B descreve conduta tipificada como crime de abuso de autoridade na Lei 13.869/2019."
+  },
+  {
+   "id": "Q0030",
+   "fora": false,
+   "tema_central_id": 5135,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 1.0,
+   "motivo": "A conduta de constranger alguém a trabalhar ou não trabalhar mediante violência ou grave ameaça está prevista no art. 197 do Código Penal."
+  }
+ ]
+}

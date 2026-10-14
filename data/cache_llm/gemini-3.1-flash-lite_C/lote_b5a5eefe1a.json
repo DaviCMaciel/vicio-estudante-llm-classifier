@@ -1,0 +1,134 @@
+{
+ "ids": [
+  "Q0071",
+  "Q0072",
+  "Q0073",
+  "Q0074",
+  "Q0075",
+  "Q0076",
+  "Q0077",
+  "Q0078",
+  "Q0079",
+  "Q0080"
+ ],
+ "itens": [
+  {
+   "id": "Q0071",
+   "fora": false,
+   "tema_central_id": 4688,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão trata especificamente de causas de aumento de pena em crimes contra a flora previstos na Lei de Crimes Ambientais."
+  },
+  {
+   "id": "Q0072",
+   "fora": false,
+   "tema_central_id": 5594,
+   "extras_ids": [
+    5590
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "O comando aborda a utilização de elementos do inquérito policial na formação da convicção judicial, tema central da prova ilícita e teoria geral das provas."
+  },
+  {
+   "id": "Q0073",
+   "fora": false,
+   "tema_central_id": 5087,
+   "extras_ids": [
+    5089,
+    5093,
+    5101
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": true,
+   "confianca": 0.85,
+   "motivo": "A questão aborda diversos crimes contra a administração pública, exigindo conhecimento de múltiplos tipos penais."
+  },
+  {
+   "id": "Q0074",
+   "fora": false,
+   "tema_central_id": 5181,
+   "extras_ids": [
+    4703
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A competência para aplicar lei penal mais benigna após o trânsito em julgado é do juízo da execução penal, conforme a LEP."
+  },
+  {
+   "id": "Q0075",
+   "fora": false,
+   "tema_central_id": 5191,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão trata das regras de comunicabilidade da extinção da punibilidade previstas no Código Penal."
+  },
+  {
+   "id": "Q0076",
+   "fora": false,
+   "tema_central_id": 4373,
+   "extras_ids": [
+    4371
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão solicita a identificação dos expoentes da Escola Positiva da Criminologia."
+  },
+  {
+   "id": "Q0077",
+   "fora": false,
+   "tema_central_id": 5171,
+   "extras_ids": [
+    5194
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.85,
+   "motivo": "A questão aborda conceitos de norma penal em branco e institutos como a abolitio criminis."
+  },
+  {
+   "id": "Q0078",
+   "fora": false,
+   "tema_central_id": 4697,
+   "extras_ids": [
+    4691
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão exige a aplicação de dispositivos do Estatuto do Desarmamento e do Código de Trânsito Brasileiro a um caso concreto."
+  },
+  {
+   "id": "Q0079",
+   "fora": false,
+   "tema_central_id": 5581,
+   "extras_ids": [
+    5582
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão versa sobre as características e princípios dos sistemas processuais penais, com foco no sistema acusatório."
+  },
+  {
+   "id": "Q0080",
+   "fora": false,
+   "tema_central_id": 4370,
+   "extras_ids": [
+    4369
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.85,
+   "motivo": "A questão discute modelos de reação ao delito, especificamente o modelo restaurador no contexto da criminologia."
+  }
+ ]
+}

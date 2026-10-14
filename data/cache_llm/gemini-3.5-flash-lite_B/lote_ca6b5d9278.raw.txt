@@ -1,0 +1,104 @@
+{
+  "questoes": [
+    {
+      "id": "Q0251",
+      "fora": false,
+      "tema_central_id": 5191,
+      "extras_ids": [5181, 5193],
+      "alternativa_tema_id": 5181,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda diretamente as causas de extinção da punibilidade previstas no Código Penal."
+    },
+    {
+      "id": "Q0252",
+      "fora": false,
+      "tema_central_id": 5208,
+      "extras_ids": [5206, 5193],
+      "alternativa_tema_id": 5206,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "O comando principal da assertiva correta e das demais envolve regras sobre livramento condicional e pena de multa na execução penal."
+    },
+    {
+      "id": "Q0253",
+      "fora": false,
+      "tema_central_id": 4373,
+      "extras_ids": [4371],
+      "alternativa_tema_id": 4371,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão versa especificamente sobre as Escolas Criminológicas (Clássica, Positiva, etc.)."
+    },
+    {
+      "id": "Q0254",
+      "fora": false,
+      "tema_central_id": 4704,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão examina as medidas protetivas de urgência da Lei Maria da Penha (Lei nº 11.340/2016)."
+    },
+    {
+      "id": "Q0255",
+      "fora": false,
+      "tema_central_id": 5213,
+      "extras_ids": [5212],
+      "alternativa_tema_id": 5212,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A matéria central é a inimputabilidade penal e suas causas excludentes/redutoras."
+    },
+    {
+      "id": "Q0256",
+      "fora": false,
+      "tema_central_id": 5224,
+      "extras_ids": [5214],
+      "alternativa_tema_id": 5214,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "O desconhecimento invencível de elemento do tipo refere-se ao erro de tipo, enquanto a crença de estar autorizado refere-se a causas de justificação ou erro de proibição."
+    },
+    {
+      "id": "Q0257",
+      "fora": false,
+      "tema_central_id": 5227,
+      "extras_ids": [5218, 5172],
+      "alternativa_tema_id": 5218,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A análise foca nos conceitos de tipicidade, tipo penal incriminador e responsabilidade penal da pessoa jurídica."
+    },
+    {
+      "id": "Q0258",
+      "fora": false,
+      "tema_central_id": 5545,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão cobra as regras procedimentais e legais do exame de corpo de delito no Código de Processo Penal."
+    },
+    {
+      "id": "Q0259",
+      "fora": false,
+      "tema_central_id": 5183,
+      "extras_ids": [5159, 5164],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Trata do conflito aparente de normas, especificamente sobre a consunção entre o crime de dano e o furto qualificado."
+    },
+    {
+      "id": "Q0260",
+      "fora": false,
+      "tema_central_id": 4376,
+      "extras_ids": [4370, 4368],
+      "alternativa_tema_id": 4370,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A primeira assertiva trata do Direito Penal do Inimigo e as demais abordam temas correlatos de Criminologia e Política Criminal."
+    }
+  ]
+}

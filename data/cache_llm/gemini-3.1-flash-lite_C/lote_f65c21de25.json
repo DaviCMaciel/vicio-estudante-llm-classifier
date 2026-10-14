@@ -1,0 +1,126 @@
+{
+ "ids": [
+  "Q0011",
+  "Q0012",
+  "Q0013",
+  "Q0014",
+  "Q0015",
+  "Q0016",
+  "Q0017",
+  "Q0018",
+  "Q0019",
+  "Q0020"
+ ],
+ "itens": [
+  {
+   "id": "Q0011",
+   "fora": false,
+   "tema_central_id": 4702,
+   "extras_ids": [
+    5480
+   ],
+   "alternativa_tema_id": 5480,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda o crime de lavagem de capitais e a competência da Justiça Federal para processar crimes contra bens, serviços ou interesses da União."
+  },
+  {
+   "id": "Q0012",
+   "fora": false,
+   "tema_central_id": 5562,
+   "extras_ids": [
+    4701
+   ],
+   "alternativa_tema_id": 5569,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O recurso cabível contra a decisão que rejeita a denúncia no rito da Lei 9.099/95 é a apelação, conforme art. 82 da referida lei."
+  },
+  {
+   "id": "Q0013",
+   "fora": false,
+   "tema_central_id": 5503,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão trata das competências do Juiz das Garantias, excluindo a competência para julgar habeas corpus, que cabe ao juízo competente para o julgamento da ação."
+  },
+  {
+   "id": "Q0014",
+   "fora": false,
+   "tema_central_id": 5477,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O habeas corpus é cabível contra qualquer ilegalidade que restrinja a liberdade de locomoção, inclusive em decisões de varas da infância e juventude."
+  },
+  {
+   "id": "Q0015",
+   "fora": false,
+   "tema_central_id": 5499,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão exige conhecimento sobre as regras gerais do inquérito policial previstas no Código de Processo Penal."
+  },
+  {
+   "id": "Q0016",
+   "fora": false,
+   "tema_central_id": 5519,
+   "extras_ids": [
+    5589,
+    5503
+   ],
+   "alternativa_tema_id": 5589,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão analisa a jurisprudência atual sobre prisão preventiva, audiência de custódia e juiz das garantias."
+  },
+  {
+   "id": "Q0017",
+   "fora": false,
+   "tema_central_id": 5533,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Trata do procedimento especial para crimes de responsabilidade de funcionários públicos previsto no CPP."
+  },
+  {
+   "id": "Q0018",
+   "fora": false,
+   "tema_central_id": 4701,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A assertiva reflete corretamente as hipóteses de deslocamento de competência dos JECrim previstas na Lei 9.099/95."
+  },
+  {
+   "id": "Q0019",
+   "fora": false,
+   "tema_central_id": 5475,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda a relação entre a sentença penal e a ação civil ex delicto, conforme o Código de Processo Penal."
+  },
+  {
+   "id": "Q0020",
+   "fora": false,
+   "tema_central_id": 5203,
+   "extras_ids": [
+    5204,
+    5157
+   ],
+   "alternativa_tema_id": 5204,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão exige conhecimento de diversas súmulas e entendimentos consolidados do STJ sobre dosimetria e crimes específicos."
+  }
+ ]
+}

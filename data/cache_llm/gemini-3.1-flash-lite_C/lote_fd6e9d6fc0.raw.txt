@@ -1,0 +1,104 @@
+{
+  "questoes": [
+    {
+      "id": "Q0001",
+      "fora": false,
+      "tema_central_id": 5524,
+      "extras_ids": [5527, 5534, 5537],
+      "alternativa_tema_id": 5527,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda especificamente o procedimento e as decisões no Tribunal do Júri."
+    },
+    {
+      "id": "Q0002",
+      "fora": false,
+      "tema_central_id": 4377,
+      "extras_ids": [4378],
+      "alternativa_tema_id": 4378,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão trata da seletividade do sistema penal e criminalização secundária segundo a criminologia crítica."
+    },
+    {
+      "id": "Q0003",
+      "fora": false,
+      "tema_central_id": 5534,
+      "extras_ids": [5561, 5475],
+      "alternativa_tema_id": 5561,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "Trata de recurso cabível contra decisão de absolvição sumária e seus efeitos na esfera cível."
+    },
+    {
+      "id": "Q0004",
+      "fora": false,
+      "tema_central_id": 5484,
+      "extras_ids": [5480],
+      "alternativa_tema_id": 5480,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "O tema central é a competência por prerrogativa de função de prefeitos."
+    },
+    {
+      "id": "Q0005",
+      "fora": false,
+      "tema_central_id": 5202,
+      "extras_ids": [5186, 5201],
+      "alternativa_tema_id": 5186,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "Envolve o cálculo do período depurador para fins de reincidência e fixação de regime."
+    },
+    {
+      "id": "Q0006",
+      "fora": false,
+      "tema_central_id": 5159,
+      "extras_ids": [5160, 5177],
+      "alternativa_tema_id": 5160,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Aborda conceitos de consumação e distinção entre furto e roubo."
+    },
+    {
+      "id": "Q0007",
+      "fora": false,
+      "tema_central_id": 5468,
+      "extras_ids": [5130, 5124, 4704],
+      "alternativa_tema_id": 5471,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "Analisa a natureza da ação penal em crimes de ameaça, injúria e perseguição."
+    },
+    {
+      "id": "Q0008",
+      "fora": false,
+      "tema_central_id": 4703,
+      "extras_ids": [5087],
+      "alternativa_tema_id": 5087,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Trata de requisito para progressão de regime em crimes contra a administração pública."
+    },
+    {
+      "id": "Q0009",
+      "fora": false,
+      "tema_central_id": 5159,
+      "extras_ids": [5158],
+      "alternativa_tema_id": 5158,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Envolve a aplicação de escusas absolutórias em crimes contra o patrimônio."
+    },
+    {
+      "id": "Q0010",
+      "fora": false,
+      "tema_central_id": 4688,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Questão sobre jurisprudência dos tribunais superiores em crimes ambientais."
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "questoes": [
+    {
+      "id": "Q0051",
+      "fora": false,
+      "tema_central_id": 5182,
+      "extras_ids": [5180, 4690],
+      "alternativa_tema_id": 5180,
+      "duvida_subtemas": false,
+      "confianca": 0.98,
+      "motivo": "Trata das regras de extraterritorialidade da lei penal brasileira dispostas no art. 7º do Código Penal."
+    },
+    {
+      "id": "Q0052",
+      "fora": false,
+      "tema_central_id": 4703,
+      "extras_ids": [5201],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.99,
+      "motivo": "Aborda o instituto da remição da pena por trabalho e estudo conforme a Lei de Execução Penal (art. 126 da LEP)."
+    },
+    {
+      "id": "Q0053",
+      "fora": false,
+      "tema_central_id": 5541,
+      "extras_ids": [4701, 5539],
+      "alternativa_tema_id": 4701,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Cobra a eficácia da sentença homologatória de transação penal e a Súmula Vinculante 35."
+    },
+    {
+      "id": "Q0054",
+      "fora": false,
+      "tema_central_id": 5174,
+      "extras_ids": [5170],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.98,
+      "motivo": "Exige a correta identificação doutrinária das espécies de crimes (mera atividade, lesão, plurissubjetivo e pluriofensivo)."
+    },
+    {
+      "id": "Q0055",
+      "fora": false,
+      "tema_central_id": 5550,
+      "extras_ids": [5535, 5510],
+      "alternativa_tema_id": 5535,
+      "duvida_subtemas": false,
+      "confianca": 0.92,
+      "motivo": "Versa sobre o procedimento de inquirição de testemunhas previsto no art. 212 do CPP e o regime de nulidades."
+    },
+    {
+      "id": "Q0056",
+      "fora": false,
+      "tema_central_id": 5066,
+      "extras_ids": [5070, 5067, 5068],
+      "alternativa_tema_id": 5070,
+      "duvida_subtemas": true,
+      "confianca": 0.9,
+      "motivo": "Trata dos sistemas de aplicação da pena nos concursos de crimes e da regra de cúmulo de penas de multa."
+    },
+    {
+      "id": "Q0057",
+      "fora": false,
+      "tema_central_id": 5176,
+      "extras_ids": [5175],
+      "alternativa_tema_id": 5175,
+      "duvida_subtemas": false,
+      "confianca": 0.97,
+      "motivo": "Conceitua o iter criminis como o caminho ou fases pelas quais passa a realização do delito."
+    },
+    {
+      "id": "Q0058",
+      "fora": false,
+      "tema_central_id": 4390,
+      "extras_ids": [4378, 4387],
+      "alternativa_tema_id": 4378,
+      "duvida_subtemas": false,
+      "confianca": 0.88,
+      "motivo": "Examina o processo de vitimização e de criminalização seletiva sob a perspectiva sociológica/criminológica."
+    },
+    {
+      "id": "Q0059",
+      "fora": false,
+      "tema_central_id": 4388,
+      "extras_ids": [4385, 4387],
+      "alternativa_tema_id": 4385,
+      "duvida_subtemas": false,
+      "confianca": 0.92,
+      "motivo": "Aborda o pensamento de Alessandro Baratta e a crítica criminológica ao sistema prisional e suas relações sociais."
+    },
+    {
+      "id": "Q0060",
+      "fora": false,
+      "tema_central_id": 5087,
+      "extras_ids": [5093, 5096, 5094],
+      "alternativa_tema_id": 5088,
+      "duvida_subtemas": true,
+      "confianca": 0.94,
+      "motivo": "A questão abrange múltiplos delitos contra a Administração Pública (corrupção ativa, facilitação de contrabando, etc.)."
+    }
+  ]
+}

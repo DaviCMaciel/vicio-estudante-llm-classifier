@@ -1,0 +1,104 @@
+{
+  "questoes": [
+    {
+      "id": "Q0041",
+      "fora": false,
+      "tema_central_id": 5184,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda diretamente o instituto da medida de segurança no Direito Penal."
+    },
+    {
+      "id": "Q0042",
+      "fora": false,
+      "tema_central_id": 5222,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "O enunciado trata da definição de dolo direto dentro da teoria do crime."
+    },
+    {
+      "id": "Q0043",
+      "fora": false,
+      "tema_central_id": 5199,
+      "extras_ids": [5202, 5203, 5204],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": true,
+      "confianca": 0.9,
+      "motivo": "A questão aborda diversas fases da dosimetria da pena."
+    },
+    {
+      "id": "Q0044",
+      "fora": false,
+      "tema_central_id": 5583,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "Trata de revelia e direitos do acusado no processo penal."
+    },
+    {
+      "id": "Q0045",
+      "fora": false,
+      "tema_central_id": 5091,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "O excesso de exação é uma modalidade de crime contra a administração pública."
+    },
+    {
+      "id": "Q0046",
+      "fora": false,
+      "tema_central_id": 5509,
+      "extras_ids": [5510, 5511],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": true,
+      "confianca": 0.9,
+      "motivo": "A questão versa sobre nulidades processuais penais de forma geral."
+    },
+    {
+      "id": "Q0047",
+      "fora": false,
+      "tema_central_id": 5164,
+      "extras_ids": [5470],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "Trata do crime de dano e da natureza da ação penal correspondente."
+    },
+    {
+      "id": "Q0048",
+      "fora": false,
+      "tema_central_id": 5193,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "O tema central é o indulto e a comutação de pena."
+    },
+    {
+      "id": "Q0049",
+      "fora": false,
+      "tema_central_id": 5152,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "O caso trata de instigação ao suicídio e a necessidade de resultado para a consumação."
+    },
+    {
+      "id": "Q0050",
+      "fora": false,
+      "tema_central_id": 4708,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A questão refere-se especificamente à delação premiada na Lei de Drogas."
+    }
+  ]
+}

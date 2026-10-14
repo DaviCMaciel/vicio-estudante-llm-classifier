@@ -1,0 +1,139 @@
+{
+ "ids": [
+  "Q0221",
+  "Q0222",
+  "Q0223",
+  "Q0224",
+  "Q0225",
+  "Q0226",
+  "Q0227",
+  "Q0228",
+  "Q0229",
+  "Q0230"
+ ],
+ "itens": [
+  {
+   "id": "Q0221",
+   "fora": false,
+   "tema_central_id": 5199,
+   "extras_ids": [
+    5203,
+    5184
+   ],
+   "alternativa_tema_id": 5203,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda regras gerais sobre a teoria da pena, dosimetria e medidas de segurança."
+  },
+  {
+   "id": "Q0222",
+   "fora": false,
+   "tema_central_id": 4374,
+   "extras_ids": [
+    4375,
+    4376
+   ],
+   "alternativa_tema_id": 4375,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "Trata das teorias das velocidades do direito penal e do direito penal do inimigo, temas afetos à Política Criminal."
+  },
+  {
+   "id": "Q0223",
+   "fora": false,
+   "tema_central_id": 4697,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O ingresso de chip de celular em estabelecimento prisional configura o crime específico previsto na Lei do Desarmamento / Lei de Execução Penal conforme tipificação própria."
+  },
+  {
+   "id": "Q0224",
+   "fora": false,
+   "tema_central_id": 5199,
+   "extras_ids": [
+    5207
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão aborda os requisitos da reincidência e sua repercussão na concessão de benefícios penais como o sursis."
+  },
+  {
+   "id": "Q0225",
+   "fora": false,
+   "tema_central_id": 5476,
+   "extras_ids": [
+    5478
+   ],
+   "alternativa_tema_id": 5478,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Trata da competência para julgamento de Ação Autônoma de Impugnação (Revisão Criminal)."
+  },
+  {
+   "id": "Q0226",
+   "fora": false,
+   "tema_central_id": 5543,
+   "extras_ids": [
+    5544
+   ],
+   "alternativa_tema_id": 5544,
+   "duvida_subtemas": false,
+   "confianca": 0.98,
+   "motivo": "A questão aborda diretamente o instituto da cadeia de custódia inserido no Código de Processo Penal."
+  },
+  {
+   "id": "Q0227",
+   "fora": false,
+   "tema_central_id": 5103,
+   "extras_ids": [
+    5108,
+    5150
+   ],
+   "alternativa_tema_id": 5150,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "O comando exige a diferenciação de crimes sexuais (estupro, estupro de vulnerável, etc.) e suas qualificadoras."
+  },
+  {
+   "id": "Q0228",
+   "fora": false,
+   "tema_central_id": 4703,
+   "extras_ids": [
+    5208
+   ],
+   "alternativa_tema_id": 5208,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Procedimento relativo ao livramento condicional afeto à Lei de Execução Penal."
+  },
+  {
+   "id": "Q0229",
+   "fora": false,
+   "tema_central_id": 5584,
+   "extras_ids": [
+    5519,
+    5520
+   ],
+   "alternativa_tema_id": 5519,
+   "duvida_subtemas": true,
+   "confianca": 0.9,
+   "motivo": "A questão aborda regras gerais sobre prisões e cautelares no processo penal."
+  },
+  {
+   "id": "Q0230",
+   "fora": false,
+   "tema_central_id": 5211,
+   "extras_ids": [
+    5214,
+    5071
+   ],
+   "alternativa_tema_id": 5071,
+   "duvida_subtemas": true,
+   "confianca": 0.9,
+   "motivo": "Aborda temas mistos da parte geral do direito penal, com ênfase na culpabilidade e erro de proibição."
+  }
+ ]
+}

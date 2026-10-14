@@ -1,0 +1,137 @@
+{
+ "ids": [
+  "Q0271",
+  "Q0272",
+  "Q0273",
+  "Q0274",
+  "Q0275",
+  "Q0276",
+  "Q0277",
+  "Q0278",
+  "Q0279",
+  "Q0280"
+ ],
+ "itens": [
+  {
+   "id": "Q0271",
+   "fora": false,
+   "tema_central_id": 5562,
+   "extras_ids": [
+    5513,
+    5516
+   ],
+   "alternativa_tema_id": 5524,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda o princípio tantum devolutum quantum appellatum e suas exceções, com foco particular nas apelações contra decisões do Tribunal do Júri."
+  },
+  {
+   "id": "Q0272",
+   "fora": false,
+   "tema_central_id": 4703,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão trata expressamente de faltas graves e regras inerentes à Lei de Execução Penal."
+  },
+  {
+   "id": "Q0273",
+   "fora": false,
+   "tema_central_id": 5096,
+   "extras_ids": [
+    5089,
+    5222
+   ],
+   "alternativa_tema_id": 5089,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O crime de condescendência criminosa (art. 320 do CP) é o único dentre as alternativas que admite punição na modalidade culposa."
+  },
+  {
+   "id": "Q0274",
+   "fora": false,
+   "tema_central_id": 5160,
+   "extras_ids": [
+    5150
+   ],
+   "alternativa_tema_id": 5150,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Trata da Súmula 610 do STF referente ao crime de latrocínio quando há tentativa de subtração e morte consumada."
+  },
+  {
+   "id": "Q0275",
+   "fora": false,
+   "tema_central_id": 5540,
+   "extras_ids": [
+    5539
+   ],
+   "alternativa_tema_id": 5539,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Aborda o procedimento sumaríssimo nos Juizados Especiais Criminais e a consequência da não localização do réu para citação (remessa ao juízo comum)."
+  },
+  {
+   "id": "Q0276",
+   "fora": false,
+   "tema_central_id": 5554,
+   "extras_ids": [
+    5545,
+    5547
+   ],
+   "alternativa_tema_id": 5545,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda diversas regras sobre provas no processo penal, sendo a alternativa correta referente à busca e apreensão e busca pessoal."
+  },
+  {
+   "id": "Q0277",
+   "fora": false,
+   "tema_central_id": 4696,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Trata dos crimes previstos no Estatuto do Idoso."
+  },
+  {
+   "id": "Q0278",
+   "fora": false,
+   "tema_central_id": 4701,
+   "extras_ids": [
+    5542
+   ],
+   "alternativa_tema_id": 5542,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Trata dos requisitos da suspensão condicional do processo (sursis processual) regulada pela Lei 9.099/95 no âmbito dos Juizados Especiais Criminais."
+  },
+  {
+   "id": "Q0279",
+   "fora": false,
+   "tema_central_id": 5188,
+   "extras_ids": [
+    5159,
+    5178
+   ],
+   "alternativa_tema_id": 5178,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão descreve a consumação do furto, o arrependimento posterior (devolução) e o decurso de tempo superior a 4 anos entre o recebimento da denúncia e os marcos prescricionais, configurando a prescrição da pretensão punitiva."
+  },
+  {
+   "id": "Q0280",
+   "fora": false,
+   "tema_central_id": 5121,
+   "extras_ids": [
+    5122,
+    5474
+   ],
+   "alternativa_tema_id": 5122,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Trata das disposições gerais e da ação penal nos crimes contra a honra, englobando queixa-crime e exceção da verdade."
+  }
+ ]
+}

@@ -1,0 +1,136 @@
+{
+ "ids": [
+  "Q0061",
+  "Q0062",
+  "Q0063",
+  "Q0064",
+  "Q0065",
+  "Q0066",
+  "Q0067",
+  "Q0068",
+  "Q0069",
+  "Q0070"
+ ],
+ "itens": [
+  {
+   "id": "Q0061",
+   "fora": false,
+   "tema_central_id": 4703,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.98,
+   "motivo": "A questão aborda os efeitos e a disciplina jurídica da falta grave no âmbito da Lei de Execução Penal (LEP)."
+  },
+  {
+   "id": "Q0062",
+   "fora": false,
+   "tema_central_id": 5182,
+   "extras_ids": [
+    5180
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.98,
+   "motivo": "A questão cobra as regras da extraterritorialidade incondicionada da lei penal brasileira, previstas no art. 7º do CP."
+  },
+  {
+   "id": "Q0063",
+   "fora": false,
+   "tema_central_id": 4704,
+   "extras_ids": [
+    5522
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.99,
+   "motivo": "O comando trata da concessão e aplicação das medidas protetivas de urgência com base na Lei Maria da Penha (Lei nº 11.340/2006)."
+  },
+  {
+   "id": "Q0064",
+   "fora": false,
+   "tema_central_id": 5165,
+   "extras_ids": [
+    4695,
+    5172
+   ],
+   "alternativa_tema_id": 4695,
+   "duvida_subtemas": false,
+   "confianca": 0.88,
+   "motivo": "O caso aborda a apropriação indébita previdenciária (art. 168-A do CP) e a aplicabilidade de princípios e causas de extinção da punibilidade."
+  },
+  {
+   "id": "Q0065",
+   "fora": false,
+   "tema_central_id": 5161,
+   "extras_ids": [
+    5157
+   ],
+   "alternativa_tema_id": 5157,
+   "duvida_subtemas": false,
+   "confianca": 0.96,
+   "motivo": "Trata dos elementos típicos, consumação e qualificadoras do crime de extorsão mediante sequestro (art. 159 do Código Penal)."
+  },
+  {
+   "id": "Q0066",
+   "fora": false,
+   "tema_central_id": 4373,
+   "extras_ids": [
+    4371
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.97,
+   "motivo": "A questão examina as premissas epistemológicas e metodológicas da Escola Positiva na Criminologia."
+  },
+  {
+   "id": "Q0067",
+   "fora": false,
+   "tema_central_id": 5091,
+   "extras_ids": [
+    5087
+   ],
+   "alternativa_tema_id": 5087,
+   "duvida_subtemas": false,
+   "confianca": 0.98,
+   "motivo": "A situação fática descreve funcionário público exigindo vantagem indevida em razão da função, configurando concussão (art. 316 do CP)."
+  },
+  {
+   "id": "Q0068",
+   "fora": false,
+   "tema_central_id": 5096,
+   "extras_ids": [
+    5087
+   ],
+   "alternativa_tema_id": 5087,
+   "duvida_subtemas": false,
+   "confianca": 0.92,
+   "motivo": "A alternativa correta versa estritamente sobre a caracterização do tipo penal de condescendência criminosa (art. 320 do CP)."
+  },
+  {
+   "id": "Q0069",
+   "fora": false,
+   "tema_central_id": 5173,
+   "extras_ids": [
+    5170
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.98,
+   "motivo": "A questão cobra o conceito de interpretação analógica na teoria da interpretação da norma penal."
+  },
+  {
+   "id": "Q0070",
+   "fora": false,
+   "tema_central_id": 5193,
+   "extras_ids": [
+    4703,
+    5201
+   ],
+   "alternativa_tema_id": 4703,
+   "duvida_subtemas": false,
+   "confianca": 0.85,
+   "motivo": "A questão exige conhecimento de tese repetitiva do STJ sobre o cômputo da prisão cautelar como cumprimento de pena para indulto e comutação."
+  }
+ ]
+}

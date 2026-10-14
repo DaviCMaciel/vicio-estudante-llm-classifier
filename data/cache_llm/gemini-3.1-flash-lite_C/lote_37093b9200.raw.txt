@@ -1,0 +1,112 @@
+{
+  "questoes": [
+    {
+      "id": "Q0051",
+      "fora": false,
+      "tema_central_id": 5182,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão trata da aplicação da lei penal brasileira no espaço, especificamente sobre crimes cometidos por estrangeiros contra brasileiros no exterior."
+    },
+    {
+      "id": "Q0052",
+      "fora": false,
+      "tema_central_id": 4703,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda as regras de remição de pena pelo trabalho e pelo estudo previstas na Lei de Execução Penal."
+    },
+    {
+      "id": "Q0053",
+      "fora": false,
+      "tema_central_id": 5541,
+      "extras_ids": [
+        5542
+      ],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A questão discute a natureza jurídica da transação penal e seus efeitos em comparação com a suspensão condicional do processo."
+    },
+    {
+      "id": "Q0054",
+      "fora": false,
+      "tema_central_id": 5174,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão exige o conhecimento das classificações doutrinárias dos crimes quanto à conduta, resultado, sujeitos e bens jurídicos."
+    },
+    {
+      "id": "Q0055",
+      "fora": false,
+      "tema_central_id": 5550,
+      "extras_ids": [
+        5510
+      ],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A questão trata da ordem de inquirição de testemunhas e as consequências processuais de sua inobservância."
+    },
+    {
+      "id": "Q0056",
+      "fora": false,
+      "tema_central_id": 5066,
+      "extras_ids": [
+        5206
+      ],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda os sistemas de aplicação de pena no concurso de crimes (cúmulo e exasperação)."
+    },
+    {
+      "id": "Q0057",
+      "fora": false,
+      "tema_central_id": 5176,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 1.0,
+      "motivo": "A questão pede a definição básica do conceito de iter criminis no Direito Penal."
+    },
+    {
+      "id": "Q0058",
+      "fora": false,
+      "tema_central_id": 4377,
+      "extras_ids": [
+        4378
+      ],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.85,
+      "motivo": "A questão aborda a seletividade do sistema penal e a relação entre criminalização e desigualdade social."
+    },
+    {
+      "id": "Q0059",
+      "fora": false,
+      "tema_central_id": 4380,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A questão versa sobre a teoria criminológica de Alessandro Baratta acerca da função do cárcere e a exclusão social."
+    },
+    {
+      "id": "Q0060",
+      "fora": false,
+      "tema_central_id": 5087,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão trata dos crimes contra a administração pública, exigindo conhecimento dos tipos penais específicos."
+    }
+  ]
+}

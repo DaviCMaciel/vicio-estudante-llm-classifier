@@ -1,0 +1,140 @@
+{
+ "ids": [
+  "Q0011",
+  "Q0012",
+  "Q0013",
+  "Q0014",
+  "Q0015",
+  "Q0016",
+  "Q0017",
+  "Q0018",
+  "Q0019",
+  "Q0020"
+ ],
+ "itens": [
+  {
+   "id": "Q0011",
+   "fora": false,
+   "tema_central_id": 4702,
+   "extras_ids": [
+    5182
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O caso aborda crime de lavagem de dinheiro e competência da justiça federal decorrente do envolvimento de servidor público federal."
+  },
+  {
+   "id": "Q0012",
+   "fora": false,
+   "tema_central_id": 5569,
+   "extras_ids": [
+    4701,
+    5561
+   ],
+   "alternativa_tema_id": 5561,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão trata expressamente de recurso cabível contra decisão de rejeição de denúncia no âmbito dos Juizados Especiais Criminais."
+  },
+  {
+   "id": "Q0013",
+   "fora": false,
+   "tema_central_id": 5503,
+   "extras_ids": [
+    5500,
+    5502
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.98,
+   "motivo": "A questão aborda diretamente as atribuições e competências legais do Juiz das Garantias."
+  },
+  {
+   "id": "Q0014",
+   "fora": false,
+   "tema_central_id": 5477,
+   "extras_ids": [
+    4709
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "Trata do cabimento de habeas corpus em face de medidas restritivas de liberdade aplicadas a menores."
+  },
+  {
+   "id": "Q0015",
+   "fora": false,
+   "tema_central_id": 5499,
+   "extras_ids": [
+    5500
+   ],
+   "alternativa_tema_id": 5500,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão versa sobre conceitos, finalidade e regras fundamentais do inquérito policial no CPP."
+  },
+  {
+   "id": "Q0016",
+   "fora": false,
+   "tema_central_id": 5584,
+   "extras_ids": [
+    5503,
+    5518
+   ],
+   "alternativa_tema_id": 5519,
+   "duvida_subtemas": false,
+   "confianca": 0.92,
+   "motivo": "A questão consolida entendimentos jurisprudenciais atuais sobre diversas espécies e regras de prisões cautelares."
+  },
+  {
+   "id": "Q0017",
+   "fora": false,
+   "tema_central_id": 5088,
+   "extras_ids": [
+    5530
+   ],
+   "alternativa_tema_id": 5533,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "Aborda o procedimento especial aplicável aos crimes de responsabilidade dos funcionários públicos."
+  },
+  {
+   "id": "Q0018",
+   "fora": false,
+   "tema_central_id": 5540,
+   "extras_ids": [
+    4701
+   ],
+   "alternativa_tema_id": 4701,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Trata expressamente das hipóteses de exclusão de competência dos Juizados Especiais Criminais."
+  },
+  {
+   "id": "Q0019",
+   "fora": false,
+   "tema_central_id": 5475,
+   "extras_ids": [
+    5572
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão foca na Ação Civil Ex Delicto e nas relações entre as esferas cível e criminal."
+  },
+  {
+   "id": "Q0020",
+   "fora": false,
+   "tema_central_id": 5066,
+   "extras_ids": [
+    4709,
+    5203
+   ],
+   "alternativa_tema_id": 5203,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "Envolve temas mistos do Direito Penal, com destaque inicial para o concurso de crimes e dosimetria da pena."
+  }
+ ]
+}

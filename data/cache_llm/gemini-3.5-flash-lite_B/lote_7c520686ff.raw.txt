@@ -1,0 +1,104 @@
+{
+  "questoes": [
+    {
+      "id": "Q0211",
+      "fora": false,
+      "tema_central_id": 5582,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda os princípios fundamentais do processo penal, especificamente a publicidade dos atos processuais e a polícia das audiências."
+    },
+    {
+      "id": "Q0212",
+      "fora": true,
+      "tema_central_id": 0,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 1.0,
+      "motivo": "A questão aborda regras de citação do Código de Processo Civil aplicadas ao Processo Penal, tema não contemplado na árvore específica."
+    },
+    {
+      "id": "Q0213",
+      "fora": false,
+      "tema_central_id": 4708,
+      "extras_ids": [5533],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão versa sobre o rito procedimental e a notificação prévia nos crimes previstos na Lei de Drogas."
+    },
+    {
+      "id": "Q0214",
+      "fora": false,
+      "tema_central_id": 5494,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Trata de exceção de litispendência em virtude de duplicidade de ações penais sobre o mesmo fato."
+    },
+    {
+      "id": "Q0215",
+      "fora": false,
+      "tema_central_id": 5201,
+      "extras_ids": [5202],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A questão aborda a fixação do regime inicial de cumprimento de pena privativa de liberdade com base na pena-base e circunstâncias judiciais."
+    },
+    {
+      "id": "Q0216",
+      "fora": false,
+      "tema_central_id": 5541,
+      "extras_ids": [5539],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão discute institutos dos Juizados Especiais Criminais, com foco na composição civil e transação penal."
+    },
+    {
+      "id": "Q0217",
+      "fora": false,
+      "tema_central_id": 4372,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "Aborda a perspectiva histórica e evolutiva da Criminologia e da reforma penal conforme o pensamento de Michel Foucault."
+    },
+    {
+      "id": "Q0218",
+      "fora": false,
+      "tema_central_id": 5518,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão analisa a legalidade da prisão em flagrante no contexto do crime de uso de documento falso e atuação policial (flagrante esperado)."
+    },
+    {
+      "id": "Q0219",
+      "fora": false,
+      "tema_central_id": 5071,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.8,
+      "motivo": "Envolve o estudo do concurso de pessoas e formas de participação criminosa."
+    },
+    {
+      "id": "Q0220",
+      "fora": false,
+      "tema_central_id": 5501,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Trata da conclusão e do arquivamento do inquérito policial à luz da jurisprudência recente do STF."
+    }
+  ]
+}

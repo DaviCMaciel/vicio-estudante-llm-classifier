@@ -1,0 +1,130 @@
+{
+ "ids": [
+  "Q0331",
+  "Q0332",
+  "Q0333",
+  "Q0334",
+  "Q0335",
+  "Q0336",
+  "Q0337",
+  "Q0338",
+  "Q0339",
+  "Q0340"
+ ],
+ "itens": [
+  {
+   "id": "Q0331",
+   "fora": false,
+   "tema_central_id": 5477,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda diretamente o cabimento, legitimação e regras do Habeas Corpus."
+  },
+  {
+   "id": "Q0332",
+   "fora": false,
+   "tema_central_id": 5541,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão aborda os requisitos e as regras aplicáveis à transação penal nos Juizados Especiais Criminais."
+  },
+  {
+   "id": "Q0333",
+   "fora": false,
+   "tema_central_id": 5171,
+   "extras_ids": [
+    5178,
+    4371
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.8,
+   "motivo": "Trata de diversos tópicos de direito penal e criminologia, sendo a conceituação e fontes um dos pontos gerais abordados."
+  },
+  {
+   "id": "Q0334",
+   "fora": false,
+   "tema_central_id": 4381,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.98,
+   "motivo": "A questão cobra explicitamente os objetos de estudo da Criminologia."
+  },
+  {
+   "id": "Q0335",
+   "fora": false,
+   "tema_central_id": 5218,
+   "extras_ids": [
+    5222
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão aborda conceitos fundamentais da teoria do crime, especificamente do fato típico e da teoria finalista da ação."
+  },
+  {
+   "id": "Q0336",
+   "fora": false,
+   "tema_central_id": 5159,
+   "extras_ids": [
+    5160
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O caso trata da consumação do crime de furto (teoria da inversão da posse - aprehenditio/amotio)."
+  },
+  {
+   "id": "Q0337",
+   "fora": false,
+   "tema_central_id": 4684,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.98,
+   "motivo": "A questão trata expressamente da Lei de Abuso de Autoridade (Lei nº 13.869/2019)."
+  },
+  {
+   "id": "Q0338",
+   "fora": false,
+   "tema_central_id": 5546,
+   "extras_ids": [
+    5548,
+    5550
+   ],
+   "alternativa_tema_id": 5545,
+   "duvida_subtemas": true,
+   "confianca": 0.9,
+   "motivo": "A questão trata das regras gerais de provas no processo penal, com foco na perícia e exame de corpo de delito."
+  },
+  {
+   "id": "Q0339",
+   "fora": false,
+   "tema_central_id": 5572,
+   "extras_ids": [
+    5578
+   ],
+   "alternativa_tema_id": 5529,
+   "duvida_subtemas": true,
+   "confianca": 0.85,
+   "motivo": "Trata de regras sobre a sentença penal e embargos de declaração/correlação."
+  },
+  {
+   "id": "Q0340",
+   "fora": false,
+   "tema_central_id": 5071,
+   "extras_ids": [
+    5074
+   ],
+   "alternativa_tema_id": 5074,
+   "duvida_subtemas": true,
+   "confianca": 0.95,
+   "motivo": "A questão versa sobre as regras do concurso de pessoas no Código Penal."
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+  "questoes": [
+    {
+      "id": "Q0281",
+      "fora": false,
+      "tema_central_id": 4700,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda diretamente regras de interceptação telefônica e quebras de sigilo."
+    },
+    {
+      "id": "Q0282",
+      "fora": false,
+      "tema_central_id": 4704,
+      "extras_ids": [
+        4690,
+        4697
+      ],
+      "alternativa_tema_id": 4697,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A questão cobra predominantemente a aplicação da Lei Maria da Penha e medidas protetivas."
+    },
+    {
+      "id": "Q0283",
+      "fora": false,
+      "tema_central_id": 5496,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Trata expressamente de medidas assecuratórias, especificamente a hipoteca legal no processo penal."
+    },
+    {
+      "id": "Q0284",
+      "fora": false,
+      "tema_central_id": 5231,
+      "extras_ids": [
+        5526
+      ],
+      "alternativa_tema_id": 5224,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "O cerne da questão é a análise da excludente de ilicitude da legítima defesa em um caso hipotético."
+    },
+    {
+      "id": "Q0285",
+      "fora": false,
+      "tema_central_id": 4376,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.98,
+      "motivo": "A questão aborda diretamente o conceito e as características do Direito Penal do Inimigo."
+    },
+    {
+      "id": "Q0286",
+      "fora": false,
+      "tema_central_id": 5204,
+      "extras_ids": [
+        5203,
+        5069
+      ],
+      "alternativa_tema_id": 5203,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A matéria central é a aplicação da dosimetria da pena e suas fases e causas de aumento/diminuição."
+    },
+    {
+      "id": "Q0287",
+      "fora": false,
+      "tema_central_id": 5230,
+      "extras_ids": [],
+      "alternativa_tema_id": 5231,
+      "duvida_subtemas": true,
+      "confianca": 0.9,
+      "motivo": "A questão aborda as excludentes de ilicitude previstas na Parte Geral do Código Penal."
+    },
+    {
+      "id": "Q0288",
+      "fora": false,
+      "tema_central_id": 5103,
+      "extras_ids": [
+        5068,
+        4688
+      ],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.85,
+      "motivo": "Trata de infrações penais variadas, tendo o estupro de vulnerável como um dos principais pontos na primeira assertiva."
+    },
+    {
+      "id": "Q0289",
+      "fora": false,
+      "tema_central_id": 4704,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.98,
+      "motivo": "A questão cobra aspectos processuais da Lei Maria da Penha com base em entendimentos jurisprudenciais."
+    },
+    {
+      "id": "Q0290",
+      "fora": false,
+      "tema_central_id": 4701,
+      "extras_ids": [
+        5539
+      ],
+      "alternativa_tema_id": 5539,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda os procedimentos e regras dos Juizados Especiais Criminais conforme a Lei 9.099/95."
+    }
+  ]
+}

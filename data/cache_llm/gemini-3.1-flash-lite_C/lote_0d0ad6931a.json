@@ -1,0 +1,126 @@
+{
+ "ids": [
+  "Q0081",
+  "Q0082",
+  "Q0083",
+  "Q0084",
+  "Q0085",
+  "Q0086",
+  "Q0087",
+  "Q0088",
+  "Q0089",
+  "Q0090"
+ ],
+ "itens": [
+  {
+   "id": "Q0081",
+   "fora": false,
+   "tema_central_id": 4373,
+   "extras_ids": [
+    4371
+   ],
+   "alternativa_tema_id": 4371,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda diretamente as características e autores das principais escolas criminológicas."
+  },
+  {
+   "id": "Q0082",
+   "fora": false,
+   "tema_central_id": 5100,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O enunciado descreve a conduta de opor-se à execução de ato legal mediante ameaça, configurando o crime de resistência."
+  },
+  {
+   "id": "Q0083",
+   "fora": false,
+   "tema_central_id": 5150,
+   "extras_ids": [
+    5086
+   ],
+   "alternativa_tema_id": 5086,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "Trata-se de erro sobre o meio (dolus generalis) onde o agente responde pelo crime pretendido, não havendo ocultação de cadáver pois o corpo ainda estava vivo."
+  },
+  {
+   "id": "Q0084",
+   "fora": false,
+   "tema_central_id": 4704,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão exige conhecimento literal dos direitos assistenciais previstos na Lei Maria da Penha."
+  },
+  {
+   "id": "Q0085",
+   "fora": false,
+   "tema_central_id": 5091,
+   "extras_ids": [
+    5076
+   ],
+   "alternativa_tema_id": 5076,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A condição de funcionário público é elementar do crime de concussão e se comunica ao particular se este tinha ciência da condição do agente."
+  },
+  {
+   "id": "Q0086",
+   "fora": false,
+   "tema_central_id": 5092,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O crime de corrupção passiva é formal, consumando-se com a solicitação ou aceitação da promessa de vantagem indevida."
+  },
+  {
+   "id": "Q0087",
+   "fora": false,
+   "tema_central_id": 4703,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda a jurisprudência consolidada do STJ sobre a concessão de prisão domiciliar em regime fechado para mães."
+  },
+  {
+   "id": "Q0088",
+   "fora": false,
+   "tema_central_id": 4381,
+   "extras_ids": [
+    4389
+   ],
+   "alternativa_tema_id": 4389,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O enunciado define corretamente os objetos de estudo da Criminologia e da Vitimologia."
+  },
+  {
+   "id": "Q0089",
+   "fora": false,
+   "tema_central_id": 5172,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão lista os quatro requisitos cumulativos exigidos pelo STF para a aplicação do princípio da insignificância."
+  },
+  {
+   "id": "Q0090",
+   "fora": false,
+   "tema_central_id": 5530,
+   "extras_ids": [
+    5540
+   ],
+   "alternativa_tema_id": 5540,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A alternativa D descreve corretamente as hipóteses de rejeição da denúncia previstas no Código de Processo Penal."
+  }
+ ]
+}

@@ -1,0 +1,133 @@
+{
+ "ids": [
+  "Q0291",
+  "Q0292",
+  "Q0293",
+  "Q0294",
+  "Q0295",
+  "Q0296",
+  "Q0297",
+  "Q0298",
+  "Q0299",
+  "Q0300"
+ ],
+ "itens": [
+  {
+   "id": "Q0291",
+   "fora": false,
+   "tema_central_id": 4708,
+   "extras_ids": [],
+   "alternativa_tema_id": 5498,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda os prazos de inquérito policial previstos especificamente na Lei de Drogas (Lei 11.343/06)."
+  },
+  {
+   "id": "Q0292",
+   "fora": false,
+   "tema_central_id": 4374,
+   "extras_ids": [
+    4368
+   ],
+   "alternativa_tema_id": 4368,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "O enunciado discute o panorama do sistema carcerário brasileiro e a política criminal contemporânea."
+  },
+  {
+   "id": "Q0293",
+   "fora": false,
+   "tema_central_id": 5185,
+   "extras_ids": [
+    5189,
+    5188
+   ],
+   "alternativa_tema_id": 5189,
+   "duvida_subtemas": true,
+   "confianca": 0.9,
+   "motivo": "A questão exige o cálculo e a verificação da ocorrência de prescrição da pretensão punitiva ou executória."
+  },
+  {
+   "id": "Q0294",
+   "fora": false,
+   "tema_central_id": 5211,
+   "extras_ids": [
+    5213,
+    5217
+   ],
+   "alternativa_tema_id": 5213,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A alternativa correta trata especificamente da jurisprudência do STJ sobre inexigibilidade de conduta diversa e exclusão da culpabilidade."
+  },
+  {
+   "id": "Q0295",
+   "fora": false,
+   "tema_central_id": 5488,
+   "extras_ids": [
+    5489
+   ],
+   "alternativa_tema_id": 5489,
+   "duvida_subtemas": true,
+   "confianca": 0.85,
+   "motivo": "O tema central da questão é a contagem de prazos e a forma de comunicação dos atos processuais."
+  },
+  {
+   "id": "Q0296",
+   "fora": false,
+   "tema_central_id": 5472,
+   "extras_ids": [
+    5466
+   ],
+   "alternativa_tema_id": 5466,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda a legitimação subsidiária para a propositura ou sucessão na ação penal de iniciativa privada."
+  },
+  {
+   "id": "Q0297",
+   "fora": false,
+   "tema_central_id": 4695,
+   "extras_ids": [
+    4689
+   ],
+   "alternativa_tema_id": 4689,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão discute aspectos específicos dos crimes contra a ordem tributária previstos na legislação especial."
+  },
+  {
+   "id": "Q0298",
+   "fora": false,
+   "tema_central_id": 4694,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão aborda os crimes contra as relações de consumo tipificados no âmbito do CDC e leis correlatas."
+  },
+  {
+   "id": "Q0299",
+   "fora": false,
+   "tema_central_id": 4371,
+   "extras_ids": [
+    4373,
+    4385
+   ],
+   "alternativa_tema_id": 4385,
+   "duvida_subtemas": true,
+   "confianca": 0.9,
+   "motivo": "A questão aborda conceitos de escolas criminológicas, criminologia crítica e teorias sociológicas."
+  },
+  {
+   "id": "Q0300",
+   "fora": false,
+   "tema_central_id": 5084,
+   "extras_ids": [],
+   "alternativa_tema_id": 5169,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Ocultar objeto (arma) utilizado em crime anterior sem concurso prévio configura o crime de favorecimento real."
+  }
+ ]
+}

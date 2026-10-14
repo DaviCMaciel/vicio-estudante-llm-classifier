@@ -1,0 +1,130 @@
+{
+ "ids": [
+  "Q0231",
+  "Q0232",
+  "Q0233",
+  "Q0234",
+  "Q0235",
+  "Q0236",
+  "Q0237",
+  "Q0238",
+  "Q0239",
+  "Q0240"
+ ],
+ "itens": [
+  {
+   "id": "Q0231",
+   "fora": false,
+   "tema_central_id": 5224,
+   "extras_ids": [
+    4708
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O erro sobre elemento constitutivo do tipo caracteriza o erro de tipo essencial, cujas consequências estão previstas no art. 20 do Código Penal."
+  },
+  {
+   "id": "Q0232",
+   "fora": false,
+   "tema_central_id": 5086,
+   "extras_ids": [
+    5080,
+    5084
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão aborda diversos crimes contra a administração da justiça, exigindo análise de tipos específicos da seção."
+  },
+  {
+   "id": "Q0233",
+   "fora": false,
+   "tema_central_id": 5178,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.98,
+   "motivo": "O enunciado trata diretamente das hipóteses de desistência voluntária e arrependimento eficaz previstas na Parte Geral do Código Penal."
+  },
+  {
+   "id": "Q0234",
+   "fora": false,
+   "tema_central_id": 4381,
+   "extras_ids": [
+    4382
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A hermenêutica dogmática jurídica se afasta do objeto e método empírico da Criminologia."
+  },
+  {
+   "id": "Q0235",
+   "fora": false,
+   "tema_central_id": 5561,
+   "extras_ids": [],
+   "alternativa_tema_id": 5481,
+   "duvida_subtemas": false,
+   "confianca": 0.8,
+   "motivo": "A assertiva aborda cabimento e efeitos de recurso em sentido estrito contra decisão de competência."
+  },
+  {
+   "id": "Q0236",
+   "fora": false,
+   "tema_central_id": 5594,
+   "extras_ids": [
+    5491,
+    5501
+   ],
+   "alternativa_tema_id": 5491,
+   "duvida_subtemas": false,
+   "confianca": 0.85,
+   "motivo": "A assertiva III trata diretamente da vedação de condenação baseada exclusivamente na fase inquisitorial, tema central de provas e inquérito no processo penal."
+  },
+  {
+   "id": "Q0237",
+   "fora": false,
+   "tema_central_id": 5178,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.99,
+   "motivo": "Questão conceitual direta sobre a distinção entre desistência voluntária e arrependimento eficaz."
+  },
+  {
+   "id": "Q0238",
+   "fora": true,
+   "tema_central_id": 0,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Trata de regras específicas de fiança no CPP que não possuem correspondência exata nos temas da árvore fornecida."
+  },
+  {
+   "id": "Q0239",
+   "fora": false,
+   "tema_central_id": 5203,
+   "extras_ids": [
+    5207
+   ],
+   "alternativa_tema_id": 5207,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A alternativa A aborda diretamente as atenuantes genéricas da menoridade e senilidade na dosimetria da pena."
+  },
+  {
+   "id": "Q0240",
+   "fora": false,
+   "tema_central_id": 5498,
+   "extras_ids": [
+    5518
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão exige o cálculo de prazos do inquérito policial com indiciado preso."
+  }
+ ]
+}

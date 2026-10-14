@@ -1,0 +1,116 @@
+{
+ "ids": [
+  "Q0351",
+  "Q0352",
+  "Q0353",
+  "Q0354",
+  "Q0355",
+  "Q0356",
+  "Q0357",
+  "Q0358",
+  "Q0359"
+ ],
+ "itens": [
+  {
+   "id": "Q0351",
+   "fora": false,
+   "tema_central_id": 5117,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A falsificação de cartão de crédito é equiparada a documento particular para fins penais."
+  },
+  {
+   "id": "Q0352",
+   "fora": false,
+   "tema_central_id": 5515,
+   "extras_ids": [
+    5071
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão aborda os efeitos dos recursos no processo penal, especificamente o efeito extensivo no concurso de agentes."
+  },
+  {
+   "id": "Q0353",
+   "fora": false,
+   "tema_central_id": 5185,
+   "extras_ids": [],
+   "alternativa_tema_id": 5186,
+   "duvida_subtemas": true,
+   "confianca": 0.85,
+   "motivo": "Trata da prescrição no curso do processo e seus reflexos na extinção da punibilidade."
+  },
+  {
+   "id": "Q0354",
+   "fora": false,
+   "tema_central_id": 5218,
+   "extras_ids": [
+    5226,
+    5073
+   ],
+   "alternativa_tema_id": 5227,
+   "duvida_subtemas": true,
+   "confianca": 0.9,
+   "motivo": "A alternativa aborda teorias da conduta, nexo causal, imputação objetiva e teoria do domínio do fato dentro do fato típico."
+  },
+  {
+   "id": "Q0355",
+   "fora": false,
+   "tema_central_id": 4708,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda o entendimento recente do STF sobre a Lei de Drogas (Art. 28 da Lei 11.343/06)."
+  },
+  {
+   "id": "Q0356",
+   "fora": false,
+   "tema_central_id": 5066,
+   "extras_ids": [
+    5067,
+    5068,
+    5070
+   ],
+   "alternativa_tema_id": 5067,
+   "duvida_subtemas": true,
+   "confianca": 0.95,
+   "motivo": "A questão cobra os conceitos e regras do concurso material, concurso formal e pena de multa no concurso de crimes."
+  },
+  {
+   "id": "Q0357",
+   "fora": false,
+   "tema_central_id": 5135,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "Define o crime contra a organização do trabalho correspondente à boicotagem violenta."
+  },
+  {
+   "id": "Q0358",
+   "fora": true,
+   "tema_central_id": 0,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A matéria trata da Lei de Delitos Informáticos (Lei 12.737/12), que não possui tema específico correspondente na lista fornecida."
+  },
+  {
+   "id": "Q0359",
+   "fora": false,
+   "tema_central_id": 4696,
+   "extras_ids": [
+    4701
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão trata da aplicação da Lei 9.099/95 aos crimes praticados contra idosos previstos no Estatuto do Idoso."
+  }
+ ]
+}

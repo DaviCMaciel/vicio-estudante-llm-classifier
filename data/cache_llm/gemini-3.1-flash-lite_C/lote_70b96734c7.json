@@ -1,0 +1,129 @@
+{
+ "ids": [
+  "Q0031",
+  "Q0032",
+  "Q0033",
+  "Q0034",
+  "Q0035",
+  "Q0036",
+  "Q0037",
+  "Q0038",
+  "Q0039",
+  "Q0040"
+ ],
+ "itens": [
+  {
+   "id": "Q0031",
+   "fora": false,
+   "tema_central_id": 4388,
+   "extras_ids": [
+    4385
+   ],
+   "alternativa_tema_id": 4385,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão descreve a teoria da anomia de Merton, que é uma das teorias criminológicas em espécie."
+  },
+  {
+   "id": "Q0032",
+   "fora": false,
+   "tema_central_id": 5497,
+   "extras_ids": [
+    5498
+   ],
+   "alternativa_tema_id": 5498,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O procedimento para verificação de insanidade mental no curso do inquérito é regido pelo art. 149 do CPP."
+  },
+  {
+   "id": "Q0033",
+   "fora": false,
+   "tema_central_id": 5519,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda os requisitos e a aplicabilidade da prisão preventiva."
+  },
+  {
+   "id": "Q0034",
+   "fora": false,
+   "tema_central_id": 5477,
+   "extras_ids": [
+    5594
+   ],
+   "alternativa_tema_id": 5594,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "O habeas corpus é o instrumento adequado para sanar ilegalidades que afetem a liberdade de locomoção, incluindo o trancamento de ações penais."
+  },
+  {
+   "id": "Q0035",
+   "fora": false,
+   "tema_central_id": 4706,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão exige conhecimento direto da Lei 13.260/2016 (Lei Antiterrorismo)."
+  },
+  {
+   "id": "Q0036",
+   "fora": false,
+   "tema_central_id": 4704,
+   "extras_ids": [
+    5531
+   ],
+   "alternativa_tema_id": 5531,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A audiência do art. 16 da Lei Maria da Penha é dispensável quando não há manifestação de retratação da vítima."
+  },
+  {
+   "id": "Q0037",
+   "fora": false,
+   "tema_central_id": 5118,
+   "extras_ids": [
+    5132,
+    5081
+   ],
+   "alternativa_tema_id": 5132,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A alternativa D está incorreta pois descreve o crime de falsificação de documento público ou inserção de dados falsos em sistemas, não o art. 298."
+  },
+  {
+   "id": "Q0038",
+   "fora": false,
+   "tema_central_id": 5583,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão trata das prerrogativas do ofendido no processo penal, especificamente sobre a proteção de sua intimidade."
+  },
+  {
+   "id": "Q0039",
+   "fora": false,
+   "tema_central_id": 4687,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.85,
+   "motivo": "O ajuste de preços por revendedores de GLP configura crime contra a economia popular (Lei 1.521/51)."
+  },
+  {
+   "id": "Q0040",
+   "fora": false,
+   "tema_central_id": 5562,
+   "extras_ids": [
+    5524
+   ],
+   "alternativa_tema_id": 5524,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão aborda o efeito suspensivo no recurso de apelação contra decisões do Tribunal do Júri conforme o CPP."
+  }
+ ]
+}

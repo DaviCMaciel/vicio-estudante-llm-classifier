@@ -1,0 +1,104 @@
+{
+  "questoes": [
+    {
+      "id": "Q0071",
+      "fora": false,
+      "tema_central_id": 4688,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.98,
+      "motivo": "A questão cobra expressamente causas de aumento de pena relativas aos crimes contra a flora previstos na Lei de Crimes Ambientais (Lei nº 9.605/98)."
+    },
+    {
+      "id": "Q0072",
+      "fora": false,
+      "tema_central_id": 5592,
+      "extras_ids": [5595, 5500],
+      "alternativa_tema_id": 5595,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda a persuasão racional e os limites da utilização dos elementos colhidos na fase inquisitorial na formação do juízo de convicção do magistrado (art. 155 do CPP)."
+    },
+    {
+      "id": "Q0073",
+      "fora": false,
+      "tema_central_id": 5087,
+      "extras_ids": [5089, 5093, 5101],
+      "alternativa_tema_id": 5088,
+      "duvida_subtemas": true,
+      "confianca": 0.92,
+      "motivo": "O comando e as alternativas abordam diversos crimes praticados contra a Administração Pública de modo transversal (peculato, corrupção, favorecimento e tráfico de influência)."
+    },
+    {
+      "id": "Q0074",
+      "fora": false,
+      "tema_central_id": 5181,
+      "extras_ids": [4703],
+      "alternativa_tema_id": 4703,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Versa sobre a aplicação da novatio legis in mellius e a competência do juízo da execução após o trânsito em julgado da condenação (Súmula 611 do STF)."
+    },
+    {
+      "id": "Q0075",
+      "fora": false,
+      "tema_central_id": 5191,
+      "extras_ids": [5066],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.96,
+      "motivo": "Trata diretamente das regras gerais de comunicabilidade da extinção da punibilidade e crimes conexos dispostas no art. 108 do Código Penal."
+    },
+    {
+      "id": "Q0076",
+      "fora": false,
+      "tema_central_id": 4373,
+      "extras_ids": [4371],
+      "alternativa_tema_id": 4371,
+      "duvida_subtemas": false,
+      "confianca": 0.98,
+      "motivo": "Aborda a Escola Positiva da Criminologia e seus fundadores fundamentais (Lombroso, Ferri e Garofalo)."
+    },
+    {
+      "id": "Q0077",
+      "fora": false,
+      "tema_central_id": 5171,
+      "extras_ids": [5174, 4698],
+      "alternativa_tema_id": 5174,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "Analisa a estrutura da norma penal (norma penal em branco invertida) e a classificação dos crimes (crime de atentado)."
+    },
+    {
+      "id": "Q0078",
+      "fora": false,
+      "tema_central_id": 4697,
+      "extras_ids": [4691],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Examina condutas típicas sob a ótica do Estatuto do Desarmamento (Lei nº 10.826/2003), como a omissão de cautela (art. 13)."
+    },
+    {
+      "id": "Q0079",
+      "fora": false,
+      "tema_central_id": 5581,
+      "extras_ids": [5582, 5580],
+      "alternativa_tema_id": 5580,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Cobra as características, fundamentos e critérios de política criminal inerentes aos sistemas processuais penais (acusatório e inquisitivo)."
+    },
+    {
+      "id": "Q0080",
+      "fora": false,
+      "tema_central_id": 4370,
+      "extras_ids": [4368],
+      "alternativa_tema_id": 4368,
+      "duvida_subtemas": false,
+      "confianca": 0.96,
+      "motivo": "Analisa os modelos de reação ao delito no âmbito da Criminologia (dissuasório, ressocializador e restaurador)."
+    }
+  ]
+}

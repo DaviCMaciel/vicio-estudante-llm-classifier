@@ -1,0 +1,141 @@
+{
+ "ids": [
+  "Q0131",
+  "Q0132",
+  "Q0133",
+  "Q0134",
+  "Q0135",
+  "Q0136",
+  "Q0137",
+  "Q0138",
+  "Q0139",
+  "Q0140"
+ ],
+ "itens": [
+  {
+   "id": "Q0131",
+   "fora": false,
+   "tema_central_id": 5072,
+   "extras_ids": [
+    5071
+   ],
+   "alternativa_tema_id": 5071,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda a teoria do domínio do fato como critério de diferenciação entre autores e partícipes no concurso de pessoas."
+  },
+  {
+   "id": "Q0132",
+   "fora": false,
+   "tema_central_id": 5550,
+   "extras_ids": [
+    5543
+   ],
+   "alternativa_tema_id": 5543,
+   "duvida_subtemas": false,
+   "confianca": 0.85,
+   "motivo": "Trata da proteção de dados qualificativos e endereços de vítimas e testemunhas no processo penal com base na Res. 427/2021 do CNJ."
+  },
+  {
+   "id": "Q0133",
+   "fora": false,
+   "tema_central_id": 5528,
+   "extras_ids": [
+    5524,
+    5486
+   ],
+   "alternativa_tema_id": 5524,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "O desaforamento é instituto específico da competência e organização da sessão de julgamento do Tribunal do Júri (art. 427 do CPP)."
+  },
+  {
+   "id": "Q0134",
+   "fora": false,
+   "tema_central_id": 5092,
+   "extras_ids": [
+    5087
+   ],
+   "alternativa_tema_id": 5087,
+   "duvida_subtemas": false,
+   "confianca": 0.98,
+   "motivo": "A conduta descrita é o crime de corrupção passiva (art. 317 do CP), explorando suas penas e causas de aumento/privilegiadora."
+  },
+  {
+   "id": "Q0135",
+   "fora": false,
+   "tema_central_id": 5169,
+   "extras_ids": [
+    5157
+   ],
+   "alternativa_tema_id": 5157,
+   "duvida_subtemas": false,
+   "confianca": 0.99,
+   "motivo": "A questão cobra expressamente as disposições e elementares relativas ao crime de receptação (art. 180 do CP)."
+  },
+  {
+   "id": "Q0136",
+   "fora": false,
+   "tema_central_id": 4704,
+   "extras_ids": [
+    5131
+   ],
+   "alternativa_tema_id": 5131,
+   "duvida_subtemas": false,
+   "confianca": 0.92,
+   "motivo": "A questão discute o âmbito de incidência da Lei Maria da Penha (violência doméstica/familiar contra a mulher baseada no gênero)."
+  },
+  {
+   "id": "Q0137",
+   "fora": false,
+   "tema_central_id": 5500,
+   "extras_ids": [
+    5499,
+    5498
+   ],
+   "alternativa_tema_id": 5499,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "Trata da condução da investigação policial e atribuições do delegado de polícia conforme a Lei 12.830/2013 e o CPP."
+  },
+  {
+   "id": "Q0138",
+   "fora": false,
+   "tema_central_id": 5205,
+   "extras_ids": [
+    5207,
+    5199
+   ],
+   "alternativa_tema_id": 5207,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "Cobra regras sobre substituição por penas restritivas de direitos (art. 44 do CP) e suspensão condicional da pena (sursis)."
+  },
+  {
+   "id": "Q0139",
+   "fora": false,
+   "tema_central_id": 5217,
+   "extras_ids": [
+    5212,
+    5211
+   ],
+   "alternativa_tema_id": 5212,
+   "duvida_subtemas": false,
+   "confianca": 0.92,
+   "motivo": "Apresenta o conceito de coculpabilidade, frequentemente estudado como causa supralegal atenuante ou exculpante no âmbito da culpabilidade."
+  },
+  {
+   "id": "Q0140",
+   "fora": false,
+   "tema_central_id": 5157,
+   "extras_ids": [
+    5159,
+    5160
+   ],
+   "alternativa_tema_id": 5159,
+   "duvida_subtemas": true,
+   "confianca": 0.95,
+   "motivo": "A questão cobra disposições e jurisprudência tanto do crime de furto quanto do roubo, justificando a classificação no tema pai patrimônio."
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "ids": [
+  "Q0341",
+  "Q0342",
+  "Q0343",
+  "Q0344",
+  "Q0345",
+  "Q0346",
+  "Q0347",
+  "Q0348",
+  "Q0349",
+  "Q0350"
+ ],
+ "itens": [
+  {
+   "id": "Q0341",
+   "fora": false,
+   "tema_central_id": 5157,
+   "extras_ids": [
+    5159,
+    5160,
+    5164
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": true,
+   "confianca": 0.9,
+   "motivo": "A questão aborda regras gerais e específicas dos crimes contra o patrimônio."
+  },
+  {
+   "id": "Q0342",
+   "fora": false,
+   "tema_central_id": 5545,
+   "extras_ids": [
+    5546
+   ],
+   "alternativa_tema_id": 5546,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão versa diretamente sobre o exame de corpo de delito e perícias no Código de Processo Penal."
+  },
+  {
+   "id": "Q0343",
+   "fora": false,
+   "tema_central_id": 5196,
+   "extras_ids": [
+    5472
+   ],
+   "alternativa_tema_id": 5466,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Trata da renúncia, perdão do ofendido e retratação no âmbito penal."
+  },
+  {
+   "id": "Q0344",
+   "fora": false,
+   "tema_central_id": 4688,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão cobra disposições da Lei de Crimes Ambientais (Lei nº 9.605/1998)."
+  },
+  {
+   "id": "Q0345",
+   "fora": false,
+   "tema_central_id": 5103,
+   "extras_ids": [
+    5203,
+    5204
+   ],
+   "alternativa_tema_id": 5105,
+   "duvida_subtemas": true,
+   "confianca": 0.85,
+   "motivo": "Analisa a tipicidade de crime contra a dignidade sexual de vulnerável e suas majorantes."
+  },
+  {
+   "id": "Q0346",
+   "fora": false,
+   "tema_central_id": 5583,
+   "extras_ids": [
+    5474
+   ],
+   "alternativa_tema_id": 5466,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "Aborda a atuação e legitimidade do assistente de acusação como sujeito do processo."
+  },
+  {
+   "id": "Q0347",
+   "fora": false,
+   "tema_central_id": 5207,
+   "extras_ids": [
+    5230,
+    5069,
+    5210
+   ],
+   "alternativa_tema_id": 5230,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "Trata de temas variados da parte geral do Código Penal, com destaque para a suspensão condicional da pena e causas excludentes."
+  },
+  {
+   "id": "Q0348",
+   "fora": false,
+   "tema_central_id": 5093,
+   "extras_ids": [
+    5180,
+    5185
+   ],
+   "alternativa_tema_id": 5087,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Discute o crime de corrupção ativa e suas particularidades legais."
+  },
+  {
+   "id": "Q0349",
+   "fora": false,
+   "tema_central_id": 5178,
+   "extras_ids": [
+    5160
+   ],
+   "alternativa_tema_id": 5160,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Analisa o instituto do arrependimento posterior e a vedação nos crimes com violência ou grave ameaça."
+  },
+  {
+   "id": "Q0350",
+   "fora": false,
+   "tema_central_id": 4702,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Trata especificamente da Lei de Lavagem de Dinheiro (Lei nº 9.613/1998)."
+  }
+ ]
+}

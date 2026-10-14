@@ -1,0 +1,142 @@
+{
+ "ids": [
+  "Q0121",
+  "Q0122",
+  "Q0123",
+  "Q0124",
+  "Q0125",
+  "Q0126",
+  "Q0127",
+  "Q0128",
+  "Q0129",
+  "Q0130"
+ ],
+ "itens": [
+  {
+   "id": "Q0121",
+   "fora": false,
+   "tema_central_id": 5472,
+   "extras_ids": [
+    5065,
+    5196
+   ],
+   "alternativa_tema_id": 5065,
+   "duvida_subtemas": false,
+   "confianca": 0.94,
+   "motivo": "A questão cobra a aplicação do princípio da indivisibilidade na ação penal de iniciativa privada e suas consequências processuais e extintivas da punibilidade."
+  },
+  {
+   "id": "Q0122",
+   "fora": false,
+   "tema_central_id": 4703,
+   "extras_ids": [
+    5201
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.98,
+   "motivo": "A remição pelo trabalho e pelo estudo é instituto regulado expressamente pela Lei de Execução Penal (art. 126 e seguintes da LEP)."
+  },
+  {
+   "id": "Q0123",
+   "fora": false,
+   "tema_central_id": 4388,
+   "extras_ids": [
+    4385,
+    4377
+   ],
+   "alternativa_tema_id": 4385,
+   "duvida_subtemas": false,
+   "confianca": 0.92,
+   "motivo": "A questão aborda a teoria do etiquetamento (labeling approach) e a seletividade penal sob a ótica criminológica."
+  },
+  {
+   "id": "Q0124",
+   "fora": false,
+   "tema_central_id": 4384,
+   "extras_ids": [
+    5200
+   ],
+   "alternativa_tema_id": 5200,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O item avalia o pensamento de autores como Kant, Hegel, Roxin e Binding acerca das teorias absolutas, relativas e legitimadoras da pena."
+  },
+  {
+   "id": "Q0125",
+   "fora": false,
+   "tema_central_id": 5181,
+   "extras_ids": [
+    4703,
+    4708
+   ],
+   "alternativa_tema_id": 4703,
+   "duvida_subtemas": false,
+   "confianca": 0.92,
+   "motivo": "Trata da aplicação retroativa da novatio legis in mellius e a fixação da competência do juízo da execução penal após o trânsito em julgado (Súmula 611 do STF)."
+  },
+  {
+   "id": "Q0126",
+   "fora": false,
+   "tema_central_id": 5182,
+   "extras_ids": [
+    5170,
+    5226
+   ],
+   "alternativa_tema_id": 5170,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A assertiva correta versa sobre as hipóteses de extraterritorialidade incondicionada da lei penal brasileira no espaço (art. 7º, I, 'b', do CP)."
+  },
+  {
+   "id": "Q0127",
+   "fora": false,
+   "tema_central_id": 5575,
+   "extras_ids": [
+    5580,
+    4708
+   ],
+   "alternativa_tema_id": 5572,
+   "duvida_subtemas": false,
+   "confianca": 0.93,
+   "motivo": "A questão cobra a regra do art. 385 do CPP, que permite ao juiz proferir sentença penal condenatória mesmo diante de pedido de absolvição pelo MP."
+  },
+  {
+   "id": "Q0128",
+   "fora": false,
+   "tema_central_id": 5468,
+   "extras_ids": [
+    5184,
+    5466
+   ],
+   "alternativa_tema_id": 5466,
+   "duvida_subtemas": false,
+   "confianca": 0.88,
+   "motivo": "Aborda a classificação doutrinária da ação penal, em específico a denominada ação penal preventiva ou de prevenção penal voltada à aplicação de medida de segurança."
+  },
+  {
+   "id": "Q0129",
+   "fora": false,
+   "tema_central_id": 5550,
+   "extras_ids": [
+    4704
+   ],
+   "alternativa_tema_id": 5543,
+   "duvida_subtemas": false,
+   "confianca": 0.96,
+   "motivo": "Trata das regras sobre o dever e a faculdade de depor de familiares e parentes do réu no âmbito da prova testemunhal (arts. 206 e 208 do CPP)."
+  },
+  {
+   "id": "Q0130",
+   "fora": false,
+   "tema_central_id": 5160,
+   "extras_ids": [
+    5205
+   ],
+   "alternativa_tema_id": 5205,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O comando examina a consumação do roubo com simulacro e a consequente impossibilidade de substituição da pena privativa de liberdade por restritivas de direitos em razão da grave ameaça."
+  }
+ ]
+}

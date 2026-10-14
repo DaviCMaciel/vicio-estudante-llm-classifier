@@ -1,0 +1,104 @@
+{
+  "questoes": [
+    {
+      "id": "Q0061",
+      "fora": false,
+      "tema_central_id": 4703,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão trata especificamente de faltas graves no âmbito da Lei de Execução Penal."
+    },
+    {
+      "id": "Q0062",
+      "fora": false,
+      "tema_central_id": 5182,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "O enunciado aborda a aplicação da lei penal brasileira no espaço (extraterritorialidade)."
+    },
+    {
+      "id": "Q0063",
+      "fora": false,
+      "tema_central_id": 4704,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão versa sobre procedimentos e medidas protetivas da Lei Maria da Penha."
+    },
+    {
+      "id": "Q0064",
+      "fora": false,
+      "tema_central_id": 4695,
+      "extras_ids": [5188],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "Trata de crime contra a ordem tributária (apropriação indébita previdenciária) e causas de extinção da punibilidade."
+    },
+    {
+      "id": "Q0065",
+      "fora": false,
+      "tema_central_id": 5161,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "O crime de extorsão mediante sequestro é um crime formal, consumando-se com a privação da liberdade com o fim de obter vantagem."
+    },
+    {
+      "id": "Q0066",
+      "fora": false,
+      "tema_central_id": 4373,
+      "extras_ids": [4371],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "O positivismo criminológico é uma das escolas fundamentais da história da criminologia."
+    },
+    {
+      "id": "Q0067",
+      "fora": false,
+      "tema_central_id": 5091,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A conduta de exigir vantagem indevida em razão da função pública configura o crime de concussão."
+    },
+    {
+      "id": "Q0068",
+      "fora": false,
+      "tema_central_id": 5096,
+      "extras_ids": [5103, 5126],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A alternativa B descreve corretamente o crime de condescendência criminosa."
+    },
+    {
+      "id": "Q0069",
+      "fora": false,
+      "tema_central_id": 5173,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A interpretação analógica ocorre quando o legislador utiliza uma fórmula casuística seguida de uma genérica."
+    },
+    {
+      "id": "Q0070",
+      "fora": false,
+      "tema_central_id": 5193,
+      "extras_ids": [5201],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda o cômputo da prisão preventiva para fins de requisitos objetivos em indulto/comutação, tema pacificado no STJ."
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "questoes": [
+    {
+      "id": "Q0031",
+      "fora": false,
+      "tema_central_id": 4388,
+      "extras_ids": [4385, 4387],
+      "alternativa_tema_id": 4387,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão cobra os conceitos teóricos relativos à Teoria da Anomia (Merton/Durkheim), que é uma teoria criminológica sociológica em espécie."
+    },
+    {
+      "id": "Q0032",
+      "fora": false,
+      "tema_central_id": 5497,
+      "extras_ids": [5500],
+      "alternativa_tema_id": 5490,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Trata do procedimento de representação para instauração de incidente de insanidade mental do acusado/investigado (art. 149 do CPP)."
+    },
+    {
+      "id": "Q0033",
+      "fora": false,
+      "tema_central_id": 5519,
+      "extras_ids": [5517],
+      "alternativa_tema_id": 5585,
+      "duvida_subtemas": false,
+      "confianca": 0.98,
+      "motivo": "O comando e enunciado abordam diretamente os pressupostos e hipóteses de cabimento da prisão preventiva (art. 312 e seguintes do CPP)."
+    },
+    {
+      "id": "Q0034",
+      "fora": false,
+      "tema_central_id": 5477,
+      "extras_ids": [5476, 5594],
+      "alternativa_tema_id": 5476,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão versa sobre as hipóteses de cabimento do Habeas Corpus como ação constitucional/impugnação."
+    },
+    {
+      "id": "Q0035",
+      "fora": false,
+      "tema_central_id": 4706,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.99,
+      "motivo": "Cobra expressamente os tipos e normas da Lei Antiterrorismo (Lei nº 13.260/2016)."
+    },
+    {
+      "id": "Q0036",
+      "fora": false,
+      "tema_central_id": 4704,
+      "extras_ids": [5077, 5196],
+      "alternativa_tema_id": 5077,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Trata da aplicação da audiência do art. 16 da Lei Maria da Penha (Lei nº 11.340/2006) e a jurisprudência do STJ a seu respeito."
+    },
+    {
+      "id": "Q0037",
+      "fora": false,
+      "tema_central_id": 5118,
+      "extras_ids": [5132, 5081],
+      "alternativa_tema_id": 5132,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A alternativa incorreta versa sobre a falsificação de documento público/particular e previdenciário (arts. 297, §3º e 298 do CP), embora cite múltiplos tipos penais."
+    },
+    {
+      "id": "Q0038",
+      "fora": false,
+      "tema_central_id": 5583,
+      "extras_ids": [5549],
+      "alternativa_tema_id": 5549,
+      "duvida_subtemas": false,
+      "confianca": 0.93,
+      "motivo": "Aborda o papel, prerrogativas e proteção ao ofendido no âmbito dos sujeitos do processo penal (art. 201 do CPP)."
+    },
+    {
+      "id": "Q0039",
+      "fora": true,
+      "tema_central_id": 0,
+      "extras_ids": [4687, 4694],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.92,
+      "motivo": "A formação de cartel/ajuste de preços é crime contra a ordem econômica (Lei 8.137/1990), tema não contemplado no catálogo."
+    },
+    {
+      "id": "Q0040",
+      "fora": false,
+      "tema_central_id": 5562,
+      "extras_ids": [5524, 5515],
+      "alternativa_tema_id": 5524,
+      "duvida_subtemas": false,
+      "confianca": 0.92,
+      "motivo": "Cobra a concessão de efeito suspensivo na apelação contra sentença condenatória do Tribunal do Júri (art. 593, § 4º do CPP)."
+    }
+  ]
+}

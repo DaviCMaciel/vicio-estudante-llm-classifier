@@ -1,0 +1,139 @@
+{
+ "ids": [
+  "Q0101",
+  "Q0102",
+  "Q0103",
+  "Q0104",
+  "Q0105",
+  "Q0106",
+  "Q0107",
+  "Q0108",
+  "Q0109",
+  "Q0110"
+ ],
+ "itens": [
+  {
+   "id": "Q0101",
+   "fora": false,
+   "tema_central_id": 4704,
+   "extras_ids": [
+    5480
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.98,
+   "motivo": "A questão aborda a competência civil dos Juizados de Violência Doméstica conforme o art. 14-A da Lei Maria da Penha (Lei nº 11.340/2006)."
+  },
+  {
+   "id": "Q0102",
+   "fora": false,
+   "tema_central_id": 5572,
+   "extras_ids": [
+    5574,
+    5577,
+    5209
+   ],
+   "alternativa_tema_id": 5574,
+   "duvida_subtemas": true,
+   "confianca": 0.92,
+   "motivo": "A questão cobra conhecimentos gerais sobre a sentença penal absolutória imprópria e os efeitos da condenação."
+  },
+  {
+   "id": "Q0103",
+   "fora": false,
+   "tema_central_id": 5478,
+   "extras_ids": [
+    5476
+   ],
+   "alternativa_tema_id": 5476,
+   "duvida_subtemas": false,
+   "confianca": 0.98,
+   "motivo": "O comando e o enunciado tratam especificamente da natureza e dos objetivos da ação autônoma de impugnação da revisão criminal."
+  },
+  {
+   "id": "Q0104",
+   "fora": false,
+   "tema_central_id": 5499,
+   "extras_ids": [
+    5500,
+    5477
+   ],
+   "alternativa_tema_id": 5498,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "Trata da condução do inquérito policial pela autoridade policial após requisição/instauração pelo MP e da legitimidade passiva no HC."
+  },
+  {
+   "id": "Q0105",
+   "fora": false,
+   "tema_central_id": 4388,
+   "extras_ids": [
+    4385,
+    4387
+   ],
+   "alternativa_tema_id": 4385,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão avalia a criminologia cultural e a teoria do etiquetamento (labelling approach), que são teorias sociológicas criminológicas em espécie."
+  },
+  {
+   "id": "Q0106",
+   "fora": false,
+   "tema_central_id": 5166,
+   "extras_ids": [
+    5157
+   ],
+   "alternativa_tema_id": 5157,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O tradicional 'pendura' configura o crime de fraude em refeições, previsto no art. 176 do Código Penal (outras fraudes conexas ao estelionato)."
+  },
+  {
+   "id": "Q0107",
+   "fora": false,
+   "tema_central_id": 5119,
+   "extras_ids": [
+    5116
+   ],
+   "alternativa_tema_id": 5116,
+   "duvida_subtemas": false,
+   "confianca": 0.96,
+   "motivo": "Trata da tipicidade do crime de falsa identidade (art. 307 do CP) em consonância com a Súmula 522 do STJ."
+  },
+  {
+   "id": "Q0108",
+   "fora": false,
+   "tema_central_id": 5561,
+   "extras_ids": [
+    5185
+   ],
+   "alternativa_tema_id": 5560,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão exige identificar o cabimento do RESE (art. 581, VIII, CPP) contra a decisão que não reconhece a prescrição e a ausência de efeito suspensivo."
+  },
+  {
+   "id": "Q0109",
+   "fora": false,
+   "tema_central_id": 4708,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.99,
+   "motivo": "Cobra a pena cominada ao crime de oferecimento de droga para consumo compartilhado (art. 33, § 3º, da Lei de Drogas nº 11.343/06)."
+  },
+  {
+   "id": "Q0110",
+   "fora": false,
+   "tema_central_id": 5480,
+   "extras_ids": [
+    5484,
+    5483
+   ],
+   "alternativa_tema_id": 5484,
+   "duvida_subtemas": true,
+   "confianca": 0.92,
+   "motivo": "Trata de regras de fixação de competência penal, abrangendo foro por prerrogativa de função, exceção da verdade e competência territorial/material."
+  }
+ ]
+}

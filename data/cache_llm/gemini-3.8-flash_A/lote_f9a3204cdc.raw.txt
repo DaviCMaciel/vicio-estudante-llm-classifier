@@ -1,0 +1,104 @@
+{
+  "questoes": [
+    {
+      "id": "Q0091",
+      "fora": false,
+      "tema_central_id": 4703,
+      "extras_ids": [5201],
+      "alternativa_tema_id": 5201,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda a vedação à progressão de regime prisional per saltum na execução penal."
+    },
+    {
+      "id": "Q0092",
+      "fora": false,
+      "tema_central_id": 5510,
+      "extras_ids": [5509, 5480],
+      "alternativa_tema_id": 5509,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão versa sobre os efeitos da nulidade por incompetência relativa/absoluta e sanação no CPP (arts. 567 e 568)."
+    },
+    {
+      "id": "Q0093",
+      "fora": false,
+      "tema_central_id": 5223,
+      "extras_ids": [5150, 5142],
+      "alternativa_tema_id": 5226,
+      "duvida_subtemas": false,
+      "confianca": 0.96,
+      "motivo": "Trata da posição de garantidor no crime omissivo impróprio versus o crime omissivo próprio (art. 13, § 2º, do CP)."
+    },
+    {
+      "id": "Q0094",
+      "fora": false,
+      "tema_central_id": 4388,
+      "extras_ids": [4387, 4385],
+      "alternativa_tema_id": 4387,
+      "duvida_subtemas": false,
+      "confianca": 0.98,
+      "motivo": "A questão trata da teoria do etiquetamento social (labelling approach) e estigmatização do réu com vestimentas carcerárias."
+    },
+    {
+      "id": "Q0095",
+      "fora": false,
+      "tema_central_id": 5197,
+      "extras_ids": [5150, 5077],
+      "alternativa_tema_id": 5191,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Aborda o cabimento do perdão judicial no homicídio culposo e lesão corporal culposa com base nas consequências da infração atingirem o agente."
+    },
+    {
+      "id": "Q0096",
+      "fora": false,
+      "tema_central_id": 5483,
+      "extras_ids": [5486, 5480],
+      "alternativa_tema_id": 5486,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "Trata da derrogação/modificação da competência territorial pelas regras de conexão e continência ou desaforamento."
+    },
+    {
+      "id": "Q0097",
+      "fora": false,
+      "tema_central_id": 4708,
+      "extras_ids": [4702, 5546],
+      "alternativa_tema_id": 4702,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A questão versa sobre a imprescindibilidade do laudo de constatação/apreensão da droga para a materialidade do tráfico segundo o STJ."
+    },
+    {
+      "id": "Q0098",
+      "fora": false,
+      "tema_central_id": 5548,
+      "extras_ids": [5203],
+      "alternativa_tema_id": 5543,
+      "duvida_subtemas": false,
+      "confianca": 0.98,
+      "motivo": "Define confissão qualificada como aquela em que o réu admite o fato, mas agrega tese exculpatória ou justificativa."
+    },
+    {
+      "id": "Q0099",
+      "fora": false,
+      "tema_central_id": 5100,
+      "extras_ids": [5077, 5232],
+      "alternativa_tema_id": 5087,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Tipificação do crime de resistência em concurso com lesões corporais e excludente de estrito cumprimento do dever legal dos policiais/fiscais."
+    },
+    {
+      "id": "Q0100",
+      "fora": false,
+      "tema_central_id": 5103,
+      "extras_ids": [5224],
+      "alternativa_tema_id": 5224,
+      "duvida_subtemas": false,
+      "confianca": 0.93,
+      "motivo": "Analisa o crime de estupro de vulnerável e a possibilidade de erro de tipo quanto à idade da vítima."
+    }
+  ]
+}

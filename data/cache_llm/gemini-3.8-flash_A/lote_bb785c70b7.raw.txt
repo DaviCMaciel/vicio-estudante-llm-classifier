@@ -1,0 +1,104 @@
+{
+  "questoes": [
+    {
+      "id": "Q0041",
+      "fora": false,
+      "tema_central_id": 5184,
+      "extras_ids": [5213, 4703],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão cobra regras, fundamentos e aplicação da medida de segurança no Direito Penal brasileiro."
+    },
+    {
+      "id": "Q0042",
+      "fora": false,
+      "tema_central_id": 5222,
+      "extras_ids": [5221],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.98,
+      "motivo": "A questão aborda a definição dogmática de dolo direto dentro da teoria do crime culposo e doloso."
+    },
+    {
+      "id": "Q0043",
+      "fora": false,
+      "tema_central_id": 5199,
+      "extras_ids": [5201, 5203, 5206],
+      "alternativa_tema_id": 5576,
+      "duvida_subtemas": true,
+      "confianca": 0.9,
+      "motivo": "A questão trata amplamente do sistema trifásico de dosimetria da pena, atenuantes e regimes de cumprimento."
+    },
+    {
+      "id": "Q0044",
+      "fora": false,
+      "tema_central_id": 5488,
+      "extras_ids": [5583, 5530],
+      "alternativa_tema_id": 5583,
+      "duvida_subtemas": false,
+      "confianca": 0.92,
+      "motivo": "O comando trata da citação do acusado, revelia e suas consequências no processo penal."
+    },
+    {
+      "id": "Q0045",
+      "fora": false,
+      "tema_central_id": 5091,
+      "extras_ids": [5087],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.98,
+      "motivo": "A questão aborda especificamente a qualificadora do crime de excesso de exação (art. 316, § 2º, CP)."
+    },
+    {
+      "id": "Q0046",
+      "fora": false,
+      "tema_central_id": 5510,
+      "extras_ids": [5509],
+      "alternativa_tema_id": 5509,
+      "duvida_subtemas": false,
+      "confianca": 0.93,
+      "motivo": "A questão trata da teoria geral das nulidades no processo penal e da distinção entre nulidades absolutas e relativas."
+    },
+    {
+      "id": "Q0047",
+      "fora": false,
+      "tema_central_id": 5164,
+      "extras_ids": [5063, 5066],
+      "alternativa_tema_id": 5063,
+      "duvida_subtemas": false,
+      "confianca": 0.96,
+      "motivo": "A questão aborda as hipóteses de dano simples e qualificado (patrimônio público e prejuízo considerável) e a respectiva ação penal."
+    },
+    {
+      "id": "Q0048",
+      "fora": false,
+      "tema_central_id": 5193,
+      "extras_ids": [4703],
+      "alternativa_tema_id": 4703,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "O tema versa sobre os requisitos, natureza e efeitos do indulto e da comutação de pena como causas extintivas da punibilidade."
+    },
+    {
+      "id": "Q0049",
+      "fora": false,
+      "tema_central_id": 5152,
+      "extras_ids": [5149, 5177],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.97,
+      "motivo": "A questão versa sobre a consumação e exigência de resultado lesivo no crime de induzimento, instigação ou auxílio a suicídio (art. 122, CP)."
+    },
+    {
+      "id": "Q0050",
+      "fora": false,
+      "tema_central_id": 4708,
+      "extras_ids": [5557],
+      "alternativa_tema_id": 5557,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Trata-se especificamente do instituto da colaboração premiada previsto no art. 41 da Lei de Drogas (Lei 11.343/2006)."
+    }
+  ]
+}

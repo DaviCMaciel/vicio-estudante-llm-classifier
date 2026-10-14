@@ -1,0 +1,143 @@
+{
+ "ids": [
+  "Q0241",
+  "Q0242",
+  "Q0243",
+  "Q0244",
+  "Q0245",
+  "Q0246",
+  "Q0247",
+  "Q0248",
+  "Q0249",
+  "Q0250"
+ ],
+ "itens": [
+  {
+   "id": "Q0241",
+   "fora": false,
+   "tema_central_id": 5218,
+   "extras_ids": [
+    5224,
+    5214
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda as regras gerais da teoria do erro no âmbito do fato típico."
+  },
+  {
+   "id": "Q0242",
+   "fora": false,
+   "tema_central_id": 5512,
+   "extras_ids": [
+    5570,
+    5571
+   ],
+   "alternativa_tema_id": 5560,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "Trata dos princípios e regras da parte geral dos recursos no processo penal."
+  },
+  {
+   "id": "Q0243",
+   "fora": false,
+   "tema_central_id": 5178,
+   "extras_ids": [
+    5159
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.98,
+   "motivo": "A restituição da coisa até o recebimento da denúncia em crime sem violência caracteriza o arrependimento posterior."
+  },
+  {
+   "id": "Q0244",
+   "fora": false,
+   "tema_central_id": 5091,
+   "extras_ids": [
+    5087
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.99,
+   "motivo": "O verbo 'exigir' vantagem indevida caracteriza o crime de concussão."
+  },
+  {
+   "id": "Q0245",
+   "fora": false,
+   "tema_central_id": 5185,
+   "extras_ids": [
+    5188,
+    5189
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.92,
+   "motivo": "A questão examina as regras de prescrição no direito penal."
+  },
+  {
+   "id": "Q0246",
+   "fora": false,
+   "tema_central_id": 5524,
+   "extras_ids": [
+    5527,
+    5213
+   ],
+   "alternativa_tema_id": 5527,
+   "duvida_subtemas": true,
+   "confianca": 0.9,
+   "motivo": "Trata da decisão cabível ao término do sumário de culpa no Tribunal do Júri diante da semi-imputabilidade."
+  },
+  {
+   "id": "Q0247",
+   "fora": false,
+   "tema_central_id": 5502,
+   "extras_ids": [
+    4705
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Discute os requisitos e vedações do Acordo de Não Persecução Penal (ANPP)."
+  },
+  {
+   "id": "Q0248",
+   "fora": false,
+   "tema_central_id": 5087,
+   "extras_ids": [
+    5091,
+    5092,
+    5100
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.98,
+   "motivo": "Relaciona os crimes praticados contra a administração pública com seus respectivos conceitos."
+  },
+  {
+   "id": "Q0249",
+   "fora": false,
+   "tema_central_id": 5492,
+   "extras_ids": [
+    5583
+   ],
+   "alternativa_tema_id": 5480,
+   "duvida_subtemas": false,
+   "confianca": 0.96,
+   "motivo": "Trata das hipóteses de impedimento e suspeição do juiz no processo penal."
+  },
+  {
+   "id": "Q0250",
+   "fora": false,
+   "tema_central_id": 5199,
+   "extras_ids": [
+    5201,
+    5202
+   ],
+   "alternativa_tema_id": 5200,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda os critérios para a fixação do regime inicial de cumprimento de pena na Teoria da Pena."
+  }
+ ]
+}

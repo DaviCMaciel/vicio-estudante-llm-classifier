@@ -1,0 +1,134 @@
+{
+ "ids": [
+  "Q0081",
+  "Q0082",
+  "Q0083",
+  "Q0084",
+  "Q0085",
+  "Q0086",
+  "Q0087",
+  "Q0088",
+  "Q0089",
+  "Q0090"
+ ],
+ "itens": [
+  {
+   "id": "Q0081",
+   "fora": false,
+   "tema_central_id": 4373,
+   "extras_ids": [
+    4388
+   ],
+   "alternativa_tema_id": 4371,
+   "duvida_subtemas": false,
+   "confianca": 0.98,
+   "motivo": "A questão aborda diretamente as características e os pensadores das Escolas Clássica, Positivista e Crítica da Criminologia."
+  },
+  {
+   "id": "Q0082",
+   "fora": false,
+   "tema_central_id": 5100,
+   "extras_ids": [
+    4704
+   ],
+   "alternativa_tema_id": 5087,
+   "duvida_subtemas": false,
+   "confianca": 0.97,
+   "motivo": "A conduta de opor-se à execução de ato legal de policiais mediante grave ameaça configura expressamente o crime de resistência (art. 329 do CP)."
+  },
+  {
+   "id": "Q0083",
+   "fora": false,
+   "tema_central_id": 5226,
+   "extras_ids": [
+    5150,
+    5224
+   ],
+   "alternativa_tema_id": 5150,
+   "duvida_subtemas": false,
+   "confianca": 0.88,
+   "motivo": "A questão cobra a solução jurídica dogmática para o dolo geral (aberratio causae / erro sobre o nexo causal), resultando em homicídio simples consumado."
+  },
+  {
+   "id": "Q0084",
+   "fora": false,
+   "tema_central_id": 4704,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.99,
+   "motivo": "A questão trata expressamente das medidas protetivas e assistenciais à mulher previstas na Lei Maria da Penha (Lei nº 11.340/2006)."
+  },
+  {
+   "id": "Q0085",
+   "fora": false,
+   "tema_central_id": 5076,
+   "extras_ids": [
+    5091
+   ],
+   "alternativa_tema_id": 5071,
+   "duvida_subtemas": false,
+   "confianca": 0.96,
+   "motivo": "Analisa a regra da comunicabilidade das circunstâncias e condições de caráter pessoal (elementares do tipo) prevista no art. 30 do CP."
+  },
+  {
+   "id": "Q0086",
+   "fora": false,
+   "tema_central_id": 5092,
+   "extras_ids": [],
+   "alternativa_tema_id": 5087,
+   "duvida_subtemas": false,
+   "confianca": 0.98,
+   "motivo": "O ato de aceitar promessa de vantagem indevida em razão da função consuma o delito funcional de corrupção passiva (art. 317 do CP)."
+  },
+  {
+   "id": "Q0087",
+   "fora": false,
+   "tema_central_id": 4703,
+   "extras_ids": [
+    5521
+   ],
+   "alternativa_tema_id": 5521,
+   "duvida_subtemas": false,
+   "confianca": 0.92,
+   "motivo": "O comando trata das hipóteses de concessão de prisão domiciliar no âmbito da execução da pena segundo a jurisprudência do STJ e o art. 117 da LEP."
+  },
+  {
+   "id": "Q0088",
+   "fora": false,
+   "tema_central_id": 4381,
+   "extras_ids": [
+    4389
+   ],
+   "alternativa_tema_id": 4389,
+   "duvida_subtemas": false,
+   "confianca": 0.93,
+   "motivo": "O item versa sobre a definição, escopo e delimitação do objeto de estudo da Criminologia em contraposição à Vitimologia."
+  },
+  {
+   "id": "Q0089",
+   "fora": false,
+   "tema_central_id": 5172,
+   "extras_ids": [
+    5227
+   ],
+   "alternativa_tema_id": 5227,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão cobra a fundamentação doutrinária e os quatro vetores jurisprudenciais de aplicação do princípio penal da insignificância fixados pelo STF."
+  },
+  {
+   "id": "Q0090",
+   "fora": false,
+   "tema_central_id": 5530,
+   "extras_ids": [
+    5526,
+    5539
+   ],
+   "alternativa_tema_id": 5532,
+   "duvida_subtemas": true,
+   "confianca": 0.85,
+   "motivo": "A questão aborda normas procedimentais comparadas no processo penal, destacando a manifestação da acusação sobre a defesa prévia no rito do Júri versus ordinário."
+  }
+ ]
+}
