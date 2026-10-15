@@ -10,7 +10,7 @@ import sys
 import tempfile
 from pathlib import Path
 
-spec = importlib.util.spec_from_file_location("c3", "src/classificar.py")
+spec = importlib.util.spec_from_file_location("c3", next(p for p in ("src/03_classificar.py", "src/classificar.py") if __import__("os").path.exists(p)))
 c3 = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(c3)
 
@@ -97,6 +97,116 @@ def test_cota_diaria_para_e_retoma():
         # chamada que falha também conta na cota
         assert c3.chamadas_hoje("fake") == 2
     Path("data/resultados_fake_Z.jsonl").unlink(missing_ok=True)  # limpa o consolidado do teste
+
+
+def _rodar(fake, extra, passada):
+    c3.chamar_gemini = fake
+    c3.time.sleep = lambda s: None
+    with tempfile.TemporaryDirectory() as tmp:
+        c3.CACHE = Path(tmp)
+        sys.argv = ["x", "--modelo", "fake", "--passada", passada] + extra
+        c3.main()
+        feitos = len(list((Path(tmp) / f"fake_{passada}").glob("lote_*.json")))
+        gasto = c3.chamadas_hoje("fake")
+    Path(f"data/resultados_fake_{passada}.jsonl").unlink(missing_ok=True)
+    return feitos, gasto
+
+
+def test_503_tenta_o_mesmo_lote_de_novo():
+    n = []
+
+    def fake(modelo, prompt):
+        n.append(1)
+        if len(n) == 1:
+            raise RuntimeError("503 UNAVAILABLE. This model is currently experiencing high demand")
+        ids = re.findall(r"^### (Q\d+)", prompt, re.M)
+        return lote([item(i) for i in ids])
+
+    feitos, gasto = _rodar(fake, ["--rpd", "5", "--max-chamadas", "1"], "R")
+    assert feitos == 1 and len(n) == 2, f"lotes {feitos}, chamadas {len(n)}"
+
+
+def test_429_para_tudo():
+    n = []
+
+    def fake(modelo, prompt):
+        n.append(1)
+        raise RuntimeError("429 RESOURCE_EXHAUSTED")
+
+    feitos, gasto = _rodar(fake, ["--rpd", "10"], "E")
+    assert feitos == 0 and len(n) == 1, "deveria parar na primeira resposta 429"
+
+
+def test_ajustar_contador():
+    chamadas = []
+
+    def fake(modelo, prompt):
+        chamadas.append(1)
+        ids = re.findall(r"^### (Q\d+)", prompt, re.M)
+        return lote([item(i) for i in ids])
+
+    feitos, gasto = _rodar(fake, ["--rpd", "3", "--ajustar-contador", "2"], "C")
+    assert len(chamadas) == 1 and gasto == 3, "com 2 gastos e rpd=3, só 1 chamada cabe"
+
+
+def test_chamada_pendurada_vira_timeout_e_tenta_de_novo():
+    import threading
+    n = []
+
+    def fake(modelo, prompt):
+        n.append(1)
+        if len(n) == 1:
+            threading.Event().wait(2)  # simula o servidor que nunca responde
+        ids = re.findall(r"^### (Q\d+)", prompt, re.M)
+        return lote([item(i) for i in ids])
+
+    c3.TIMEOUT_CHAMADA = 0.3
+    try:
+        feitos, gasto = _rodar(fake, ["--rpd", "5", "--max-chamadas", "1"], "T")
+    finally:
+        c3.TIMEOUT_CHAMADA = 180
+    assert feitos == 1 and len(n) == 2, f"lotes {feitos}, chamadas {len(n)}"
+
+
+def test_extras_invalidos_sao_removidos_sem_perder_o_lote():
+    avisos = []
+    itens, erro = c3.validar_lote(
+        lote([item(IDS[0], extras_ids=[484, TEMA_OK]), item(IDS[1], alternativa_tema_id=484), item(IDS[2])]),
+        IDS, VALIDOS, avisos)
+    assert erro is None
+    assert itens[0].extras_ids == [], "484 (inexistente) e o próprio tema central deveriam sair"
+    assert itens[1].alternativa_tema_id == 0
+    assert len(avisos) == 2
+
+
+def test_tema_central_invalido_continua_derrubando_o_lote():
+    _, erro = c3.validar_lote(lote([item(IDS[0], tema_central_id=484), item(IDS[1]), item(IDS[2])]), IDS, VALIDOS, [])
+    assert erro
+
+
+def test_raw_antigo_e_recuperado_sem_chamar_a_api():
+    chamadas = []
+
+    def fake(modelo, prompt):
+        chamadas.append(1)
+        ids = re.findall(r"^### (Q\d+)", prompt, re.M)
+        return lote([item(i) for i in ids])
+
+    c3.chamar_gemini = fake
+    c3.time.sleep = lambda s: None
+    ids1 = list(q["id"][:10])
+    with tempfile.TemporaryDirectory() as tmp:
+        c3.CACHE = Path(tmp)
+        pasta = Path(tmp) / "fake_V"
+        pasta.mkdir(parents=True)
+        chave = c3.chave_lote("fake", "V", ids1)
+        # resposta crua que antes foi rejeitada por causa de um extras_ids inexistente
+        (pasta / f"lote_{chave}.raw.txt").write_text(lote([item(i, extras_ids=[484]) for i in ids1]), encoding="utf-8")
+        sys.argv = ["x", "--modelo", "fake", "--passada", "V", "--rpd", "1", "--max-chamadas", "0"]
+        c3.main()
+        assert (pasta / f"lote_{chave}.json").exists(), "deveria ter recuperado o lote do .raw.txt"
+        assert len(chamadas) == 0, "recuperar do raw não pode gastar chamada"
+    Path("data/resultados_fake_V.jsonl").unlink(missing_ok=True)
 
 
 if __name__ == "__main__":

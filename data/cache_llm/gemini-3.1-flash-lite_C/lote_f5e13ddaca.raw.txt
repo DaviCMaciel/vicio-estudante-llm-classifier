@@ -1,0 +1,115 @@
+{
+  "questoes": [
+    {
+      "id": "Q0101",
+      "fora": false,
+      "tema_central_id": 4704,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 1.0,
+      "motivo": "A questão trata da competência dos Juizados de Violência Doméstica e Familiar contra a Mulher para ações de família, conforme a Lei Maria da Penha."
+    },
+    {
+      "id": "Q0102",
+      "fora": false,
+      "tema_central_id": 5572,
+      "extras_ids": [
+        5577,
+        5209
+      ],
+      "alternativa_tema_id": 5209,
+      "duvida_subtemas": true,
+      "confianca": 0.9,
+      "motivo": "A questão aborda os efeitos da sentença penal condenatória e a classificação das sentenças."
+    },
+    {
+      "id": "Q0103",
+      "fora": false,
+      "tema_central_id": 5478,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 1.0,
+      "motivo": "A questão define corretamente o instituto da revisão criminal no processo penal."
+    },
+    {
+      "id": "Q0104",
+      "fora": false,
+      "tema_central_id": 5498,
+      "extras_ids": [
+        5477
+      ],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Trata da natureza do inquérito policial e da legitimidade passiva em habeas corpus."
+    },
+    {
+      "id": "Q0105",
+      "fora": false,
+      "tema_central_id": 4385,
+      "extras_ids": [
+        4388
+      ],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda a criminologia cultural e o paradigma do etiquetamento social."
+    },
+    {
+      "id": "Q0106",
+      "fora": false,
+      "tema_central_id": 5166,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "O 'pendura' configura o crime de estelionato, pois envolve fraude para obter vantagem ilícita."
+    },
+    {
+      "id": "Q0107",
+      "fora": false,
+      "tema_central_id": 5117,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A autodefesa não autoriza a prática de falsa identidade, conforme jurisprudência consolidada."
+    },
+    {
+      "id": "Q0108",
+      "fora": false,
+      "tema_central_id": 5561,
+      "extras_ids": [
+        5185
+      ],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "O indeferimento de pedido de extinção da punibilidade (prescrição) desafia recurso em sentido estrito."
+    },
+    {
+      "id": "Q0109",
+      "fora": false,
+      "tema_central_id": 4708,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 1.0,
+      "motivo": "A questão trata do crime de tráfico de drogas na modalidade de compartilhamento eventual (art. 33, § 3º, da Lei 11.343/06)."
+    },
+    {
+      "id": "Q0110",
+      "fora": false,
+      "tema_central_id": 5480,
+      "extras_ids": [
+        5481
+      ],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda regras de competência no processo penal, especificamente sobre crimes contra a honra e foro por prerrogativa."
+    }
+  ]
+}

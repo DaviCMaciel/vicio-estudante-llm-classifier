@@ -1,0 +1,104 @@
+{
+  "questoes": [
+    {
+      "id": "Q0151",
+      "fora": false,
+      "tema_central_id": 5521,
+      "extras_ids": [5519, 5522],
+      "alternativa_tema_id": 5519,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda as regras de substituição da prisão preventiva pela domiciliar previstas no Código de Processo Penal."
+    },
+    {
+      "id": "Q0152",
+      "fora": false,
+      "tema_central_id": 5472,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "O artigo 31 do CPP estabelece a ordem de preferência para o exercício do direito de queixa em ação penal privada."
+    },
+    {
+      "id": "Q0153",
+      "fora": false,
+      "tema_central_id": 5222,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "O conceito de dolo geral (ou erro sucessivo) descreve a situação em que o agente acredita ter consumado o crime e pratica nova conduta que efetivamente o consuma."
+    },
+    {
+      "id": "Q0154",
+      "fora": false,
+      "tema_central_id": 4684,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A Lei 9.029/95 tipifica como crime a exigência de testes de gravidez ou esterilização para fins de admissão ou manutenção do emprego."
+    },
+    {
+      "id": "Q0155",
+      "fora": false,
+      "tema_central_id": 4703,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão trata das regras do Regime Disciplinar Diferenciado (RDD) previstas na Lei de Execução Penal."
+    },
+    {
+      "id": "Q0156",
+      "fora": false,
+      "tema_central_id": 4688,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão versa sobre as sanções penais e restritivas de direitos previstas na Lei de Crimes Ambientais (Lei 9.605/98)."
+    },
+    {
+      "id": "Q0157",
+      "fora": false,
+      "tema_central_id": 5520,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "O crime de epidemia com resultado morte é considerado hediondo, permitindo o prazo de 30 dias prorrogáveis por igual período na prisão temporária."
+    },
+    {
+      "id": "Q0158",
+      "fora": false,
+      "tema_central_id": 4707,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A Lei de Tortura (Lei 9.455/97) estabelece a perda do cargo e a interdição para seu exercício como efeito automático da condenação."
+    },
+    {
+      "id": "Q0159",
+      "fora": false,
+      "tema_central_id": 5150,
+      "extras_ids": [5160],
+      "alternativa_tema_id": 5160,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "O caso envolve a distinção entre tentativa de homicídio e latrocínio, dependendo da causa da morte e da intenção dos agentes."
+    },
+    {
+      "id": "Q0160",
+      "fora": false,
+      "tema_central_id": 5205,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A jurisprudência atual permite a substituição da pena privativa de liberdade por restritiva de direitos ao réu reincidente, desde que não seja reincidente específico e a medida seja socialmente recomendável."
+    }
+  ]
+}

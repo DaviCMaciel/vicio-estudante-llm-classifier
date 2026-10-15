@@ -1,0 +1,122 @@
+{
+ "ids": [
+  "Q0201",
+  "Q0202",
+  "Q0203",
+  "Q0204",
+  "Q0205",
+  "Q0206",
+  "Q0207",
+  "Q0208",
+  "Q0209",
+  "Q0210"
+ ],
+ "itens": [
+  {
+   "id": "Q0201",
+   "fora": false,
+   "tema_central_id": 5103,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 1.0,
+   "motivo": "O STJ possui entendimento consolidado de que o consentimento da vítima menor de 14 anos não exclui a tipicidade do crime de estupro de vulnerável."
+  },
+  {
+   "id": "Q0202",
+   "fora": false,
+   "tema_central_id": 5224,
+   "extras_ids": [
+    4708
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O desconhecimento da menoridade da vítima configura erro de tipo essencial, excluindo o dolo do agente."
+  },
+  {
+   "id": "Q0203",
+   "fora": false,
+   "tema_central_id": 4702,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 1.0,
+   "motivo": "A Lei 9.613/98 prevê expressamente a possibilidade de indisponibilidade de bens em nome de terceiros quando houver indícios de que o acusado é o real titular."
+  },
+  {
+   "id": "Q0204",
+   "fora": false,
+   "tema_central_id": 5507,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 1.0,
+   "motivo": "O princípio do efeito imediato (tempus regit actum) na lei processual penal determina a aplicação da nova lei aos atos pendentes, preservando os atos já praticados."
+  },
+  {
+   "id": "Q0205",
+   "fora": false,
+   "tema_central_id": 5561,
+   "extras_ids": [
+    5560
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A carta testemunhável é o recurso cabível contra a decisão que denega o recurso em sentido estrito (art. 639, I, CPP)."
+  },
+  {
+   "id": "Q0206",
+   "fora": false,
+   "tema_central_id": 5583,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O assistente de acusação pode ser admitido até o trânsito em julgado da sentença, conforme art. 269 do CPP."
+  },
+  {
+   "id": "Q0207",
+   "fora": false,
+   "tema_central_id": 4703,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A posse de aparelho telefônico em estabelecimento prisional configura falta grave, sujeitando o preso à regressão de regime após o devido processo administrativo."
+  },
+  {
+   "id": "Q0208",
+   "fora": false,
+   "tema_central_id": 5072,
+   "extras_ids": [
+    5150
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "O enunciado descreve uma situação de legítima defesa, o que exclui a ilicitude da conduta de Lucas, não havendo crime de homicídio."
+  },
+  {
+   "id": "Q0209",
+   "fora": false,
+   "tema_central_id": 5595,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 1.0,
+   "motivo": "O STF consolidou o entendimento de que inquéritos em curso não podem constar em certidões de antecedentes criminais por força da presunção de inocência."
+  },
+  {
+   "id": "Q0210",
+   "fora": false,
+   "tema_central_id": 4697,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O STJ entende que a apreensão de ínfima quantidade de munição, desacompanhada de arma de fogo, configura atipicidade material pelo princípio da insignificância."
+  }
+ ]
+}

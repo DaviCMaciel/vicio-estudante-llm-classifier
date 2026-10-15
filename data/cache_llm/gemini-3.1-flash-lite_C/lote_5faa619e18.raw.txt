@@ -1,0 +1,104 @@
+{
+  "questoes": [
+    {
+      "id": "Q0271",
+      "fora": false,
+      "tema_central_id": 5562,
+      "extras_ids": [5513, 5524],
+      "alternativa_tema_id": 5524,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda a extensão do efeito devolutivo da apelação e a vedação da reformatio in pejus, com exceção específica para decisões do Tribunal do Júri (Súmula 713 do STF)."
+    },
+    {
+      "id": "Q0272",
+      "fora": false,
+      "tema_central_id": 4703,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "O tema trata de faltas graves na execução penal, matéria específica da Lei de Execução Penal."
+    },
+    {
+      "id": "Q0273",
+      "fora": false,
+      "tema_central_id": 5087,
+      "extras_ids": [5222],
+      "alternativa_tema_id": 5222,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão exige identificar qual crime contra a administração pública admite a modalidade culposa (peculato culposo, art. 312, § 2º, CP)."
+    },
+    {
+      "id": "Q0274",
+      "fora": false,
+      "tema_central_id": 5160,
+      "extras_ids": [5150],
+      "alternativa_tema_id": 5150,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Trata-se da Súmula 610 do STF, que define a consumação do latrocínio independentemente da subtração patrimonial."
+    },
+    {
+      "id": "Q0275",
+      "fora": false,
+      "tema_central_id": 4701,
+      "extras_ids": [5540],
+      "alternativa_tema_id": 5540,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão versa sobre a regra do art. 66 da Lei 9.099/95, que determina a remessa ao juízo comum quando o réu não é encontrado."
+    },
+    {
+      "id": "Q0276",
+      "fora": false,
+      "tema_central_id": 5543,
+      "extras_ids": [5546, 5554],
+      "alternativa_tema_id": 5546,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A alternativa D reflete o art. 184 do CPP, que permite ao juiz negar perícia desnecessária."
+    },
+    {
+      "id": "Q0277",
+      "fora": false,
+      "tema_central_id": 4696,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão pede a identificação de conduta que não constitui crime previsto no Estatuto do Idoso."
+    },
+    {
+      "id": "Q0278",
+      "fora": false,
+      "tema_central_id": 5542,
+      "extras_ids": [4701],
+      "alternativa_tema_id": 4701,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "O enunciado confunde os requisitos da suspensão condicional do processo (art. 89 da Lei 9.099/95) com os da suspensão condicional da pena (sursis)."
+    },
+    {
+      "id": "Q0279",
+      "fora": false,
+      "tema_central_id": 5188,
+      "extras_ids": [5159],
+      "alternativa_tema_id": 5159,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "O cálculo do prazo prescricional para furto simples (pena máxima de 4 anos) resulta em prescrição em 8 anos, mas a questão foca na contagem do tempo entre o fato e o recebimento da denúncia."
+    },
+    {
+      "id": "Q0280",
+      "fora": false,
+      "tema_central_id": 5120,
+      "extras_ids": [5065],
+      "alternativa_tema_id": 5065,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A questão aborda crimes contra a honra e a exceção da verdade, que não é cabível em todas as hipóteses de calúnia."
+    }
+  ]
+}

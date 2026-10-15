@@ -1,0 +1,139 @@
+{
+ "ids": [
+  "Q0191",
+  "Q0192",
+  "Q0193",
+  "Q0194",
+  "Q0195",
+  "Q0196",
+  "Q0197",
+  "Q0198",
+  "Q0199",
+  "Q0200"
+ ],
+ "itens": [
+  {
+   "id": "Q0191",
+   "fora": false,
+   "tema_central_id": 5560,
+   "extras_ids": [
+    5561,
+    5562
+   ],
+   "alternativa_tema_id": 5561,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda a classificação e definição de recursos em espécie no Código de Processo Penal."
+  },
+  {
+   "id": "Q0192",
+   "fora": false,
+   "tema_central_id": 5087,
+   "extras_ids": [
+    5089,
+    5092,
+    5117
+   ],
+   "alternativa_tema_id": 5088,
+   "duvida_subtemas": true,
+   "confianca": 0.9,
+   "motivo": "A questão trata de diversos crimes contra a administração pública, exigindo conhecimento de múltiplos tipos penais."
+  },
+  {
+   "id": "Q0193",
+   "fora": false,
+   "tema_central_id": 5557,
+   "extras_ids": [
+    4705
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 1.0,
+   "motivo": "A questão versa especificamente sobre o instituto da colaboração premiada previsto na Lei 12.850/2013."
+  },
+  {
+   "id": "Q0194",
+   "fora": false,
+   "tema_central_id": 5089,
+   "extras_ids": [
+    5072,
+    5076
+   ],
+   "alternativa_tema_id": 5072,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Trata-se de concurso de pessoas em crime de peculato, analisando a comunicabilidade da elementar funcionário público."
+  },
+  {
+   "id": "Q0195",
+   "fora": false,
+   "tema_central_id": 4371,
+   "extras_ids": [
+    4373
+   ],
+   "alternativa_tema_id": 4373,
+   "duvida_subtemas": true,
+   "confianca": 0.85,
+   "motivo": "A questão exige conhecimento geral sobre a evolução das escolas criminológicas e seus conceitos fundamentais."
+  },
+  {
+   "id": "Q0196",
+   "fora": false,
+   "tema_central_id": 4388,
+   "extras_ids": [
+    4387
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda especificamente a teoria do Labelling Approach dentro das teorias sociológicas da criminalidade."
+  },
+  {
+   "id": "Q0197",
+   "fora": false,
+   "tema_central_id": 5498,
+   "extras_ids": [
+    5482
+   ],
+   "alternativa_tema_id": 5482,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão avalia a competência da Polícia Federal e o cabimento de inquérito policial em crimes contra instituições financeiras."
+  },
+  {
+   "id": "Q0198",
+   "fora": false,
+   "tema_central_id": 5073,
+   "extras_ids": [
+    4705
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda a teoria do domínio do fato aplicada à autoria mediata em organizações criminosas."
+  },
+  {
+   "id": "Q0199",
+   "fora": false,
+   "tema_central_id": 5218,
+   "extras_ids": [
+    5221,
+    5230
+   ],
+   "alternativa_tema_id": 5220,
+   "duvida_subtemas": true,
+   "confianca": 0.85,
+   "motivo": "A questão mistura conceitos de fato típico, ilicitude e teoria do crime em geral."
+  },
+  {
+   "id": "Q0200",
+   "fora": false,
+   "tema_central_id": 4705,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão trata de aspectos específicos da Lei de Organizações Criminosas (Lei 12.850/2013)."
+  }
+ ]
+}

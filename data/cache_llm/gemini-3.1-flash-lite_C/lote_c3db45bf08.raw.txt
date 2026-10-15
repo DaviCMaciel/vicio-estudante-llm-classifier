@@ -1,0 +1,104 @@
+{
+  "questoes": [
+    {
+      "id": "Q0291",
+      "fora": false,
+      "tema_central_id": 4708,
+      "extras_ids": [5498],
+      "alternativa_tema_id": 5498,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão trata especificamente dos prazos do inquérito policial na Lei de Drogas (Lei 11.343/06)."
+    },
+    {
+      "id": "Q0292",
+      "fora": false,
+      "tema_central_id": 4368,
+      "extras_ids": [4374],
+      "alternativa_tema_id": 4374,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A questão aborda a política criminal brasileira e o fenômeno do encarceramento em massa sob a ótica do Estado Democrático de Direito."
+    },
+    {
+      "id": "Q0293",
+      "fora": false,
+      "tema_central_id": 5185,
+      "extras_ids": [5189, 5188],
+      "alternativa_tema_id": 5189,
+      "duvida_subtemas": true,
+      "confianca": 0.85,
+      "motivo": "A questão exige o cálculo de prazos prescricionais da pretensão punitiva e executória em um caso concreto complexo."
+    },
+    {
+      "id": "Q0294",
+      "fora": false,
+      "tema_central_id": 5211,
+      "extras_ids": [5212],
+      "alternativa_tema_id": 5212,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda conceitos fundamentais da culpabilidade, como a teoria normativa pura e a inexigibilidade de conduta diversa."
+    },
+    {
+      "id": "Q0295",
+      "fora": false,
+      "tema_central_id": 5487,
+      "extras_ids": [5488, 5489],
+      "alternativa_tema_id": 5488,
+      "duvida_subtemas": true,
+      "confianca": 0.8,
+      "motivo": "A questão trata de regras de contagem de prazos processuais penais e intimações."
+    },
+    {
+      "id": "Q0296",
+      "fora": false,
+      "tema_central_id": 5472,
+      "extras_ids": [5466],
+      "alternativa_tema_id": 5466,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda a sucessão processual na ação penal privada em caso de morte da vítima."
+    },
+    {
+      "id": "Q0297",
+      "fora": false,
+      "tema_central_id": 4695,
+      "extras_ids": [4689],
+      "alternativa_tema_id": 4689,
+      "duvida_subtemas": true,
+      "confianca": 0.85,
+      "motivo": "A questão versa sobre crimes contra a ordem tributária e sistema financeiro, com foco na Lei 8.137/90."
+    },
+    {
+      "id": "Q0298",
+      "fora": false,
+      "tema_central_id": 4687,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão trata da modalidade de dolo nos crimes contra as relações de consumo da Lei 8.137/90."
+    },
+    {
+      "id": "Q0299",
+      "fora": false,
+      "tema_central_id": 4371,
+      "extras_ids": [4373, 4377],
+      "alternativa_tema_id": 4373,
+      "duvida_subtemas": true,
+      "confianca": 0.9,
+      "motivo": "A questão exige conhecimentos sobre diversas teorias criminológicas e escolas penais."
+    },
+    {
+      "id": "Q0300",
+      "fora": false,
+      "tema_central_id": 5084,
+      "extras_ids": [5169],
+      "alternativa_tema_id": 5169,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A questão trata da conduta de ocultar objeto de crime anterior, configurando favorecimento real."
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+ "ids": [
+  "Q0171",
+  "Q0172",
+  "Q0173",
+  "Q0174",
+  "Q0175",
+  "Q0176",
+  "Q0177",
+  "Q0178",
+  "Q0179",
+  "Q0180"
+ ],
+ "itens": [
+  {
+   "id": "Q0171",
+   "fora": false,
+   "tema_central_id": 4703,
+   "extras_ids": [
+    5188,
+    5502
+   ],
+   "alternativa_tema_id": 5188,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda alterações do Pacote Anticrime, focando em temas como progressão de regime, crimes hediondos e ANPP."
+  },
+  {
+   "id": "Q0172",
+   "fora": false,
+   "tema_central_id": 5480,
+   "extras_ids": [
+    5473,
+    5491
+   ],
+   "alternativa_tema_id": 5473,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão trata de competência, denúncia e exceções processuais penais."
+  },
+  {
+   "id": "Q0173",
+   "fora": false,
+   "tema_central_id": 4703,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão versa especificamente sobre a Lei de Execução Penal (LEP) e faltas disciplinares."
+  },
+  {
+   "id": "Q0174",
+   "fora": false,
+   "tema_central_id": 5166,
+   "extras_ids": [
+    5128,
+    4694
+   ],
+   "alternativa_tema_id": 5128,
+   "duvida_subtemas": false,
+   "confianca": 0.85,
+   "motivo": "A questão aborda crimes cibernéticos, incluindo estelionato eletrônico e invasão de dispositivo informático."
+  },
+  {
+   "id": "Q0175",
+   "fora": false,
+   "tema_central_id": 5092,
+   "extras_ids": [
+    5091
+   ],
+   "alternativa_tema_id": 5091,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O caso descreve um funcionário público que solicita vantagem indevida, configurando corrupção passiva."
+  },
+  {
+   "id": "Q0176",
+   "fora": false,
+   "tema_central_id": 5081,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão trata especificamente do crime de falso testemunho."
+  },
+  {
+   "id": "Q0177",
+   "fora": false,
+   "tema_central_id": 5547,
+   "extras_ids": [
+    5595
+   ],
+   "alternativa_tema_id": 5595,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda os direitos do réu durante o interrogatório judicial."
+  },
+  {
+   "id": "Q0178",
+   "fora": false,
+   "tema_central_id": 4697,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão trata do porte de arma de fogo para servidores do Poder Judiciário conforme o Estatuto do Desarmamento."
+  },
+  {
+   "id": "Q0179",
+   "fora": false,
+   "tema_central_id": 4369,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão aborda a classificação dos sistemas de prevenção do delito na Criminologia."
+  },
+  {
+   "id": "Q0180",
+   "fora": false,
+   "tema_central_id": 5554,
+   "extras_ids": [
+    5594
+   ],
+   "alternativa_tema_id": 5594,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão trata da ilicitude da prova obtida por busca e apreensão domiciliar sem mandado judicial."
+  }
+ ]
+}

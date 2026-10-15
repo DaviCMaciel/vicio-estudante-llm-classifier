@@ -1,0 +1,114 @@
+{
+  "questoes": [
+    {
+      "id": "Q0301",
+      "fora": false,
+      "tema_central_id": 5197,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 1.0,
+      "motivo": "A questão trata especificamente das hipóteses de perdão judicial previstas no Código Penal."
+    },
+    {
+      "id": "Q0302",
+      "fora": false,
+      "tema_central_id": 5224,
+      "extras_ids": [
+        5222
+      ],
+      "alternativa_tema_id": 5222,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "O caso descreve um erro sobre elemento constitutivo do tipo penal (erro de tipo), excluindo o dolo."
+    },
+    {
+      "id": "Q0303",
+      "fora": false,
+      "tema_central_id": 5180,
+      "extras_ids": [
+        5182
+      ],
+      "alternativa_tema_id": 5182,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda regras de aplicação da lei penal no tempo e no espaço."
+    },
+    {
+      "id": "Q0304",
+      "fora": false,
+      "tema_central_id": 4701,
+      "extras_ids": [
+        5541
+      ],
+      "alternativa_tema_id": 5541,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "Trata de competência e institutos despenalizadores no âmbito dos Juizados Especiais Criminais."
+    },
+    {
+      "id": "Q0305",
+      "fora": false,
+      "tema_central_id": 5064,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão versa sobre os princípios e regras da ação penal pública."
+    },
+    {
+      "id": "Q0306",
+      "fora": false,
+      "tema_central_id": 5146,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "Trata dos elementos constitutivos do crime de associação criminosa (art. 288 do CP)."
+    },
+    {
+      "id": "Q0307",
+      "fora": false,
+      "tema_central_id": 4707,
+      "extras_ids": [
+        5072
+      ],
+      "alternativa_tema_id": 5072,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "O crime de tortura admite a forma omissiva imprópria (omissão do garantidor)."
+    },
+    {
+      "id": "Q0308",
+      "fora": false,
+      "tema_central_id": 5501,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "O arquivamento por falta de elementos não gera coisa julgada material, permitindo o desarquivamento com novas provas."
+    },
+    {
+      "id": "Q0309",
+      "fora": false,
+      "tema_central_id": 4688,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 1.0,
+      "motivo": "Questão de literalidade sobre a pena do crime ambiental previsto na Lei 9.605/98."
+    },
+    {
+      "id": "Q0310",
+      "fora": false,
+      "tema_central_id": 5505,
+      "extras_ids": [
+        5508
+      ],
+      "alternativa_tema_id": 5508,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Trata das regras de aplicação da lei processual penal, incluindo interpretação e analogia."
+    }
+  ]
+}

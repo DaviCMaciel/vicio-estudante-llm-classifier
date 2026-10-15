@@ -1,0 +1,132 @@
+{
+ "ids": [
+  "Q0241",
+  "Q0242",
+  "Q0243",
+  "Q0244",
+  "Q0245",
+  "Q0246",
+  "Q0247",
+  "Q0248",
+  "Q0249",
+  "Q0250"
+ ],
+ "itens": [
+  {
+   "id": "Q0241",
+   "fora": false,
+   "tema_central_id": 5224,
+   "extras_ids": [
+    5220
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda conceitos fundamentais de erro de tipo e suas classificações (essencial, sobre objeto, aberratio ictus e aberratio criminis)."
+  },
+  {
+   "id": "Q0242",
+   "fora": false,
+   "tema_central_id": 5560,
+   "extras_ids": [
+    5512
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.85,
+   "motivo": "A questão trata de regras gerais e específicas de recursos no processo penal, como o recurso ordinário constitucional e o reexame necessário."
+  },
+  {
+   "id": "Q0243",
+   "fora": false,
+   "tema_central_id": 5178,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O enunciado descreve a reparação do dano ou restituição da coisa até o recebimento da denúncia, configurando arrependimento posterior."
+  },
+  {
+   "id": "Q0244",
+   "fora": false,
+   "tema_central_id": 5091,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A conduta de exigir vantagem indevida em razão da função pública define o crime de concussão."
+  },
+  {
+   "id": "Q0245",
+   "fora": false,
+   "tema_central_id": 5185,
+   "extras_ids": [
+    5188,
+    5189
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": true,
+   "confianca": 0.8,
+   "motivo": "A questão exige conhecimento sobre diversas regras de contagem e causas de suspensão/interrupção da prescrição penal."
+  },
+  {
+   "id": "Q0246",
+   "fora": false,
+   "tema_central_id": 5527,
+   "extras_ids": [
+    5213
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "No procedimento do júri, a semi-imputabilidade não enseja absolvição sumária, devendo o réu ser pronunciado para julgamento pelo conselho de sentença."
+  },
+  {
+   "id": "Q0247",
+   "fora": false,
+   "tema_central_id": 5502,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "O enunciado contém erros sobre a retroatividade da lei penal mais benéfica (ANPP) e a vedação de aplicação em crimes de racismo."
+  },
+  {
+   "id": "Q0248",
+   "fora": false,
+   "tema_central_id": 5087,
+   "extras_ids": [
+    5091,
+    5092,
+    5093,
+    5100
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": true,
+   "confianca": 0.95,
+   "motivo": "Trata-se de correlação direta entre tipos penais contra a administração pública e suas respectivas condutas típicas."
+  },
+  {
+   "id": "Q0249",
+   "fora": false,
+   "tema_central_id": 5492,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O enunciado descreve corretamente as hipóteses de impedimento e suspeição do juiz previstas no Código de Processo Penal."
+  },
+  {
+   "id": "Q0250",
+   "fora": false,
+   "tema_central_id": 5576,
+   "extras_ids": [
+    5201
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão aborda critérios legais e jurisprudenciais para a fixação do regime inicial de cumprimento de pena."
+  }
+ ]
+}

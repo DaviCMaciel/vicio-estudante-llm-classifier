@@ -1,0 +1,104 @@
+{
+  "questoes": [
+    {
+      "id": "Q0131",
+      "fora": false,
+      "tema_central_id": 5072,
+      "extras_ids": [5073],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda a teoria do domínio do fato, que é um critério para diferenciar autoria de participação."
+    },
+    {
+      "id": "Q0132",
+      "fora": false,
+      "tema_central_id": 5583,
+      "extras_ids": [5590],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A questão trata de proteção de dados de vítimas e testemunhas no processo penal, tema relacionado aos sujeitos do processo."
+    },
+    {
+      "id": "Q0133",
+      "fora": false,
+      "tema_central_id": 5524,
+      "extras_ids": [5480],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "O desaforamento é um instituto específico do procedimento do Tribunal do Júri."
+    },
+    {
+      "id": "Q0134",
+      "fora": false,
+      "tema_central_id": 5092,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A descrição da conduta corresponde ao crime de corrupção passiva previsto no Código Penal."
+    },
+    {
+      "id": "Q0135",
+      "fora": false,
+      "tema_central_id": 5169,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda especificamente as características do crime de receptação."
+    },
+    {
+      "id": "Q0136",
+      "fora": false,
+      "tema_central_id": 4704,
+      "extras_ids": [5124],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A questão discute a aplicação da Lei Maria da Penha em contexto de violência doméstica e familiar contra a mulher."
+    },
+    {
+      "id": "Q0137",
+      "fora": false,
+      "tema_central_id": 5498,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A questão trata de atribuições e prerrogativas do delegado de polícia no inquérito policial."
+    },
+    {
+      "id": "Q0138",
+      "fora": false,
+      "tema_central_id": 5205,
+      "extras_ids": [5207],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A questão aborda a substituição de penas privativas de liberdade por restritivas de direitos e a suspensão condicional da pena."
+    },
+    {
+      "id": "Q0139",
+      "fora": false,
+      "tema_central_id": 5211,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "O conceito de coculpabilidade é uma teoria que influencia a análise da culpabilidade no Direito Penal."
+    },
+    {
+      "id": "Q0140",
+      "fora": false,
+      "tema_central_id": 5159,
+      "extras_ids": [5160],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": true,
+      "confianca": 0.85,
+      "motivo": "A questão aborda simultaneamente aspectos dos crimes de furto e roubo, sendo o furto o tema principal."
+    }
+  ]
+}

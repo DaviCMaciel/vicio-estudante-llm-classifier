@@ -1,0 +1,128 @@
+{
+ "ids": [
+  "Q0141",
+  "Q0142",
+  "Q0143",
+  "Q0144",
+  "Q0145",
+  "Q0146",
+  "Q0147",
+  "Q0148",
+  "Q0149",
+  "Q0150"
+ ],
+ "itens": [
+  {
+   "id": "Q0141",
+   "fora": false,
+   "tema_central_id": 4387,
+   "extras_ids": [
+    4388
+   ],
+   "alternativa_tema_id": 4388,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda a Escola de Chicago e a Teoria Ecológica, que explicam a criminalidade pelo ambiente urbano."
+  },
+  {
+   "id": "Q0142",
+   "fora": true,
+   "tema_central_id": 0,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 1.0,
+   "motivo": "A questão trata de Direito Tributário (ITCD), matéria fora do escopo jurídico penal."
+  },
+  {
+   "id": "Q0143",
+   "fora": false,
+   "tema_central_id": 5507,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda a aplicação da lei processual penal no tempo (tempus regit actum)."
+  },
+  {
+   "id": "Q0144",
+   "fora": false,
+   "tema_central_id": 5562,
+   "extras_ids": [
+    5524
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O recurso cabível contra sentença do juiz-presidente no Tribunal do Júri é a apelação, conforme art. 593, III, do CPP."
+  },
+  {
+   "id": "Q0145",
+   "fora": false,
+   "tema_central_id": 4702,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão versa sobre os elementos típicos e a natureza do crime de lavagem de dinheiro."
+  },
+  {
+   "id": "Q0146",
+   "fora": false,
+   "tema_central_id": 5594,
+   "extras_ids": [
+    5595
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.85,
+   "motivo": "A questão exige identificar exceções à inadmissibilidade de provas ilícitas ou a correta aplicação da teoria da prova."
+  },
+  {
+   "id": "Q0147",
+   "fora": false,
+   "tema_central_id": 5498,
+   "extras_ids": [
+    5502
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão aborda o inquérito policial e os meios de obtenção de prova."
+  },
+  {
+   "id": "Q0148",
+   "fora": false,
+   "tema_central_id": 5203,
+   "extras_ids": [
+    5202
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Trata da compensação entre reincidência e confissão espontânea na dosimetria da pena."
+  },
+  {
+   "id": "Q0149",
+   "fora": false,
+   "tema_central_id": 5498,
+   "extras_ids": [
+    5554
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "Aborda diligências investigativas e competências do delegado de polícia no inquérito."
+  },
+  {
+   "id": "Q0150",
+   "fora": false,
+   "tema_central_id": 4708,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão trata de causas de aumento de pena e aplicação da lei penal na Lei de Drogas."
+  }
+ ]
+}

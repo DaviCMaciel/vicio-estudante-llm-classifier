@@ -1,0 +1,129 @@
+{
+ "ids": [
+  "Q0331",
+  "Q0332",
+  "Q0333",
+  "Q0334",
+  "Q0335",
+  "Q0336",
+  "Q0337",
+  "Q0338",
+  "Q0339",
+  "Q0340"
+ ],
+ "itens": [
+  {
+   "id": "Q0331",
+   "fora": false,
+   "tema_central_id": 5477,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão trata das hipóteses de cabimento e legitimidade do Habeas Corpus."
+  },
+  {
+   "id": "Q0332",
+   "fora": false,
+   "tema_central_id": 5541,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda os requisitos e impedimentos para a concessão da transação penal nos Juizados Especiais Criminais."
+  },
+  {
+   "id": "Q0333",
+   "fora": false,
+   "tema_central_id": 5170,
+   "extras_ids": [
+    5178,
+    4371
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": true,
+   "confianca": 0.8,
+   "motivo": "A questão é interdisciplinar, abordando temas de teoria do crime, teoria da pena e história da criminologia."
+  },
+  {
+   "id": "Q0334",
+   "fora": false,
+   "tema_central_id": 4381,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão versa sobre o objeto de estudo da Criminologia, distinguindo-a do Direito Penal (dever-ser)."
+  },
+  {
+   "id": "Q0335",
+   "fora": false,
+   "tema_central_id": 5218,
+   "extras_ids": [
+    5221,
+    5222
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": true,
+   "confianca": 0.85,
+   "motivo": "A questão aborda conceitos fundamentais da teoria do crime, como conduta, dolo e tipos de crimes."
+  },
+  {
+   "id": "Q0336",
+   "fora": false,
+   "tema_central_id": 5159,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão trata da consumação do crime de furto segundo a teoria da inversão da posse (teoria da amotio)."
+  },
+  {
+   "id": "Q0337",
+   "fora": false,
+   "tema_central_id": 4684,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda os elementos subjetivos e as causas de exclusão de crime na Lei de Abuso de Autoridade."
+  },
+  {
+   "id": "Q0338",
+   "fora": false,
+   "tema_central_id": 5590,
+   "extras_ids": [
+    5546,
+    5548
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": true,
+   "confianca": 0.85,
+   "motivo": "A questão versa sobre regras gerais de provas no Código de Processo Penal."
+  },
+  {
+   "id": "Q0339",
+   "fora": false,
+   "tema_central_id": 5572,
+   "extras_ids": [
+    5578
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão aborda aspectos procedimentais da sentença penal e o princípio da correlação."
+  },
+  {
+   "id": "Q0340",
+   "fora": false,
+   "tema_central_id": 5071,
+   "extras_ids": [
+    5074
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão trata das regras de concurso de pessoas, especificamente sobre a participação de menor importância."
+  }
+ ]
+}

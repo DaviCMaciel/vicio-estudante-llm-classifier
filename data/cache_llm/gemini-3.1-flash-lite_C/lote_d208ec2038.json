@@ -1,0 +1,126 @@
+{
+ "ids": [
+  "Q0281",
+  "Q0282",
+  "Q0283",
+  "Q0284",
+  "Q0285",
+  "Q0286",
+  "Q0287",
+  "Q0288",
+  "Q0289",
+  "Q0290"
+ ],
+ "itens": [
+  {
+   "id": "Q0281",
+   "fora": false,
+   "tema_central_id": 4700,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda requisitos e vedações legais para interceptação telefônica e sigilo de dados."
+  },
+  {
+   "id": "Q0282",
+   "fora": false,
+   "tema_central_id": 4704,
+   "extras_ids": [
+    4690,
+    4697
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A alternativa E reflete corretamente o procedimento da Lei Maria da Penha sobre medidas protetivas."
+  },
+  {
+   "id": "Q0283",
+   "fora": false,
+   "tema_central_id": 5496,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Trata especificamente das medidas assecuratórias (hipoteca legal) no processo penal."
+  },
+  {
+   "id": "Q0284",
+   "fora": false,
+   "tema_central_id": 5231,
+   "extras_ids": [
+    5224
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.85,
+   "motivo": "O caso trata de legítima defesa putativa (erro de tipo permissivo) no contexto de homicídio."
+  },
+  {
+   "id": "Q0285",
+   "fora": false,
+   "tema_central_id": 4376,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A legislação diferenciada é um dos pilares do Direito Penal do Inimigo de Jakobs."
+  },
+  {
+   "id": "Q0286",
+   "fora": false,
+   "tema_central_id": 5204,
+   "extras_ids": [
+    5203
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão versa sobre a ordem de aplicação das causas de aumento e diminuição na dosimetria."
+  },
+  {
+   "id": "Q0287",
+   "fora": false,
+   "tema_central_id": 5228,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O estado de necessidade é uma das causas excludentes de ilicitude previstas no art. 23 do CP."
+  },
+  {
+   "id": "Q0288",
+   "fora": false,
+   "tema_central_id": 5170,
+   "extras_ids": [
+    5069,
+    5103
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": true,
+   "confianca": 0.7,
+   "motivo": "A questão mistura diversos temas de Direito Penal, sendo o tema central a análise de conceitos gerais."
+  },
+  {
+   "id": "Q0289",
+   "fora": false,
+   "tema_central_id": 4704,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda jurisprudência consolidada do STJ sobre a Lei Maria da Penha."
+  },
+  {
+   "id": "Q0290",
+   "fora": false,
+   "tema_central_id": 4701,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A alternativa A está incorreta pois a lesão corporal leve é ação pública condicionada, não incondicionada."
+  }
+ ]
+}

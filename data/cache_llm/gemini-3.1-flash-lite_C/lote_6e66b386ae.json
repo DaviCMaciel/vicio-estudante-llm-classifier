@@ -1,0 +1,140 @@
+{
+ "ids": [
+  "Q0221",
+  "Q0222",
+  "Q0223",
+  "Q0224",
+  "Q0225",
+  "Q0226",
+  "Q0227",
+  "Q0228",
+  "Q0229",
+  "Q0230"
+ ],
+ "itens": [
+  {
+   "id": "Q0221",
+   "fora": false,
+   "tema_central_id": 5200,
+   "extras_ids": [
+    5203,
+    5204,
+    5184
+   ],
+   "alternativa_tema_id": 5202,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda conceitos fundamentais de sanção penal, dosimetria e medidas de segurança."
+  },
+  {
+   "id": "Q0222",
+   "fora": false,
+   "tema_central_id": 4376,
+   "extras_ids": [
+    4374,
+    4375
+   ],
+   "alternativa_tema_id": 4374,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "O tema central é a política criminal e as teorias das velocidades do Direito Penal."
+  },
+  {
+   "id": "Q0223",
+   "fora": false,
+   "tema_central_id": 4703,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Trata-se de crime previsto na Lei de Execução Penal (art. 349-A do CP)."
+  },
+  {
+   "id": "Q0224",
+   "fora": false,
+   "tema_central_id": 5174,
+   "extras_ids": [
+    5203
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão exige conhecimento sobre reincidência (art. 63 e 64 do CP) e seus efeitos na dosimetria."
+  },
+  {
+   "id": "Q0225",
+   "fora": false,
+   "tema_central_id": 5478,
+   "extras_ids": [
+    5480
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão trata da competência para o processamento da revisão criminal."
+  },
+  {
+   "id": "Q0226",
+   "fora": false,
+   "tema_central_id": 5544,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão versa sobre as etapas da cadeia de custódia previstas no CPP."
+  },
+  {
+   "id": "Q0227",
+   "fora": false,
+   "tema_central_id": 5103,
+   "extras_ids": [
+    5150,
+    5067
+   ],
+   "alternativa_tema_id": 5150,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão analisa o concurso de crimes contra a dignidade sexual e contra a vida."
+  },
+  {
+   "id": "Q0228",
+   "fora": false,
+   "tema_central_id": 4703,
+   "extras_ids": [
+    5208
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O procedimento para livramento condicional é matéria de execução penal."
+  },
+  {
+   "id": "Q0229",
+   "fora": false,
+   "tema_central_id": 5584,
+   "extras_ids": [
+    5519,
+    5520,
+    5518
+   ],
+   "alternativa_tema_id": 5519,
+   "duvida_subtemas": true,
+   "confianca": 0.85,
+   "motivo": "A questão aborda diversas modalidades de prisão no processo penal."
+  },
+  {
+   "id": "Q0230",
+   "fora": false,
+   "tema_central_id": 5211,
+   "extras_ids": [
+    5071,
+    5200,
+    5184
+   ],
+   "alternativa_tema_id": 5200,
+   "duvida_subtemas": true,
+   "confianca": 0.8,
+   "motivo": "A questão é interdisciplinar, abrangendo culpabilidade, concurso de pessoas e teoria da pena."
+  }
+ ]
+}

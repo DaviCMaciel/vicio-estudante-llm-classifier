@@ -1,0 +1,104 @@
+{
+  "questoes": [
+    {
+      "id": "Q0161",
+      "fora": false,
+      "tema_central_id": 5518,
+      "extras_ids": [5589, 5227],
+      "alternativa_tema_id": 5588,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão trata da ilegalidade da prisão em flagrante decorrente de invasão domiciliar sem mandado, o que enseja o relaxamento da prisão."
+    },
+    {
+      "id": "Q0162",
+      "fora": false,
+      "tema_central_id": 4380,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A questão aborda a classificação das instâncias de controle social (formal e informal) dentro da teoria geral da criminologia."
+    },
+    {
+      "id": "Q0163",
+      "fora": false,
+      "tema_central_id": 4684,
+      "extras_ids": [5133],
+      "alternativa_tema_id": 5133,
+      "duvida_subtemas": false,
+      "confianca": 0.85,
+      "motivo": "A questão discute a violação de correspondência por autoridade pública, envolvendo o crime de abuso de autoridade e violação de segredo."
+    },
+    {
+      "id": "Q0164",
+      "fora": false,
+      "tema_central_id": 4703,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão cobra literalidade da Lei de Execução Penal sobre assistência ao preso e egresso."
+    },
+    {
+      "id": "Q0165",
+      "fora": false,
+      "tema_central_id": 4705,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda dispositivos específicos da Lei de Organizações Criminosas (Lei 12.850/2013)."
+    },
+    {
+      "id": "Q0166",
+      "fora": false,
+      "tema_central_id": 4703,
+      "extras_ids": [5208],
+      "alternativa_tema_id": 5208,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "O caso trata de benefícios na execução penal para apenado idoso e reincidente em crime hediondo."
+    },
+    {
+      "id": "Q0167",
+      "fora": false,
+      "tema_central_id": 5480,
+      "extras_ids": [5524],
+      "alternativa_tema_id": 5524,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "O desaforamento é um instituto de competência processual penal aplicado ao Tribunal do Júri."
+    },
+    {
+      "id": "Q0168",
+      "fora": false,
+      "tema_central_id": 4687,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A questão trata de crimes contra a incerteza do resultado esportivo previstos na Lei Geral do Esporte."
+    },
+    {
+      "id": "Q0169",
+      "fora": false,
+      "tema_central_id": 5492,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão versa sobre as causas de impedimento e suspeição do juiz no Código de Processo Penal."
+    },
+    {
+      "id": "Q0170",
+      "fora": false,
+      "tema_central_id": 5170,
+      "extras_ids": [5185],
+      "alternativa_tema_id": 5185,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A questão exige conhecimento sobre os conceitos de reincidência e efeitos da extinção da punibilidade."
+    }
+  ]
+}

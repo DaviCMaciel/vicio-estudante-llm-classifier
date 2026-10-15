@@ -1,0 +1,114 @@
+{
+  "questoes": [
+    {
+      "id": "Q0231",
+      "fora": false,
+      "tema_central_id": 5224,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "O erro de tipo essencial exclui o dolo, tornando a conduta atípica se não houver previsão de modalidade culposa."
+    },
+    {
+      "id": "Q0232",
+      "fora": false,
+      "tema_central_id": 5079,
+      "extras_ids": [
+        5080,
+        5081,
+        5084
+      ],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": true,
+      "confianca": 0.8,
+      "motivo": "A questão aborda diversos crimes contra a administração da justiça, exigindo análise de múltiplos tipos penais."
+    },
+    {
+      "id": "Q0233",
+      "fora": false,
+      "tema_central_id": 5178,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A alternativa B descreve corretamente o conceito de desistência voluntária conforme o art. 15 do CP."
+    },
+    {
+      "id": "Q0234",
+      "fora": false,
+      "tema_central_id": 4381,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A criminologia é uma ciência empírica e interdisciplinar, enquanto a hermenêutica dogmática pertence ao campo do Direito Penal."
+    },
+    {
+      "id": "Q0235",
+      "fora": false,
+      "tema_central_id": 5561,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "O RESE contra decisão que declina da competência não possui efeito suspensivo automático."
+    },
+    {
+      "id": "Q0236",
+      "fora": false,
+      "tema_central_id": 5590,
+      "extras_ids": [
+        5491,
+        5549
+      ],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A assertiva III reflete a jurisprudência consolidada sobre a vedação de condenação baseada exclusivamente em elementos do inquérito."
+    },
+    {
+      "id": "Q0237",
+      "fora": false,
+      "tema_central_id": 5178,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A alternativa A diferencia corretamente a desistência voluntária (durante a execução) do arrependimento eficaz (após a execução)."
+    },
+    {
+      "id": "Q0238",
+      "fora": false,
+      "tema_central_id": 5523,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "O reforço da fiança é previsto no CPP quando há alteração na classificação do delito."
+    },
+    {
+      "id": "Q0239",
+      "fora": false,
+      "tema_central_id": 5203,
+      "extras_ids": [
+        5207,
+        5226
+      ],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.85,
+      "motivo": "A alternativa A descreve corretamente a atenuante da menoridade relativa e maioridade senil."
+    },
+    {
+      "id": "Q0240",
+      "fora": false,
+      "tema_central_id": 5498,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.8,
+      "motivo": "O cálculo do prazo para denúncia em caso de réu preso segue o rito do CPP (5 dias)."
+    }
+  ]
+}

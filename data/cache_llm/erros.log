@@ -14,3 +14,5 @@
 2026-10-14T18:13:47 | gemini-3.8-flash | 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
 2026-10-14T18:14:34 | gemini-3.8-flash | 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
 2026-10-14T18:15:46 | gemini-3.8-flash | 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-10-14T23:23:18 | gemini-3.1-flash-lite | 'GEMINI_API_KEY'
+2026-10-14T23:23:23 | gemini-3.1-flash-lite | 'GEMINI_API_KEY'

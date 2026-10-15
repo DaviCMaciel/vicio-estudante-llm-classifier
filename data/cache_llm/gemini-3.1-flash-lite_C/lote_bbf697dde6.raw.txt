@@ -1,0 +1,119 @@
+{
+  "questoes": [
+    {
+      "id": "Q0261",
+      "fora": false,
+      "tema_central_id": 5136,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão trata de crime contra a propriedade imaterial (propriedade intelectual de software), regido pela Lei 9.609/98."
+    },
+    {
+      "id": "Q0262",
+      "fora": false,
+      "tema_central_id": 4703,
+      "extras_ids": [
+        5184
+      ],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A questão aborda a superveniência de doença mental durante a execução penal, matéria tratada na Lei de Execução Penal."
+    },
+    {
+      "id": "Q0263",
+      "fora": false,
+      "tema_central_id": 5492,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "As assertivas descrevem hipóteses de suspeição do juiz previstas no Código de Processo Penal."
+    },
+    {
+      "id": "Q0264",
+      "fora": false,
+      "tema_central_id": 5103,
+      "extras_ids": [
+        4704
+      ],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A questão aborda a tipificação de crimes contra a dignidade sexual de vulneráveis e menores."
+    },
+    {
+      "id": "Q0265",
+      "fora": false,
+      "tema_central_id": 5185,
+      "extras_ids": [
+        5066
+      ],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A prescrição no concurso de crimes é calculada isoladamente para cada delito, conforme o art. 119 do Código Penal."
+    },
+    {
+      "id": "Q0266",
+      "fora": false,
+      "tema_central_id": 5480,
+      "extras_ids": [
+        5484
+      ],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A questão trata de competência jurisdicional em crime doloso contra a vida praticado por militares contra civil."
+    },
+    {
+      "id": "Q0267",
+      "fora": false,
+      "tema_central_id": 4708,
+      "extras_ids": [
+        5546
+      ],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A questão aborda procedimentos da Lei de Drogas (Lei 11.343/06) relativos à perícia e destruição de entorpecentes."
+    },
+    {
+      "id": "Q0268",
+      "fora": false,
+      "tema_central_id": 5116,
+      "extras_ids": [
+        5120,
+        4684
+      ],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": true,
+      "confianca": 0.8,
+      "motivo": "A questão é uma miscelânea de temas de Direito Penal (Falsidade, Honra e Abuso de Autoridade)."
+    },
+    {
+      "id": "Q0269",
+      "fora": false,
+      "tema_central_id": 4368,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão versa sobre os fundamentos e a doutrina do garantismo penal."
+    },
+    {
+      "id": "Q0270",
+      "fora": false,
+      "tema_central_id": 5091,
+      "extras_ids": [
+        5092
+      ],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A conduta de exigir vantagem indevida em razão da função pública configura o crime de concussão."
+    }
+  ]
+}

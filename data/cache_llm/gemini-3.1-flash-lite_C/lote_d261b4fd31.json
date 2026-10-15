@@ -1,0 +1,129 @@
+{
+ "ids": [
+  "Q0121",
+  "Q0122",
+  "Q0123",
+  "Q0124",
+  "Q0125",
+  "Q0126",
+  "Q0127",
+  "Q0128",
+  "Q0129",
+  "Q0130"
+ ],
+ "itens": [
+  {
+   "id": "Q0121",
+   "fora": false,
+   "tema_central_id": 5472,
+   "extras_ids": [
+    5469
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda o princípio da indivisibilidade na ação penal privada, que exige que a queixa seja oferecida contra todos os autores do crime."
+  },
+  {
+   "id": "Q0122",
+   "fora": false,
+   "tema_central_id": 4703,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A remição é instituto da Lei de Execução Penal (LEP) que permite a redução da pena pelo trabalho ou estudo."
+  },
+  {
+   "id": "Q0123",
+   "fora": false,
+   "tema_central_id": 4385,
+   "extras_ids": [
+    4388
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão trata de teorias sociológicas da criminalidade, especificamente o labeling approach e a seletividade do sistema penal."
+  },
+  {
+   "id": "Q0124",
+   "fora": false,
+   "tema_central_id": 5200,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão exige conhecimento sobre as teorias absolutas e relativas da pena e seus principais expoentes doutrinários."
+  },
+  {
+   "id": "Q0125",
+   "fora": false,
+   "tema_central_id": 4703,
+   "extras_ids": [
+    5181
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A competência para aplicação de lei penal mais benéfica após o trânsito em julgado é do juízo da execução penal."
+  },
+  {
+   "id": "Q0126",
+   "fora": false,
+   "tema_central_id": 5182,
+   "extras_ids": [
+    5076,
+    5213
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda a aplicação da lei penal no espaço, especificamente a extraterritorialidade incondicionada."
+  },
+  {
+   "id": "Q0127",
+   "fora": false,
+   "tema_central_id": 5580,
+   "extras_ids": [
+    5531
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão discute o sistema acusatório e a possibilidade de condenação pelo juiz mesmo quando o Ministério Público pede a absolvição."
+  },
+  {
+   "id": "Q0128",
+   "fora": false,
+   "tema_central_id": 5184,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A medida de segurança é aplicada a inimputáveis, não sendo tecnicamente uma 'ação de prevenção penal' no sentido da alternativa."
+  },
+  {
+   "id": "Q0129",
+   "fora": false,
+   "tema_central_id": 5550,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O Código de Processo Penal admite o depoimento de parentes como testemunhas, ressalvada a faculdade de não depor em certos casos."
+  },
+  {
+   "id": "Q0130",
+   "fora": false,
+   "tema_central_id": 5160,
+   "extras_ids": [
+    5201
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O crime de roubo com emprego de arma (mesmo simulacro, se houver grave ameaça) impede a substituição da pena privativa de liberdade por restritiva de direitos."
+  }
+ ]
+}

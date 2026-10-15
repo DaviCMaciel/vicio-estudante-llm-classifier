@@ -1,0 +1,136 @@
+{
+ "ids": [
+  "Q0321",
+  "Q0322",
+  "Q0323",
+  "Q0324",
+  "Q0325",
+  "Q0326",
+  "Q0327",
+  "Q0328",
+  "Q0329",
+  "Q0330"
+ ],
+ "itens": [
+  {
+   "id": "Q0321",
+   "fora": false,
+   "tema_central_id": 5071,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda conceitos fundamentais de concurso de pessoas, especificamente a autoria colateral."
+  },
+  {
+   "id": "Q0322",
+   "fora": false,
+   "tema_central_id": 5561,
+   "extras_ids": [
+    4684
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O recurso cabível contra a decisão que rejeita a denúncia é o Recurso em Sentido Estrito (RESE), conforme art. 581, I, do CPP."
+  },
+  {
+   "id": "Q0323",
+   "fora": false,
+   "tema_central_id": 5590,
+   "extras_ids": [
+    5543,
+    5555
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": true,
+   "confianca": 0.85,
+   "motivo": "A questão trata de diversos aspectos da teoria geral das provas e provas em espécie, exigindo análise de múltiplos subtemas."
+  },
+  {
+   "id": "Q0324",
+   "fora": false,
+   "tema_central_id": 5200,
+   "extras_ids": [
+    5201,
+    5184,
+    4703
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": true,
+   "confianca": 0.8,
+   "motivo": "A questão aborda múltiplos aspectos da teoria da pena, incluindo execução penal e medidas de segurança."
+  },
+  {
+   "id": "Q0325",
+   "fora": false,
+   "tema_central_id": 5466,
+   "extras_ids": [
+    5531,
+    4704
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": true,
+   "confianca": 0.85,
+   "motivo": "A questão versa sobre condições da ação penal, recebimento da denúncia e institutos processuais específicos."
+  },
+  {
+   "id": "Q0326",
+   "fora": false,
+   "tema_central_id": 4708,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão exige conhecimento direto dos tipos penais previstos na Lei de Drogas (Lei 11.343/06)."
+  },
+  {
+   "id": "Q0327",
+   "fora": false,
+   "tema_central_id": 5203,
+   "extras_ids": [
+    5188
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão trata da dosimetria da pena na segunda fase, envolvendo a compensação entre reincidência e confissão espontânea."
+  },
+  {
+   "id": "Q0328",
+   "fora": false,
+   "tema_central_id": 4382,
+   "extras_ids": [
+    4381
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda a função da criminologia e sua relação com o Direito Penal e a Política Criminal."
+  },
+  {
+   "id": "Q0329",
+   "fora": false,
+   "tema_central_id": 5557,
+   "extras_ids": [
+    4705
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão trata especificamente dos efeitos e institutos da colaboração premiada no contexto de organização criminosa."
+  },
+  {
+   "id": "Q0330",
+   "fora": false,
+   "tema_central_id": 5498,
+   "extras_ids": [
+    5501
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda as alterações do Pacote Anticrime relativas ao arquivamento do inquérito policial."
+  }
+ ]
+}

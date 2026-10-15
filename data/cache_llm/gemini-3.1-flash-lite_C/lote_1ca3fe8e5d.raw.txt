@@ -1,0 +1,104 @@
+{
+  "questoes": [
+    {
+      "id": "Q0111",
+      "fora": false,
+      "tema_central_id": 4373,
+      "extras_ids": [4371],
+      "alternativa_tema_id": 4371,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda características e autores da Escola Positiva da Criminologia."
+    },
+    {
+      "id": "Q0112",
+      "fora": false,
+      "tema_central_id": 4705,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Trata especificamente das causas de aumento de pena na Lei de Organizações Criminosas."
+    },
+    {
+      "id": "Q0113",
+      "fora": false,
+      "tema_central_id": 5186,
+      "extras_ids": [5089],
+      "alternativa_tema_id": 5089,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "O STJ entende que a prescrição penal se aplica ao PAD quando o fato é crime, independentemente de sentença transitada em julgado."
+    },
+    {
+      "id": "Q0114",
+      "fora": false,
+      "tema_central_id": 5507,
+      "extras_ids": [5181],
+      "alternativa_tema_id": 5181,
+      "duvida_subtemas": false,
+      "confianca": 0.85,
+      "motivo": "A questão discute a aplicação intertemporal de norma processual penal de conteúdo material (natureza mista) após decisão do STF."
+    },
+    {
+      "id": "Q0115",
+      "fora": false,
+      "tema_central_id": 4385,
+      "extras_ids": [4387],
+      "alternativa_tema_id": 4387,
+      "duvida_subtemas": true,
+      "confianca": 0.7,
+      "motivo": "O caso descreve uma situação de desvio social súbito, sendo a Teoria da Anomia a que melhor se ajusta ao contexto de frustração e quebra de expectativas sociais."
+    },
+    {
+      "id": "Q0116",
+      "fora": false,
+      "tema_central_id": 4708,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão aborda diversos aspectos da Lei de Drogas, incluindo a inconstitucionalidade da vedação de substituição de penas."
+    },
+    {
+      "id": "Q0117",
+      "fora": false,
+      "tema_central_id": 5200,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A teoria absoluta (ou retributiva) foca na pena como fim em si mesma, mas a descrição de neutralização remete à função de prevenção geral negativa ou incapacitação."
+    },
+    {
+      "id": "Q0118",
+      "fora": false,
+      "tema_central_id": 5507,
+      "extras_ids": [5517],
+      "alternativa_tema_id": 5517,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "Aplica-se o princípio da irretroatividade da lei processual penal mais gravosa (lex gravior) em matéria de liberdade."
+    },
+    {
+      "id": "Q0119",
+      "fora": false,
+      "tema_central_id": 5181,
+      "extras_ids": [5194],
+      "alternativa_tema_id": 5194,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A abolitio criminis retroage para beneficiar o agente a qualquer tempo, inclusive após o trânsito em julgado."
+    },
+    {
+      "id": "Q0120",
+      "fora": false,
+      "tema_central_id": 5533,
+      "extras_ids": [5543],
+      "alternativa_tema_id": 5543,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "O réu deve especificar provas na resposta à acusação, sob pena de preclusão, conforme o rito ordinário."
+    }
+  ]
+}

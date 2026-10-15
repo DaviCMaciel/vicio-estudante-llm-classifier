@@ -1,0 +1,132 @@
+{
+ "ids": [
+  "Q0181",
+  "Q0182",
+  "Q0183",
+  "Q0184",
+  "Q0185",
+  "Q0186",
+  "Q0187",
+  "Q0188",
+  "Q0189",
+  "Q0190"
+ ],
+ "itens": [
+  {
+   "id": "Q0181",
+   "fora": false,
+   "tema_central_id": 4695,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão trata especificamente de crimes contra a ordem tributária previstos na Lei 8.137/90."
+  },
+  {
+   "id": "Q0182",
+   "fora": false,
+   "tema_central_id": 5149,
+   "extras_ids": [
+    5138,
+    5146
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": true,
+   "confianca": 0.85,
+   "motivo": "A questão aborda diversos crimes contra a vida, integridade física e honra, exigindo análise de múltiplos tipos penais."
+  },
+  {
+   "id": "Q0183",
+   "fora": false,
+   "tema_central_id": 5561,
+   "extras_ids": [
+    5185
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "O recurso cabível contra decisão que extingue a punibilidade é o Recurso em Sentido Estrito (RESE), conforme art. 581, VIII, do CPP."
+  },
+  {
+   "id": "Q0184",
+   "fora": false,
+   "tema_central_id": 4708,
+   "extras_ids": [
+    5518
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão exige conhecimento específico do prazo de comunicação da prisão em flagrante na Lei de Drogas (art. 50, § 1º, Lei 11.343/06)."
+  },
+  {
+   "id": "Q0185",
+   "fora": false,
+   "tema_central_id": 4703,
+   "extras_ids": [
+    5201
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão trata de falta grave e regressão de regime na execução penal, exigindo observância ao contraditório (Súmula 533 do STJ)."
+  },
+  {
+   "id": "Q0186",
+   "fora": false,
+   "tema_central_id": 5202,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A jurisprudência dos tribunais superiores consolidou que condenações definitivas por fatos anteriores não podem ser usadas como maus antecedentes, mas podem ser valoradas como conduta social ou personalidade."
+  },
+  {
+   "id": "Q0187",
+   "fora": false,
+   "tema_central_id": 5209,
+   "extras_ids": [
+    4702,
+    5092
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão aborda efeitos da condenação penal, especificamente o confisco de bens e perda de cargo público."
+  },
+  {
+   "id": "Q0188",
+   "fora": false,
+   "tema_central_id": 5231,
+   "extras_ids": [
+    5228
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O ofendículo é considerado pela doutrina majoritária como um exercício regular de direito, excluindo a ilicitude (legítima defesa preordenada)."
+  },
+  {
+   "id": "Q0189",
+   "fora": false,
+   "tema_central_id": 5472,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A desistência da ação penal privada (perdão) tem limites temporais claros no CPP."
+  },
+  {
+   "id": "Q0190",
+   "fora": false,
+   "tema_central_id": 4701,
+   "extras_ids": [
+    5540
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão versa sobre competência e institutos despenalizadores da Lei 9.099/95."
+  }
+ ]
+}

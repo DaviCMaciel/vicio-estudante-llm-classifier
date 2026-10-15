@@ -1,0 +1,126 @@
+{
+ "ids": [
+  "Q0251",
+  "Q0252",
+  "Q0253",
+  "Q0254",
+  "Q0255",
+  "Q0256",
+  "Q0257",
+  "Q0258",
+  "Q0259",
+  "Q0260"
+ ],
+ "itens": [
+  {
+   "id": "Q0251",
+   "fora": false,
+   "tema_central_id": 5191,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 1.0,
+   "motivo": "A questão aborda diretamente as causas de extinção da punibilidade previstas no Código Penal."
+  },
+  {
+   "id": "Q0252",
+   "fora": false,
+   "tema_central_id": 4703,
+   "extras_ids": [
+    5208,
+    5206
+   ],
+   "alternativa_tema_id": 5208,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão trata de institutos da execução penal como graça, multa e livramento condicional."
+  },
+  {
+   "id": "Q0253",
+   "fora": false,
+   "tema_central_id": 4373,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 1.0,
+   "motivo": "A questão exige conhecimento sobre as Escolas Penais (Clássica e Positiva)."
+  },
+  {
+   "id": "Q0254",
+   "fora": false,
+   "tema_central_id": 4704,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 1.0,
+   "motivo": "A questão versa sobre as regras das medidas protetivas na Lei Maria da Penha."
+  },
+  {
+   "id": "Q0255",
+   "fora": false,
+   "tema_central_id": 5213,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 1.0,
+   "motivo": "A questão trata de causas de exclusão ou redução da imputabilidade penal."
+  },
+  {
+   "id": "Q0256",
+   "fora": false,
+   "tema_central_id": 5224,
+   "extras_ids": [
+    5214
+   ],
+   "alternativa_tema_id": 5214,
+   "duvida_subtemas": true,
+   "confianca": 0.8,
+   "motivo": "A questão confunde erro de tipo com erro de proibição, exigindo distinção entre eles."
+  },
+  {
+   "id": "Q0257",
+   "fora": false,
+   "tema_central_id": 5218,
+   "extras_ids": [
+    5227
+   ],
+   "alternativa_tema_id": 5227,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão aborda elementos do fato típico, sujeito ativo e tipicidade."
+  },
+  {
+   "id": "Q0258",
+   "fora": false,
+   "tema_central_id": 5545,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 1.0,
+   "motivo": "A questão trata especificamente do exame de corpo de delito no CPP."
+  },
+  {
+   "id": "Q0259",
+   "fora": false,
+   "tema_central_id": 5183,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 1.0,
+   "motivo": "A questão aborda o princípio da consunção no conflito aparente de normas."
+  },
+  {
+   "id": "Q0260",
+   "fora": false,
+   "tema_central_id": 4368,
+   "extras_ids": [
+    4376,
+    4370
+   ],
+   "alternativa_tema_id": 4370,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda temas de Criminologia no Estado Democrático de Direito, incluindo Direito Penal do Inimigo e Justiça Restaurativa."
+  }
+ ]
+}

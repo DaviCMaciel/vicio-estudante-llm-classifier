@@ -1,0 +1,126 @@
+{
+ "ids": [
+  "Q0311",
+  "Q0312",
+  "Q0313",
+  "Q0314",
+  "Q0315",
+  "Q0316",
+  "Q0317",
+  "Q0318",
+  "Q0319",
+  "Q0320"
+ ],
+ "itens": [
+  {
+   "id": "Q0311",
+   "fora": false,
+   "tema_central_id": 5488,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão trata especificamente do procedimento de citação no processo penal quando o réu não é localizado."
+  },
+  {
+   "id": "Q0312",
+   "fora": false,
+   "tema_central_id": 5200,
+   "extras_ids": [
+    4371
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda a teoria da pena sob a perspectiva de Franz von Liszt (Escola Moderna Alemã)."
+  },
+  {
+   "id": "Q0313",
+   "fora": false,
+   "tema_central_id": 5577,
+   "extras_ids": [
+    5475
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Trata do efeito da sentença penal condenatória de tornar certa a obrigação de reparar o dano."
+  },
+  {
+   "id": "Q0314",
+   "fora": false,
+   "tema_central_id": 5477,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O enunciado pede a definição jurídica de Habeas Corpus."
+  },
+  {
+   "id": "Q0315",
+   "fora": false,
+   "tema_central_id": 5188,
+   "extras_ids": [
+    5187
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão exige o cálculo da prescrição da pretensão punitiva com base na pena aplicada."
+  },
+  {
+   "id": "Q0316",
+   "fora": false,
+   "tema_central_id": 5224,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O enunciado refere-se expressamente ao erro sobre a pessoa (art. 20, § 3º, CP)."
+  },
+  {
+   "id": "Q0317",
+   "fora": false,
+   "tema_central_id": 5198,
+   "extras_ids": [
+    5471
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "Trata do prazo decadencial para o exercício do direito de representação."
+  },
+  {
+   "id": "Q0318",
+   "fora": false,
+   "tema_central_id": 5178,
+   "extras_ids": [
+    5150
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O caso trata de tentativa de homicídio onde o resultado morte ocorreu, afastando institutos como desistência voluntária."
+  },
+  {
+   "id": "Q0319",
+   "fora": false,
+   "tema_central_id": 5072,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão aborda a impossibilidade de coautoria em crimes de mão própria."
+  },
+  {
+   "id": "Q0320",
+   "fora": false,
+   "tema_central_id": 5550,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão pede a definição doutrinária de testemunha fedatária."
+  }
+ ]
+}

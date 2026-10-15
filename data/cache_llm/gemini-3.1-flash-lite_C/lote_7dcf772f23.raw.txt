@@ -1,0 +1,116 @@
+{
+  "questoes": [
+    {
+      "id": "Q0341",
+      "fora": false,
+      "tema_central_id": 5157,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A questão aborda disposições gerais e específicas dos crimes contra o patrimônio, como a ação penal e causas de aumento."
+    },
+    {
+      "id": "Q0342",
+      "fora": false,
+      "tema_central_id": 5546,
+      "extras_ids": [
+        5545
+      ],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "Trata especificamente das regras processuais sobre perícias e exame de corpo de delito."
+    },
+    {
+      "id": "Q0343",
+      "fora": false,
+      "tema_central_id": 5196,
+      "extras_ids": [
+        5472
+      ],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "O perdão do ofendido é causa extintiva da punibilidade que exige aceitação do querelado (natureza bilateral)."
+    },
+    {
+      "id": "Q0344",
+      "fora": false,
+      "tema_central_id": 4688,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão versa sobre as disposições da Lei de Crimes Ambientais (Lei 9.605/98) quanto ao destino de bens apreendidos."
+    },
+    {
+      "id": "Q0345",
+      "fora": false,
+      "tema_central_id": 5103,
+      "extras_ids": [
+        5203,
+        5204
+      ],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "Trata da tipificação de crime contra a dignidade sexual de vulnerável e a aplicação de agravantes e causas de aumento."
+    },
+    {
+      "id": "Q0346",
+      "fora": false,
+      "tema_central_id": 5583,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "A questão aborda a figura e as prerrogativas do assistente de acusação no processo penal."
+    },
+    {
+      "id": "Q0347",
+      "fora": false,
+      "tema_central_id": 5172,
+      "extras_ids": [
+        5230,
+        5069
+      ],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": true,
+      "confianca": 0.8,
+      "motivo": "A questão é interdisciplinar, abordando princípios, excludentes de ilicitude e concurso de crimes."
+    },
+    {
+      "id": "Q0348",
+      "fora": false,
+      "tema_central_id": 5093,
+      "extras_ids": [
+        5182
+      ],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.9,
+      "motivo": "Trata do crime de corrupção ativa em transação comercial internacional e sua aplicação extraterritorial."
+    },
+    {
+      "id": "Q0349",
+      "fora": false,
+      "tema_central_id": 5178,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "O arrependimento posterior não se aplica a crimes cometidos com violência ou grave ameaça à pessoa."
+    },
+    {
+      "id": "Q0350",
+      "fora": false,
+      "tema_central_id": 4702,
+      "extras_ids": [],
+      "alternativa_tema_id": 0,
+      "duvida_subtemas": false,
+      "confianca": 0.95,
+      "motivo": "A questão versa sobre os aspectos doutrinários e legais do crime de lavagem de dinheiro."
+    }
+  ]
+}

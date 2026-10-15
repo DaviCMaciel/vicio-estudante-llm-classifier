@@ -1,0 +1,119 @@
+{
+ "ids": [
+  "Q0351",
+  "Q0352",
+  "Q0353",
+  "Q0354",
+  "Q0355",
+  "Q0356",
+  "Q0357",
+  "Q0358",
+  "Q0359"
+ ],
+ "itens": [
+  {
+   "id": "Q0351",
+   "fora": false,
+   "tema_central_id": 5118,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A falsificação de cartão de crédito é tipificada como falsificação de documento particular, conforme o artigo 298 do Código Penal."
+  },
+  {
+   "id": "Q0352",
+   "fora": false,
+   "tema_central_id": 5513,
+   "extras_ids": [
+    5516
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.9,
+   "motivo": "A questão aborda princípios recursais e regras de admissibilidade, com foco no efeito extensivo dos recursos no processo penal."
+  },
+  {
+   "id": "Q0353",
+   "fora": false,
+   "tema_central_id": 5188,
+   "extras_ids": [
+    5186
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão trata da prescrição da pretensão punitiva e a vedação jurisprudencial à prescrição em perspectiva."
+  },
+  {
+   "id": "Q0354",
+   "fora": false,
+   "tema_central_id": 5220,
+   "extras_ids": [
+    5226,
+    5227,
+    5072
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": true,
+   "confianca": 0.85,
+   "motivo": "A questão aborda diversos institutos da teoria do crime, como nexo causal, imputação objetiva, tipicidade e autoria."
+  },
+  {
+   "id": "Q0355",
+   "fora": false,
+   "tema_central_id": 4708,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão versa sobre a recente decisão do STF acerca da descriminalização do porte de maconha para consumo pessoal."
+  },
+  {
+   "id": "Q0356",
+   "fora": false,
+   "tema_central_id": 5066,
+   "extras_ids": [
+    5067,
+    5068,
+    5070
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": true,
+   "confianca": 0.95,
+   "motivo": "A questão exige o conhecimento das regras de concurso material, formal e aplicação da pena de multa."
+  },
+  {
+   "id": "Q0357",
+   "fora": false,
+   "tema_central_id": 5135,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "O crime de boicotagem violenta está previsto no artigo 198 do Código Penal, dentro dos crimes contra a organização do trabalho."
+  },
+  {
+   "id": "Q0358",
+   "fora": false,
+   "tema_central_id": 5133,
+   "extras_ids": [],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A invasão de dispositivo informático é crime previsto no artigo 154-A do Código Penal."
+  },
+  {
+   "id": "Q0359",
+   "fora": false,
+   "tema_central_id": 4701,
+   "extras_ids": [
+    4696
+   ],
+   "alternativa_tema_id": 0,
+   "duvida_subtemas": false,
+   "confianca": 0.95,
+   "motivo": "A questão trata da aplicação da Lei 9.099/95 em crimes contra idosos e a vedação de medidas despenalizadoras pelo STF."
+  }
+ ]
+}
