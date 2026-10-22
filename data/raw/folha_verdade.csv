@@ -1,0 +1,101 @@
+id,tema_central_id,tema_central_caminho,extras_ids,fora_da_taxonomia
+Q0002,,,,1
+Q0003,5560,Processo Penal > Recursos em Espécies,5562,0
+Q0005,5199,Penal > Teoria da Pena,,0
+Q0012,5562,Processo Penal > Recursos em Espécies > Apelação,4701;5569,0
+Q0017,,,,1
+Q0018,4701,Direito Penal - Legislação Especial > Juizado Especial Criminal,5540,0
+Q0023,5524,Processo Penal > Procedimento do Tribunal do Júri,,0
+Q0028,5527,"Processo Penal > Procedimento do Tribunal do Júri > Impronúncia, Desclassificação, Absolvição Sumária e Pronúncia",5526,0
+Q0031,4385,Criminologia > Teorias Sociológicas Explicativas da Criminalidade,4387;4388,0
+Q0034,5477,Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus,5590;5594,0
+Q0035,4706,Direito Penal - Legislação Especial > Terrorismo,,0
+Q0039,,,,1
+Q0040,5562,Processo Penal > Recursos em Espécies > Apelação,5524;5529,0
+Q0041,5184,Penal > Medida de Segurança,,0
+Q0043,,,,1
+Q0049,5152,"Penal > Dos Crimes Contra a Vida > Induzimento, Instigação ou Auxílio ao Suicídio",5149,0
+Q0052,4703,Direito Penal - Legislação Especial > Lei de Execução Penal,,0
+Q0057,5175,Penal > Iter Criminis,,0
+Q0058,4389,Criminologia > Vitimologia,4377,0
+Q0060,5087,Penal > Dos Crimes Contra a Administração Pública,5093,0
+Q0061,4703,Direito Penal - Legislação Especial > Lei de Execução Penal,,0
+Q0066,4371,Criminologia > Etapas Evolutivas e Escolas Criminológicas,4373,0
+Q0067,5091,Penal > Dos Crimes Contra a Administração Pública > Concussão e Excesso de Exação,,0
+Q0068,5117,Penal > Dos Crimes Contra a Fé Pública e de Falsidade Documental > Dos Crimes contra a Fé Pública,5119;5096,0
+Q0077,5183,Penal > Lei Penal no Tempo e no Espaço > Conflito Aparente de Normas,,0
+Q0079,5580,Processo Penal > Sistemas e Princípios Processuais Penais,,0
+Q0080,4368,Criminologia > Criminologia no Estado Democrático de Direito,,0
+Q0086,5092,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,,0
+Q0087,,,,1
+Q0090,5530,Processo Penal > Procedimento Ordinário,,0
+Q0091,4703,Direito Penal - Legislação Especial > Lei de Execução Penal,,0
+Q0099,5100,"Penal > Dos Crimes Contra a Administração Pública > Resistência, Desobediência e Desacato",,0
+Q0103,5478,Processo Penal > Ações Autônomas de Impugnação > Revisão Criminal,,0
+Q0106,5165,Penal > Dos Crimes Contra o Patrimônio > Apropriação indébita,5166,0
+Q0110,5480,Processo Penal > Competência,,0
+Q0111,4371,Criminologia > Etapas Evolutivas e Escolas Criminológicas,,0
+Q0115,4388,Criminologia > Teorias Sociológicas Explicativas da Criminalidade > Teorias Criminológicas em Espécie,4385,0
+Q0117,4384,Criminologia > Teorias Legitimidoras da Pena,,0
+Q0124,4384,Criminologia > Teorias Legitimidoras da Pena,,0
+Q0134,5092,Penal > Dos Crimes Contra a Administração Pública > Corrupção Passiva,,0
+Q0137,5498,Processo Penal > Inquérito Policial,,0
+Q0138,6734,Processo Penal > Lei de Execução Penal,5205,0
+Q0139,5211,Penal > Teoria do Crime: Culpabilidade,,0
+Q0144,5524,Processo Penal > Procedimento do Tribunal do Júri,5529;5562,0
+Q0147,5498,Processo Penal > Inquérito Policial,,0
+Q0150,4708,Direito Penal - Legislação Especial > Tráfico de Drogas,,0
+Q0160,5203,Penal > Teoria da Pena > Segunda Fase da Dosimetria: Agravantes e Atenuantes,5201;5205,0
+Q0167,5524,Processo Penal > Procedimento do Tribunal do Júri,,0
+Q0169,5492,"Processo Penal > Das Questões e Processos Incidentes > Exceção de Suspeição, de Impedimento ou de Incompatibilidade",,0
+Q0179,4368,Criminologia > Criminologia no Estado Democrático de Direito,,0
+Q0186,5202,Penal > Teoria da Pena > Primeira Fase da Dosimetria: Circunstâncias Judiciais,,0
+Q0188,5228,Penal > Teoria do Crime: Ilicitude,5233,0
+Q0191,5560,Processo Penal > Recursos em Espécies,,0
+Q0194,5087,Penal > Dos Crimes Contra a Administração Pública,5076,0
+Q0201,5102,Penal > Dos Crimes Contra a Dignidade Sexual,5103,0
+Q0202,5224,Penal > Teoria do Crime: Fato Típico > Erro de Tipo,,0
+Q0208,5072,Penal > Concurso de Pessoas > Autores e Partícipes,,0
+Q0215,5201,Penal > Teoria da Pena > Penas Privativas de Liberdade,,0
+Q0216,4701,Direito Penal - Legislação Especial > Juizado Especial Criminal,,0
+Q0221,5199,Penal > Teoria da Pena,5184;5201;5203,0
+Q0226,5544,Processo Penal > Provas em Espécies > Cadeia de Custódia,,0
+Q0230,5211,Penal > Teoria do Crime: Culpabilidade,5214,0
+Q0231,5224,Penal > Teoria do Crime: Fato Típico > Erro de Tipo,,0
+Q0240,5498,Processo Penal > Inquérito Policial,5473,0
+Q0244,5087,Penal > Dos Crimes Contra a Administração Pública,,0
+Q0245,5185,Penal > Prescrição,,0
+Q0246,5527,"Processo Penal > Procedimento do Tribunal do Júri > Impronúncia, Desclassificação, Absolvição Sumária e Pronúncia",,0
+Q0249,5492,"Processo Penal > Das Questões e Processos Incidentes > Exceção de Suspeição, de Impedimento ou de Incompatibilidade",,0
+Q0251,5191,Penal > Punibilidade,5185;5193,0
+Q0252,,,,1
+Q0253,4371,Criminologia > Etapas Evolutivas e Escolas Criminológicas,4372,0
+Q0259,5172,Penal > Introdução ao Estudo do Direito Penal > Princípios do Direito Penal,5164,0
+Q0265,5185,Penal > Prescrição,5066,0
+Q0274,5177,Penal > Iter Criminis > Crime Consumado e Tentado,5160,0
+Q0275,4701,Direito Penal - Legislação Especial > Juizado Especial Criminal,5539,0
+Q0276,5554,Processo Penal > Provas em Espécies > Busca e Apreensão,5543,0
+Q0277,4696,Direito Penal - Legislação Especial > Estaturo de Idoso - Crimes,,0
+Q0279,5185,Penal > Prescrição,5178,0
+Q0286,5202,Penal > Teoria da Pena > Primeira Fase da Dosimetria: Circunstâncias Judiciais,5203;5204,0
+Q0290,4701,Direito Penal - Legislação Especial > Juizado Especial Criminal,,0
+Q0291,,,,1
+Q0303,,,,1
+Q0304,4701,Direito Penal - Legislação Especial > Juizado Especial Criminal,5541;5539,0
+Q0308,5501,Processo Penal > Inquérito Policial > Conclusão e Arquivamento do Inquérito Policial,,0
+Q0311,5488,Processo Penal > Comunicação dos Atos Processuais > Citação e Contagem dos Prazos,,0
+Q0313,5209,Penal > Teoria da Pena > Efeitos da Condenação Penais e Extrapenais,,0
+Q0314,5477,Processo Penal > Ações Autônomas de Impugnação > Habeas Corpus,,0
+Q0315,5185,Penal > Prescrição,5187,0
+Q0316,5224,Penal > Teoria do Crime: Fato Típico > Erro de Tipo,,0
+Q0319,5073,"Penal > Concurso de Pessoas > Autoria Mediata, Colateral e Coautoria",,0
+Q0320,5550,Processo Penal > Provas em Espécies > Prova Testemunhal,,0
+Q0323,5595,Processo Penal > Teoria Geral das Provas > Princípios Relativos à Prova Penal,,0
+Q0324,4703,Direito Penal - Legislação Especial > Lei de Execução Penal,4686;6734,0
+Q0325,5473,Processo Penal > Ação Penal > Denúncia,4704;5494;5541,0
+Q0336,5159,Penal > Dos Crimes Contra o Patrimônio > Furto,5177,0
+Q0338,5590,Processo Penal > Teoria Geral das Provas,,0
+Q0339,5572,Processo Penal > Sentença Penal,,0
+Q0341,5157,Penal > Dos Crimes Contra o Patrimônio,5068,0
+Q0345,5103,Penal > Dos Crimes Contra a Dignidade Sexual > Estupro e Estupro de Vulnerável,,0
+Q0356,5066,Penal > Concurso de Crimes,5070,0

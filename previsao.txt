@@ -1,0 +1,15 @@
+precisao_prevista: 0.85
+precisao_intervalo: 0.78-0.92
+cobertura_prevista: 0.06
+cobertura_intervalo: 0.06-0.21
+
+Como os números foram obtidos (nenhum foi digitado à mão):
+- A folha-verdade tem 100 questões. Cada uma recebeu a previsão do sistema sem usar o próprio rótulo (kNN leave-one-out).
+  Acerto no nível 1 da árvore, publicando tudo: 0.53.
+- O limiar de publicação (confiança bruta >= 0.991) é o maior conjunto, com no mínimo 8 questões, cuja precisão na folha é >= 1.00.
+  O alvo interno (1.00) foi o menor entre [0.95, 0.97, 1.0] cuja precisão FORA DA AMOSTRA bateu 0.95 (nenhum bateu: usei o mais conservador, e a precisão prevista fica abaixo de 0.95).
+- Precisão prevista = validação cruzada aninhada: 300 divisões meia-meia da folha; o limiar é escolhido em uma metade e medido na outra.
+  Valor pontual = acertos/publicadas somados nas divisões; intervalo = percentis 10-90 das divisões. Wilson 90% do conjunto publicado na folha (in-sample, otimista): 0.80-1.00.
+- Cobertura prevista = fração das 559 questões fora da folha que o sistema publica com o limiar final. Intervalo = o mesmo cálculo com os limiares escolhidos nas divisões.
+- Cuidados: a amostra é pequena (n=100), então os intervalos são largos; a folha também ajustou pesos/dicionário, então há otimismo residual.
+  Erros de 'fora' publicados contam como erro. Classes de nível 2 não são distinguidas: o sistema publica no tema (nível 1), que conta como certo se a questão está no tema ou em um filho.
